@@ -1,9 +1,6 @@
-
-
---- 
-cssclasses: 
-  - academia 
-  academia-rounded ---
+---
+   cssclass: purpleRed, wideTable, fixedFc
+---
 
 | Title                      | Author         | Year | Review | Comment |
 | -------------------------- | -------------- | ---- | ------ | ------- |
