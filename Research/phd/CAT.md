@@ -6,4 +6,4 @@
 - [Abstract](./abstract.md)
 - [Motivation](./motivation.md)
 - [Background](background.md)
-- [State of the Art](sota.md)
+- [State of the Art](State%20of%20the%20Art.md)
