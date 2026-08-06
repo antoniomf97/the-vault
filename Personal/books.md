@@ -1,9 +1,9 @@
 
 
----
-cssclass: academia, academia-rounded
----
-
+--- 
+cssclasses: 
+  - academia 
+  academia-rounded ---
 
 | Title                      | Author         | Year | Review | Comment |
 | -------------------------- | -------------- | ---- | ------ | ------- |
