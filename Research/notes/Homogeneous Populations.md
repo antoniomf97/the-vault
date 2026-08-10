@@ -2,7 +2,7 @@
 
 > [!Definition]
 > 
-> A population is said to be homogeneous when all individuals do not necessarily share the same proprieties. In other words, there are different [[Species|species]].
-> Can also be defined **polymorphic**.
+> A population is said to be homogeneous when all individuals share the same proprieties. In other words, there is one [[Species|specie]].
+> Can also be defined **monomorphic**.
 
 
