@@ -8,8 +8,8 @@ In evolutionary game theory, researchers have been studying the cooperative effe
 
 Whereas most works on cooperation dynamics focus on social learning, assuming individuals are purely rational [ ], many other works have been done in exploring different types of reasoning. While some works focus on incorporating emotions [ ], such as guilt, anger or regret, others try to focus more on the cognitive side exploring, for instance, different update rules, from imitation biases, such as conformism [ ] or prestige [ ], through individual reinforcement based on aspiration levels [ ], to more deliberative mechanisms, such as counterfactual thinking [ ] and theory of mind [ ].
 
-While some works have been done in exploring the impact of AI in society, as a part of a hybrid human-AI society, they are very limited. Agent-based simulations, multi-agent RL, behavioral experiments, all show greater limitations (explain limitations here...(re-do paragraph)). While EGT provides a 
-these works are widely unexplored with an EGT approach.
+While some works have been done in exploring the impact of AI in society, as a part of a hybrid human-AI society, they are very limited. Agent-based simulations, multi-agent RL, behavioral experiments, all show greater limitations (explain limitations here...(re-do paragraph)). While EGT provides a simple framework that helps exploring the cooperative effects of having different types of agents, reasoning under different cognitive profiles, hybrid human-AI societies are widely unexplored within an EGT approach. Some works have been done, either generally opinions [ ] or very specific situations [Samaritan] but a more general and profound study is lacking.
+
 ## What none of this addresses is...
 
 While these may provide great insights by comparing social learning to other update rules, they are typically done under a controlled and extremely simple environment, very far from reality. In most cases, populations are considered well-mixed and homogeneous, and in most cases only one game (social situation) is played.
