@@ -1,4 +1,4 @@
-#EGT 
+#egt 
 
 > [!Definition]
 > 
