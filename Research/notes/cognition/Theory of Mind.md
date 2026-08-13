@@ -2,5 +2,5 @@
 
 > [!Definition]
 > 
-> Theory of Mind (ToM) is a cognitive ability that allows individuals to model, recognize that other people 
+> Theory of Mind (ToM) is a deliberative cognitive ability that allows individuals to recognize, model, and predict other people's thoughts, beliefs, desires, and feelings that are different from your own.
 
