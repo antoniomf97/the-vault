@@ -15,9 +15,11 @@ While some works have been done in exploring the impact of AI in society, as a p
 
 ## What none of this addresses is...
 
-==The most striking gap is the near-total absence of work examining how genuine AI cognitive capabilities—as opposed to simple hard-coded strategies—alter cooperative dynamics in hybrid populations. Evolutionary game models overwhelmingly use fixed-behavior agents as proxies for AI, explicitly abstracting away cognitive complexity==
-
 The biggest gap in the field of AI cognition in hybrid populations is the complete absence of works that examine how AI cognitive capabilities alter cooperative dynamics. Evolutionary game models overwhelmingly use fixed-behavior agents as proxies for AI, explicitly abstracting away cognitive complexity. 
+
+When considering cognitive complexity, one ought to explore complex environments as well, so the effects of such rich cognitive processes become visible and identifiable.
+
+Not only that, but most works consider an AI just as another evolutionary individual, rather than assuming a different species, with distinct motivations, different cognitive profile and unique capabilities, when compared to humans. This overwhelmingly simplifies 
 
 
 
