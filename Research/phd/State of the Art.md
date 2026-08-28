@@ -21,6 +21,9 @@ Not only that, but most works consider an AI just as another evolutionary indivi
 
 Moreover, when considering cognitive complexity, one ought to explore complex environments as well, so the effects of such rich cognitive processes become visible and identifiable. In hybrid human-AI populations, specifically, we must consider the complex populational structure, rather than assuming the typical homogenous well-mixed populations, highly considered in evolutionary game theory. While some works have been done now assuming heterogeneity ([[vasconcelosClimatePoliciesWealth2014|Vasconcelos2014]], [[kimuraCoevolutionaryNetworksHomophily2008|Kimura2008]][[vasconcelosClimatePoliciesWealth2014|]], they only consider a factor of homophily, while heterophily (very relevant in current AI companions for instance) remains highly unexplored.
 
+As for the human part, a cognitive profiling is highly unexplored. Agents proxies of humans are mostly considered to have a single fixed learning rule, while in reality humans encompass different ones depending on the social situation, environment and other factors. 
+A cognitive profile empirically grounded would provided a more realistic proxying to humans, hence more accurate results.
+
 While these may provide great insights by comparing social learning to other update rules, they are typically done under a controlled and extremely simple environment, very far from reality. In most cases, populations are considered well-mixed and homogeneous, and in most cases only one game (social situation) is played.
 
 Reality encompasses a wide range of social situations, thus considering different games brings extra layers of complexity to the environment, slightly closing the gap to become more realistic. While some works have been done now assuming heterogeneity ), they only consider a factor of homophily, while heterophily (very relevant in current AI companions for instance) remains highly unexplored.
