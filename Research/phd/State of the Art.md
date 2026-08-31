@@ -6,7 +6,7 @@ The current state of the art on cooperation in hybrid human-AI societies has est
 
 In fact, [[guoFacilitatingCooperationHumanagent2023|Guo2023]] suggests that introducing autonomous agents into human populations can either facilitate or inhibit cooperative action depending on the social dilemma structure. For instance, while AI agents have limited impact in the prisoner's dilemma, it enables cooperation in coordination games, such as the stag hunt, and, paradoxically, promotes complete dominance of cooperation in co-existence games, such as the snowdrift game.
 
-
+Although interesting, thes
 
 In evolutionary game theory, researchers have been studying the cooperative effects, not just to generally unravel the cooperation conundrum [ ], but also to understand some specific social mechanics, such as delegation [ ], fairness [ ], and others [ ]. In most cases, these works consider environments with homogeneous and well-mixed populations of rational agents (typically aliases for humans), and .
 
