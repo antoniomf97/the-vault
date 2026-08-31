@@ -4,7 +4,7 @@
 
 The current state of the art on cooperation in hybrid human-AI societies has established that artificial agents can significantly impact human cooperative dynamics, even with simple fixed behaviors ([[bookerDiscriminatorySamaritanWhich2023|Booker2023]]). However, these effects are highly contingent on game structure, agent design, population structure and cognitive alignment. 
 
-In fact, a core finding is that introducing autonomous agents into human populations can either facilitate or inhibit cooperative action depending on the social dilemma structure.
+In fact, [[guoFacilitatingCooperationHumanagent2023|Guo2023]] suggests that introducing autonomous agents into human populations can either facilitate or inhibit cooperative action depending on the social dilemma structure. For instance, while AI agents have limited impact in the prisoner's dilemma, it enables cooperation in coordination games, such as the stag hunt, and, paradoxically, promotes complete dominance of cooperation in co-existence games, such as the snowdrift game.
 
 
 
