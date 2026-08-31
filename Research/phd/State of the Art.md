@@ -2,7 +2,7 @@
 
 ## What the field has established
 
-
+The current state of the art on cooperation in hybrid human-AI societies has established that artificial agents can significantly alter human cooperative dynamics, even with simple fixed behaviors ([[bookerDiscriminatorySamaritanWhich2023|Booker2023]]). 
 
 
 
