@@ -4,8 +4,12 @@
 
 The current state of the art on cooperation in hybrid human-AI societies has established that artificial agents can significantly impact human cooperative dynamics, even with simple fixed behaviors [[bookerDiscriminatorySamaritanWhich2023|Booker2023]], [[hanSocialPhysicsAge2026|Han2026]]. However, these effects are highly contingent on game structure, agent design, population structure and cognitive alignment. 
 
-In fact, some findings suggest that introducing autonomous agents (AAs) into human populations can either facilitate or inhibit cooperative action depending on the social dilemma structure. For instance, while AI agents have limited impact in the prisoner's dilemma, it enables cooperation in coordination games, such as the stag hunt, and, paradoxically, promotes complete dominance of cooperation in co-existence games, such as the snowdrift game. Moreover, the proportion of AAs to humans play a critical role on cooperation, as a significant increase in the number of agents can lead to a cooperation collapse [[guoFacilitatingCooperationHumanagent2023|Guo2023]].
+In fact, some findings suggest that introducing autonomous agents (AAs) into human populations can either facilitate or inhibit cooperative action depending on the social dilemma structure. For instance, while AI agents have limited impact in the prisoner's dilemma, it enables cooperation in coordination games, such as the stag hunt, and, paradoxically, promotes complete dominance of cooperation in co-existence games, such as the snowdrift game. 
 
+On other hand, it is shown that, in optional prisoner’s dilemma game, AAs operating under unconditionally cooperative bots induce the emergence of cooperation, in both well-mixed populations and a regular lattice under weak imitation scenarios [[sharmaSmallBotsBig2023|Sharma2023]]. 
+
+
+Moreover, the proportion of AAs to humans play a critical role on cooperation, as a significant increase in the number of agents can lead to a cooperation collapse [[guoFacilitatingCooperationHumanagent2023|Guo2023]].
 
 
 
