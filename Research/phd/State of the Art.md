@@ -2,10 +2,11 @@
 
 ## What the field has established
 
+
+
+
+
 In evolutionary game theory, researchers have been studying the cooperative effects, not just to generally unravel the cooperation conundrum [ ], but also to understand some specific social mechanics, such as delegation [ ], fairness [ ], and others [ ]. In most cases, these works consider environments with homogeneous and well-mixed populations of rational agents (typically aliases for humans), and .
-
-
-This works have
 
 ## What has been tried on cognition
 
