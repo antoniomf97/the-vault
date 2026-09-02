@@ -2,7 +2,7 @@
 
 ## What the field has established
 
-The current state of the art on cooperation in hybrid human-AI societies has established that artificial agents can significantly impact human cooperative dynamics, even with simple fixed behaviors [[bookerDiscriminatorySamaritanWhich2023|Booker2023]], [[hanSocialPhysicsAge2026|Han2026]]. However, these effects are highly contingent on game structure, agent design, population structure and cognitive alignment. 
+The current state of the art on cooperation in hybrid human-AI societies has established that artificial agents can significantly impact human cooperative dynamics, even with simple fixed behaviors [[bookerDiscriminatorySamaritanWhich2023|Booker2023]]. However, these effects are highly contingent on game structure, agent design, population structure and cognitive alignment. 
 
 In fact, some findings suggest that introducing autonomous agents (AAs) into human populations can either facilitate or inhibit cooperative action depending on the social dilemma structure. For instance, while AI agents have limited impact in the prisoner's dilemma, it enables cooperation in coordination games, such as the stag hunt, and, paradoxically, promotes complete dominance of cooperation in co-existence games, such as the snowdrift game. Moreover, the proportion of AAs to humans play a critical role on cooperation, as a significant increase in the number of agents can lead to a cooperation collapse [[guoFacilitatingCooperationHumanagent2023|Guo2023]].
 
@@ -12,6 +12,8 @@ In another design, it is shown that, in optional prisoner’s dilemma game, AAs 
 
 <!--- (In evolutionary game theory, researchers have been studying the cooperative effects, not just to generally unravel the cooperation conundrum [ ], but also to understand some specific social mechanics, such as delegation [ ], fairness [ ], and others [ ]. In most cases, these works consider environments with homogeneous and well-mixed populations of rational agents (typically aliases for humans), and .)
 -->
+
+<!--- [[hanSocialPhysicsAge2026|Han2026]] for the gap -->
 
 ## What has been tried on cognition
 
