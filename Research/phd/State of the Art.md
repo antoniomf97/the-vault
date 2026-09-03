@@ -6,15 +6,13 @@ The understanding of the cooperation impact of AI Cognition in hybrid societies 
 
 The current state of the art suggests that artificial agents can significantly impact the cooperative dynamics of human societies, even when employing fixed behaviors [[bookerDiscriminatorySamaritanWhich2023|Booker2023]], [[sharmaSmallBotsBig2023|Sharma2023]], [[guoFacilitatingCooperationHumanagent2023|Guo2023]]. However, these effects are highly contingent on the game structure, agent design, population structure and cognitive alignment. For instance, a core finding is that introducing autonomous agents (AAs) into human populations can facilitate or inhibit cooperation depending on the social dilemma structure. Cooperative AAs have limited impact in prisoner's dilemma games but facilitate cooperation in stag hunt games, while defective AAs paradoxically promote complete dominance of cooperation in snowdrift games [[guoFacilitatingCooperationHumanagent2023|Guo2023]]. 
 
-While these theoretical findings may provide powerful insights, they are bounded to mathematical models in controlled environments that are yet to be empirically validated. While most behavioral studies bridge these models to reality, most experiments 
+While these theoretical findings may provide powerful insights, they are bounded to mathematical models in controlled environments that are yet to be empirically validated. While most behavioral studies bridge these models to reality, most experiments assume human-AI pairs, omitting the group (and large group) processes that generate emergent norm expectations [[mutznerBoundedNormativeEquivalence2026|Mutzner2026]].
 
 
 
 <!--- In fact, some findings suggest that introducing autonomous agents (AAs) into human populations can either facilitate or inhibit cooperative action depending on the social dilemma structure. For instance, while AI agents have limited impact in the prisoner's dilemma, it enables cooperation in coordination games, such as the stag hunt, and, paradoxically, promotes complete dominance of cooperation in co-existence games, such as the snowdrift game. Moreover, the proportion of AAs to humans play a critical role on cooperation, as a significant increase in the number of agents can lead to a cooperation collapse .
 
 In another design, it is shown that, in optional prisoner’s dilemma game, AAs operating under unconditionally cooperative bots induce the emergence of cooperation, in both well-mixed populations and a regular lattice under weak imitation scenarios. However, under different circumstances, such as strong imitation, the results vary significantly. These findings emphasize the significance of bot design in promoting cooperation and offer useful insights for encouraging cooperation in real-world scenarios . -->
-
-
 
 <!--- (In evolutionary game theory, researchers have been studying the cooperative effects, not just to generally unravel the cooperation conundrum [ ], but also to understand some specific social mechanics, such as delegation [ ], fairness [ ], and others [ ]. In most cases, these works consider environments with homogeneous and well-mixed populations of rational agents (typically aliases for humans), and .)
 -->
