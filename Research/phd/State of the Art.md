@@ -2,8 +2,8 @@
 
 ## What the field has established
 
-The understanding of the cooperative impact of AI Cognition in hybrid societies of Humans and autonomous agents (AAs) is still on its embryonic stage. Spanning the fields 
-Only in the past
+The understanding of the cooperation impact of AI Cognition in hybrid societies of Humans and autonomous agents (AAs) is still on its embryonic stage. Only in the past few years researchers have started to contribute to the literature, that has now span the fields of evolutionary game theory, behavioral experiments and organizational theory. However, it remains limited.
+
 
 
 The current state of the art on cooperation in hybrid human-AI societies has established that artificial agents can significantly impact human cooperative dynamics, even with simple fixed behaviors [[bookerDiscriminatorySamaritanWhich2023|Booker2023]]. However, these effects are highly contingent on game structure, agent design, population structure and cognitive alignment. 
