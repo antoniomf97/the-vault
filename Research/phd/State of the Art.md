@@ -6,7 +6,7 @@ The understanding of the cooperation impact of AI Cognition in hybrid societies 
 
 The current state of the art suggests that artificial agents can significantly impact the cooperative dynamics of human societies, even when employing fixed behaviors [[bookerDiscriminatorySamaritanWhich2023|Booker2023]], [[sharmaSmallBotsBig2023|Sharma2023]], [[guoFacilitatingCooperationHumanagent2023|Guo2023]]. However, these effects are highly contingent on the game structure, agent design, population structure and cognitive alignment. For instance, a core finding is that introducing autonomous agents (AAs) into human populations can facilitate or inhibit cooperation depending on the social dilemma structure. Cooperative AAs have limited impact in prisoner's dilemma games but facilitate cooperation in stag hunt games, while defective AAs paradoxically promote complete dominance of cooperation in snowdrift games [[guoFacilitatingCooperationHumanagent2023|Guo2023]]. 
 
-While these theoretical findings may provide powerful insights, they are bounded to mathematical 
+While these theoretical findings may provide powerful insights, they are bounded to mathematical models in controlled environments that are yet to be empirically validated. While most behavioral studies bridge these models to reality, most experiments 
 
 
 
