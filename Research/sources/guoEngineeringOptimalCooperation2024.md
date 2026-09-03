@@ -23,9 +23,9 @@ aliases:
 > %% begin notes %%
 > Write notes here!
 > 
-> %% end notes %%
+> > %% end notes %%
 
 > [!EXAMPLE]- Annotations
 > 
 
-%% Import Date: 2026-09-03T12:24:20.996+01:00 %%
+%% Import Date: 2026-09-03T17:58:45.786+01:00 %%
