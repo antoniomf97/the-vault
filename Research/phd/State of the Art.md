@@ -12,10 +12,10 @@ Cooperative AAs have limited impact in prisoner's dilemma games but facilitate c
 
 
 Population structure introduces further dependencies, namely proportionality and infrastructure. 
-It has been established that the proportion of AAs to humans in a hybrid society play a critical role on cooperation, as a significant increase in the number of agents can lead to a cooperation collapse [[guoFacilitatingCooperationHumanagent2023|Guo2023]].
+It has been suggested that the proportion of AAs to humans in a hybrid society play a critical role on cooperation, as a significant increase in the number of agents can lead to a cooperation collapse [[guoFacilitatingCooperationHumanagent2023|Guo2023]].
 
 
-Agent behavioral design comes as one of the most critical 
+Agent behavioral design comes as one of the most critical attributes in what regards the cooperative impact of AI. 
 
 
 of bot design in promoting cooperation and offer useful insights for encouraging cooperation in real-world scenarios
@@ -26,8 +26,6 @@ of bot design in promoting cooperation and offer useful insights for encouraging
 
 In another design, it is shown that, in optional prisoner’s dilemma game, AAs operating under unconditionally cooperative bots induce the emergence of cooperation, in both well-mixed populations and a regular lattice under weak imitation scenarios. However, under different circumstances, such as strong imitation, the results vary significantly. These findings emphasize the significance of bot design in promoting cooperation and offer useful insights for encouraging cooperation in real-world scenarios . -->
 
-<!--- (In evolutionary game theory, researchers have been studying the cooperative effects, not just to generally unravel the cooperation conundrum [ ], but also to understand some specific social mechanics, such as delegation [ ], fairness [ ], and others [ ]. In most cases, these works consider environments with homogeneous and well-mixed populations of rational agents (typically aliases for humans), and .)
--->
 
 <!--- [[hanSocialPhysicsAge2026|Han2026]] for the gap -->
 
