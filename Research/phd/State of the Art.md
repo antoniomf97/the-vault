@@ -11,7 +11,7 @@ Starting with the dynamics structure, a core finding is that introducing autonom
 Cooperative AAs have limited impact in prisoner's dilemma games but facilitate cooperation in stag hunt games, while defective AAs paradoxically promote complete dominance of cooperation in snowdrift games [[guoFacilitatingCooperationHumanagent2023|Guo2023]].
 Another important finding is that the proportion of AAs to humans play a critical role on cooperation, as a significant increase in the number of agents can lead to a cooperation collapse [[guoFacilitatingCooperationHumanagent2023|Guo2023]].
 
-Population structure is also extremely relevant: studies have shown that 
+Population structure introduces further dependencies: studies have shown 
 
 
 Agent behavioral design comes as one of the most critical 
