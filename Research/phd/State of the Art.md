@@ -12,9 +12,9 @@ Cooperative AAs have limited impact in prisoner's dilemma games but facilitate c
 The dynamics effects depend not only on the game itself, but on the game's configurations. In a mixed spatial prisoner's dilemma environment using reinforcement learning–based machine strategies, it was shown that in low-temptation settings, machines strengthen cooperative stability, whereas in high-temptation environments, cooperation relies more on human strategies [[quanHumanMachineCooperation2026|Quan2026]].
 
 Population structure introduces further dependencies, at various levels. 
-Regarding sub-populational proportionality, it has been suggested that the proportion of AAs to humans in a hybrid society play a critical role on cooperation, for instance a significant increase in the number of agents can lead to a cooperation collapse [[guoFacilitatingCooperationHumanagent2023|Guo2023]].
+Regarding sub-populational proportionality, it has been suggested that the proportion of AAs to humans in a hybrid society play a critical role on cooperation. While increasing the number of agents can foster cooperation, beyond a certain threshold for instance a significant increase in the number of agents can lead to a cooperation collapse [[guoFacilitatingCooperationHumanagent2023|Guo2023]], [[fuOptimalIntegrationIntelligent2026|Fu2026]].
 On another level, the populational infrastructure also has a great impact on the overall cooperation dynamics, whether we consider well-mixed populations or structured networks.
-For instance, it has been established that networked populations maintain enhanced cooperation irrespective of imitation strength, while well-mixed populations require weak imitation for agents to be effective [[guoEngineeringOptimalCooperation2024|Guo2024]]
+Networked populations maintain enhanced cooperation irrespective of imitation strength, while well-mixed populations require weak imitation for agents to be effective [[guoEngineeringOptimalCooperation2024|Guo2024]]
 
 
 Agent behavioral design comes as one of the most critical attributes in what regards the cooperative impact of AI. 
