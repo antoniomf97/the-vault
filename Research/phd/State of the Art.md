@@ -19,7 +19,7 @@ Networked populations maintain enhanced cooperation irrespective of imitation st
 Agent behavioral design comes as one of the most critical attributes that shape cooperative outcomes, depending on the embedded strategies. 
 
 
-of bot design in promoting cooperation and offer useful insights for encouraging cooperation in real-world scenarios
+
 
 
 
