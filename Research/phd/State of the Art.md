@@ -19,7 +19,7 @@ Networked populations maintain enhanced cooperation irrespective of imitation st
 Agent design comes as one of the most critical attributes in the AI impact on humans populations. The design of the [[research/notes/cognition/Cognitive Profile|cognitive profile]] of agents will dictate how AAs behave, hence shaping the cooperative outcomes of society. This topic is, however, very complex and large, and calls for a more detailed unveiling.
 Starting simple, some works have studied the effects of unconditional versus the conditional action, finding that Samaritan-AI agents (that help everyone unconditionally) promote higher cooperation than Discriminatory AI that only helps those considered worthy/cooperative, especially in slow-moving societies where change based on payoff difference is moderate (small intensities of selection) ([[sharmaSmallBotsBig2023|Sharma2023]],  [[bookerDiscriminatorySamaritanWhich2023|Booker2023]], [[zimmaroEmergenceCooperationOneshot2024|Zimmaro2024]], [[shiradoNetworkEngineeringUsing2020|Shirado2020]]).
 
-Lastly, we have cognitive evolution and alignment.
+Lastly, we have cognitive evolution.
 
 
 
