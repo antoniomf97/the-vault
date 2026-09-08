@@ -7,7 +7,7 @@
 
 > [!Definition]
 > 
-> [*mine*] Cognitive profile is a structured characterization of an individual's cognitive abilities, specifically the different types of reasoning.
+> [*mine*] A cognitive profile is the structured characterization of an agent's reasoning repertoire.
 
 
 
