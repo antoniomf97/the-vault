@@ -7,3 +7,10 @@ Moreover, when considering cognitive complexity, one ought to explore complex en
 #### Human cognitive profiling
 
 As for the human part, a cognitive profiling is highly unexplored. Agents proxies of humans are mostly considered to have a single fixed learning rule, playing a single game, while in reality humans encompass different ones depending on the social situation, environment, and other factors . Moreover, socials situations can be very distinct hence it becomes important to consider different games that represent different situations. However, the oversimplicity that moved us away from realistic proxying can be dethroned when considering a more variable social richness (considering multiple games) and a cognitive profile empirically grounded.
+
+
+
+
+#### Cultural context
+
+There is a big asymmetry between humans and AI: humans acquiring culture locally from neighbours, AI globally from a training corpus.
