@@ -22,7 +22,9 @@ Agent design comes as one of the most critical attributes in the AI impact on hu
 2 - 
 
 
+Evolução condicionada ou nao?
 
+1. AI and culture, should they maintain their culture or learn?
 
 
 
