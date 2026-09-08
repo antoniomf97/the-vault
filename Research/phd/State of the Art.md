@@ -5,7 +5,7 @@
 Although the understanding of the cooperation impact of AI Cognition in hybrid societies of Humans and autonomous agents (AAs) has seen a significant progress, it is still on its embryonic stage. Only in the past few years researchers have started to contribute to the literature, that has now span the fields of evolutionary game theory, organizational theory and behavioral experiments. 
 
 The current state of the art suggests that artificial agents can significantly impact the cooperative dynamics of human societies, even when employing fixed behaviors [[bookerDiscriminatorySamaritanWhich2023|Booker2023]], [[sharmaSmallBotsBig2023|Sharma2023]], [[guoFacilitatingCooperationHumanagent2023|Guo2023]], [[terruchaArtCompensationHow2024|Terrucha2024]], [[quanHumanMachineCooperation2026|Quan2026]]. 
-However, the direction and magnitude of these effects are highly contingent on the dynamics structure, population structure, agent behavioral design, and the cognitive evolution over time. Let's look at some in particular.
+However, the direction and magnitude of these effects are highly contingent on the dynamics structure, population structure, agent design, and the cognitive evolution over time. Let's look at some in particular.
 
 Starting with the dynamics structure, a core finding is that introducing autonomous agents (AAs) into human populations can facilitate or inhibit cooperation depending on the social dilemma structure. 
 Cooperative AAs have limited impact in prisoner's dilemma games but facilitate cooperation in stag hunt games, while defective AAs paradoxically promote complete dominance of cooperation in snowdrift games [[guoFacilitatingCooperationHumanagent2023|Guo2023]].
@@ -18,7 +18,8 @@ Networked populations maintain enhanced cooperation irrespective of imitation st
 
 Agent design comes as one of the most critical attributes in the AI impact on humans populations. The design of the [[research/notes/cognition/Cognitive Profile|cognitive profile]] of agents  will dictate and shape the cooperative outcomes of society.   
 
-
+1 - Unconditional actions
+2 - 
 
 
 
