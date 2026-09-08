@@ -14,3 +14,8 @@ As for the human part, a cognitive profiling is highly unexplored. Agents proxie
 #### Cultural context
 
 There is a big asymmetry between humans and AI: humans acquiring culture locally from neighbours, AI globally from a training corpus.
+
+Evolução condicionada ou nao?
+
+1. should AI maintain their culture or learn from others?
+2. AI

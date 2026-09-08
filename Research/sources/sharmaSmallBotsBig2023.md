@@ -9,7 +9,7 @@ aliases:
   - sharmaSmallBotsBig2023
 ---
 
-**Zotero PDF Link:** 
+**Zotero PDF Link:** [PDF](zotero://select/library/items/XIRTH5H2)
 **Relations:** 
 
 
@@ -23,9 +23,9 @@ aliases:
 > %% begin notes %%
 > Write notes here!
 > 
-> %% end notes %%
+> > %% end notes %%
 
 > [!EXAMPLE]- Annotations
 > 
 
-%% Import Date: 2026-08-31T17:47:05.841+01:00 %%
+%% Import Date: 2026-09-08T14:40:45.528+01:00 %%
