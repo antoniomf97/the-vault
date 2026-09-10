@@ -16,9 +16,11 @@ Regarding sub-populational proportionality, it has been suggested that the propo
 On another level, the populational infrastructure also has a great impact on the overall cooperation dynamics, whether we consider well-mixed populations or structured networks.
 Networked populations maintain enhanced cooperation irrespective of imitation strength, while well-mixed populations require weak imitation for agents to be effective [[guoEngineeringOptimalCooperation2024|Guo2024]]. Even a single bot placed at a high-degree node can foster cooperation by reshaping social connections locally [[guoFacilitatingCooperationHumanagent2023|Guo2023]], [[shiradoLocallyNoisyAutonomous2017|Shirado2017]], [[shiradoNetworkEngineeringUsing2020|Shirado2020]].
 
-Agent design comes as one of the most critical attributes in the AI impact on humans populations. The architecture of the [[research/notes/cognition/Cognitive Profile|cognitive profile]] of agents will dictate how AAs behave in the world, hence shaping the cooperative outcomes of society. In this complex topic, the literature diverges on the approach to define agent design dimensions, from more 
+Agent design comes as one of the most critical attributes in the AI impact on humans populations. The architecture of the [[research/notes/cognition/Cognitive Profile|cognitive profile]] of agents will dictate how AAs behave in the world, hence shaping the cooperative outcomes of society. In this complex topic, the literature diverges on the approach to define agent design dimensions, from more [[]]
 
 a small number of manipulable dimensions that directly influence the agent's effect on human cooperation.
+
+
 
 The first dimension is conditionality, or whether the agent's actions are dependent on its recipient behavior or not. When there's no conditionality, we fall on the sub-space of unconditional bots.
 Studies on the effects of unconditional versus the conditional action have shown that Samaritan-AI agents (that help everyone unconditionally) promote higher cooperation than Discriminatory AI that only helps those considered worthy/cooperative, especially in slow-moving societies where change based on payoff difference is moderate (small intensities of selection) ([[bookerDiscriminatorySamaritanWhich2023|Booker2023]], [[sharmaSmallBotsBig2023|Sharma2023]], [[zimmaroEmergenceCooperationOneshot2024|Zimmaro2024]], [[shiradoNetworkEngineeringUsing2020|Shirado2020]]).
