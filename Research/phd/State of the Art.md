@@ -21,7 +21,10 @@ Agent design comes as one of the most critical attributes in the AI impact on hu
 The first dimension is conditionality, or whether the agent's actions are dependent on its recipient behavior or not. When there's no conditionality, we fall on the sub-space of unconditional bots.
 Studies on the effects of unconditional versus the conditional action have shown that Samaritan-AI agents (that help everyone unconditionally) promote higher cooperation than Discriminatory AI that only helps those considered worthy/cooperative, especially in slow-moving societies where change based on payoff difference is moderate (small intensities of selection) ([[bookerDiscriminatorySamaritanWhich2023|Booker2023]], [[sharmaSmallBotsBig2023|Sharma2023]], [[zimmaroEmergenceCooperationOneshot2024|Zimmaro2024]], [[shiradoNetworkEngineeringUsing2020|Shirado2020]]).
 
-On a second dimension, we 
+For a second dimension, we  
+
+
+we consider adaptability. It's not just how 
 
 Lastly, we have cognitive evolution. Because time is the unconditional factor, the way that these populational and profiles and 
 
