@@ -16,7 +16,7 @@ Regarding sub-populational proportionality, it has been suggested that the propo
 On another level, the populational infrastructure also has a great impact on the overall cooperation dynamics, whether we consider well-mixed populations or structured networks.
 Networked populations maintain enhanced cooperation irrespective of imitation strength, while well-mixed populations require weak imitation for agents to be effective [[guoEngineeringOptimalCooperation2024|Guo2024]]. Even a single bot placed at a high-degree node can foster cooperation by reshaping social connections locally [[guoFacilitatingCooperationHumanagent2023|Guo2023]], [[shiradoLocallyNoisyAutonomous2017|Shirado2017]], [[shiradoNetworkEngineeringUsing2020|Shirado2020]].
 
-Agent design comes as one of the most critical attributes in the AI impact on humans populations. The architecture of the [[research/notes/cognition/Cognitive Profile|cognitive profile]] of agents will dictate how AAs behave in the world, hence shaping the cooperative outcomes of society. In this complex topic, the literature diverges on the approach to define agent design dimensions, from more [[]]
+Agent design comes as one of the most critical attributes in the AI impact on humans populations. The architecture of the [[research/notes/cognition/Cognitive Profile|cognitive profile]] of agents will dictate how AAs behave in the world, hence shaping the cooperative outcomes of society. In this complex topic, the literature is fragmented on the approach to define agent design dimensions, varying from more high-level conceptualization [[]]
 
 a small number of manipulable dimensions that directly influence the agent's effect on human cooperation.
 
