@@ -18,6 +18,7 @@ Networked populations maintain enhanced cooperation irrespective of imitation st
 
 Agent design comes as one of the most critical attributes in the AI impact on humans populations. The architecture of the [[research/notes/cognition/Cognitive Profile|cognitive profile]] of agents will dictate how AAs behave in the world, hence shaping the cooperative outcomes of society. In this complex topic, the literature is fragmented on the approach to define agent design dimensions, depending on the focus
 
+
 varying from more high-level conceptualization [[]]
 
 a small number of manipulable dimensions that directly influence the agent's effect on human cooperation.
