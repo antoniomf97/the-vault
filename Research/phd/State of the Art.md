@@ -38,6 +38,7 @@ While imitation (social learning) presents the most rational answer, humans ofte
 
 
 
+
 Lastly, we have cognitive evolution. Because time is the unconditional factor, the way that the population evolves over time
 
 
