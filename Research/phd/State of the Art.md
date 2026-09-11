@@ -31,7 +31,7 @@ Pro-social agents balancing their own payoffs with opponents' foster the highest
 
 
 Finally we consider the reasoning. Here we specifically discuss the architecture of the agents' [[research/notes/cognition/Cognitive Profile|cognitive profile]], i.e., how the agent's reasoning repertoire is organized. 
-While imitation (social learning) presents the most rational answer, humans are often driven by different learning rules. For instance
+While imitation (social learning) presents the most rational answer, humans are often driven by different reasoning mechanisms, as is the case of conformity 
 
 
 
