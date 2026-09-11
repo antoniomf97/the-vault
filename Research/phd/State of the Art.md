@@ -31,7 +31,12 @@ Pro-social agents balancing their own payoffs with opponents' foster the highest
 
 
 Finally we consider the reasoning. Here we specifically discuss the architecture of the agents' [[research/notes/cognition/Cognitive Profile|cognitive profile]], i.e., how the agent's reasoning repertoire is organized. 
-While imitation (social learning) presents the most rational answer, humans often regard to different reasoning mechanisms. This is the case of conformity [ ], aspiration-driven reasoning [ ], dissimilarity [ ], counterfactual thinking [ ], and theory of mind [ ]. 
+While imitation (social learning) presents the most rational answer, it is not the most frequent heuristic used by humans. Individuals often regard to different reasoning mechanisms, which is the case of conformity [ ], aspiration-driven reasoning [ ], counterfactual thinking [ ], theory of mind [ ], and others [ ]. 
+Although the usage of these different reasoning types is highly contingent on social and populational structure, their unique nature can drastically influence the cooperation outcome.
+- Result about conformism
+- result about aspiration
+- Result about counterfactual thinking
+- result about  ToM
 
 
 
