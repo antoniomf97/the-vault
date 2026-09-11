@@ -18,25 +18,26 @@ Networked populations maintain enhanced cooperation irrespective of imitation st
 
 Agent design comes as one of the most critical attributes in the AI impact on humans populations. The architecture of the [[research/notes/cognition/Cognitive Profile|cognitive profile]] of agents will dictate how AAs behave in the world, hence shaping the cooperative outcomes of society. 
 
-In this complex topic, the literature is fragmented on the approach to define agent design dimensions, depending on the focus
-
-
-varying from more high-level conceptualization [[]]
+In this complex topic, the literature is fragmented on the approach to define agent design dimensions, depending on the focus varying from more high-level conceptualization [[]]
 
 a small number of manipulable dimensions that directly influence the agent's effect on human cooperation.
 
-
-
-The first dimension is conditionality, or whether the agent's actions are dependent on its recipient behavior or not. When there's no conditionality, we fall on the sub-space of unconditional bots.
+The first dimension is conditionality, or whether the agent's actions are dependent on its recipient behavior or not. When there's no conditionality, we fall on the sub-space of unconditional bots, that take one same action regardless of their peers responses.
 Studies on the effects of unconditional versus the conditional action have shown that Samaritan-AI agents (that help everyone unconditionally) promote higher cooperation than Discriminatory AI that only helps those considered worthy/cooperative, especially in slow-moving societies where change based on payoff difference is moderate (small intensities of selection) ([[bookerDiscriminatorySamaritanWhich2023|Booker2023]], [[sharmaSmallBotsBig2023|Sharma2023]], [[zimmaroEmergenceCooperationOneshot2024|Zimmaro2024]], [[shiradoNetworkEngineeringUsing2020|Shirado2020]]).
 
-For a second dimension, we  
+For a second dimension, we consider adaptability. How an agent adapts 
+
+Pro-social agents balancing their own payoffs with opponents' foster the highest cooperation, while extreme altruism or pure individualism hinders it [[guoEngineeringOptimalCooperation2024|Guo2024]]. 
 
 
-we consider adaptability. It's not just how 
+Finally we consider the reasoning. Here we specifically discuss the architecture of the agents' [[research/notes/cognition/Cognitive Profile|cognitive profile]], i.e., how the agent's reasoning repertoire is organized. 
 
-Lastly, we have cognitive evolution. Because time is the unconditional factor, the way that these populational and profiles and 
 
+
+
+
+
+Lastly, we have cognitive evolution. Because time is the unconditional factor, the way that the population evolves over time
 
 
 
