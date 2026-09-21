@@ -19,3 +19,12 @@ Evolução condicionada ou nao?
 
 1. should AI maintain their culture or learn from others?
 2. AI
+
+
+## Taxonomy 
+
+Although the different frameworks offer a wide range of interpretations of how to describe autonomous agent, a more high-level model could be helpful to generalize any conclusions from this work (<mark style="background:#ff4d4f">review this sentence</mark>).
+
+In specific, we propose an framework inspired on the social intelligence of AI ([[oecdIntroducingOECDAI2025|OECD2025]]). This framework conceptually organizes AI agents, separating its social skill dimensions, such as communication, affective, perception and problem-solving skills, from its core components, such as memory, embodiment and identity.
+
+However, some adjustments have to be taken. For instance, embodiment does not have a representation in the formalism of social simulations populational-wise (although we may suggest an open door in this direction as a future direction), meaning for now we can move without it. Consequently, affective skills, namely the expression of emotional states, cannot be represented in its physical dimension, but this is a limitation we are willing to take for now.

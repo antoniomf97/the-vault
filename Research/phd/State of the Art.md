@@ -26,19 +26,22 @@ Networked populations maintain enhanced cooperation irrespective of imitation st
 
 Agent design comes as the most complex contingency in the AI impact on humans populations. The whole architecture of agents, internal and external, will dictate how AAs behave in the world, shaping the cooperative dynamics of societies.
 
-The literature on agent design conceptual description is, however, very fragmented, as a large variety of frameworks have been proposed ([[allmendingerMultiagentAI2026|Allmendinger2026]]). Researchers have suggested different frameworks, each emphasizing different aspects of the human-AI collaboration space. 
-While some concentrate on specific dimensions, such as agent-environment interface ([[stahleDesignSpaceIntelligent2025|Stahle2025]]), cognitive commitments ([Cila2022]), communication spaces ([[borghoffHumanartificialInteractionAge2025|Borghoff2025]]), or using bidirectional interaction (Human-AI and AI-human) as meta-dimensions ([[dellermannFutureHumanAICollaboration2019|Dellermann2019]]), others rather focus on more high-level concept models, either with focus on AI design as parallelization to humans ([[holterDeconstructingHumanAICollaboration2024a|Holter2024]], [[tremblaySharedMindsCognitive2026|Tremblay2026]]), as machine-architectural centric ([[aboualiAgenticAIComprehensive2025|Ali2025]]), with focus on biology, specifically in ethology ([[rahwanMachineBehaviour2019|Rahwan2019]]), or even reinforcing the need for a multi-disciplinary approach ([[dafoeOpenProblemsCooperative2020|Dafoe2020]]).
 
-Although the different frameworks offer a wide range of interpretations of how to describe autonomous agent, a more high-level model could be helpful to generalize any conclusions from this work (<mark style="background:#ff4d4f">review this sentence</mark>).
 
-In specific, we propose an framework inspired on the social intelligence of AI ([[oecdIntroducingOECDAI2025|OECD2025]]). This framework conceptually organizes AI agents, separating its social skill dimensions, such as communication, affective, perception and problem-solving skills, from its core components, such as memory, embodiment and identity.
-
-However, some adjustments have to be taken. For instance, embodiment does not have a representation in the formalism of social simulations populational-wise (although we may suggest an open door in this direction as a future direction), meaning for now we can move without it. 
-Consequently, affective skills, namely the expression of emotional states, cannot be represented
-
-In the field of cooperation impact of AI Cognition in hybrid societies of Humans and autonomous agents, 
-
+Studies on the effects of unconditional versus the conditional action have shown that Samaritan-AI agents (that help everyone unconditionally) promote higher cooperation than Discriminatory AI that only helps those considered worthy/cooperative, especially in slow-moving societies where change based on payoff difference is moderate (small intensities of selection) ([[bookerDiscriminatorySamaritanWhich2023|Booker2023]], [[sharmaSmallBotsBig2023|Sharma2023]], [[zimmaroEmergenceCooperationOneshot2024|Zimmaro2024]], [[shiradoNetworkEngineeringUsing2020|Shirado2020]]).
  
+Pro-social agents balancing their own payoffs with opponents' foster the highest cooperation, while extreme altruism or pure individualism hinders it [[guoEngineeringOptimalCooperation2024|Guo2024]]. 
+
+
+
+Finally we consider the reasoning mechanism. Here we specifically discuss the architecture of the agents' [[research/notes/cognition/Cognitive Profile|cognitive profile]], i.e., how the agent's reasoning repertoire is organized. 
+While imitation (social learning) presents the most rational answer, it is not the most frequent heuristic used by humans. Individuals often regard to different reasoning mechanisms, which is the case of conformity [ ], aspiration-driven reasoning [ ], counterfactual thinking [ ], theory of mind [ ], and others [ ]. 
+Although the usage of these different reasoning types is highly contingent on social and populational structure, their unique nature can drastically influence the cooperation outcome.
+- Result about conformism vs social learning
+- result about aspiration vs SL
+- Result about counterfactual thinking vs SL
+- result about  ToM vs SL 
+
 
 
 <!---
