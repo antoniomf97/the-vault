@@ -31,9 +31,11 @@ While some concentrate on specific dimensions, such as agent-environment interfa
 
 Although the different frameworks offer a wide range of interpretations of how to describe autonomous agent, a more high-level model could be helpful to generalize any conclusions from this work (<mark style="background:#ff4d4f">review this sentence</mark>).
 
-We propose a 
+In specific, we propose an framework inspired on the social intelligence of AI ([[oecdIntroducingOECDAI2025|OECD2025]]). This framework conceptually organizes AI agents, separating its social skill dimensions, such as communication, affective, perception and problem-solving skills, from its core components, such as memory, embodiment and identity.
 
+However, some adjustments have to be taken. For instance, embodiment does not have a representation in the formalism of populational simulations
 
+In the field of cooperation impact of AI Cognition in hybrid societies of Humans and autonomous agents, 
 
  
 
