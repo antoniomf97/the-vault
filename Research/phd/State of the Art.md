@@ -27,10 +27,10 @@ Networked populations maintain enhanced cooperation irrespective of imitation st
 
 Agent design comes as the most complex contingency in the AI impact on humans populations. The whole architecture of agents, internal and external, will dictate how AAs behave in the world, shaping the cooperative dynamics of societies.
 
-The literature on agent design conceptual description is, however, very fragmented, as a large variety of frameworks have been proposed. Researchers have suggested different frameworks, each emphasizing different aspects of the human-AI collaboration space. 
-While some concentrate on specific dimensions, such as agent-environment interface ([[stahleDesignSpaceIntelligent2025|Stahle2025]]) 
+The literature on agent design conceptual description is, however, very fragmented, as a large variety of frameworks have been proposed ([[allmendingerMultiagentAI2026|Allmendinger2026]]). Researchers have suggested different frameworks, each emphasizing different aspects of the human-AI collaboration space. 
+While some concentrate on specific dimensions, such as agent-environment interface ([[stahleDesignSpaceIntelligent2025|Stahle2025]]), Cognitive commitments ([Cila2022])
 
-or ethology ([[rahwanMachineBehaviour2019|Rahwan2019]])
+others have more high-level concept models, either focused solely on the machine, on humans parellez or ethology ([[rahwanMachineBehaviour2019|Rahwan2019]])
 
 
 Researches have proposed frameworks varying from a more high-level conceptualization ([[holterDeconstructingHumanAICollaboration2024a|Holter2024]], [[rahwanMachineBehaviour2019|Rahwan2019]]), 
