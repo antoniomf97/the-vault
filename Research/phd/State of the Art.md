@@ -27,13 +27,9 @@ Networked populations maintain enhanced cooperation irrespective of imitation st
 Agent design comes as the most complex contingency in the AI impact on humans populations. The whole architecture of agents, internal and external, will dictate how AAs behave in the world, shaping the cooperative dynamics of societies.
 
 The literature on agent design conceptual description is, however, very fragmented, as a large variety of frameworks have been proposed ([[allmendingerMultiagentAI2026|Allmendinger2026]]). Researchers have suggested different frameworks, each emphasizing different aspects of the human-AI collaboration space. 
-While some concentrate on specific dimensions, such as agent-environment interface ([[stahleDesignSpaceIntelligent2025|Stahle2025]]), cognitive commitments ([Cila2022]), communication spaces ([[borghoffHumanartificialInteractionAge2025|Borghoff2025]]), or using bidirectional interaction (Human-AI and AI-human) as meta-dimensions ([[]])
+While some concentrate on specific dimensions, such as agent-environment interface ([[stahleDesignSpaceIntelligent2025|Stahle2025]]), cognitive commitments ([Cila2022]), communication spaces ([[borghoffHumanartificialInteractionAge2025|Borghoff2025]]), or using bidirectional interaction (Human-AI and AI-human) as meta-dimensions ([[dellermannFutureHumanAICollaboration2019|Dellermann2019]]), others rather focus on more high-level concept models, either focused on AI design as parallelization to humans ([[holterDeconstructingHumanAICollaboration2024a|Holter2024]]), or even purely on ethology ([[rahwanMachineBehaviour2019|Rahwan2019]])
 
-others have more high-level concept models, either focused on humans parallelization ([[holterDeconstructingHumanAICollaboration2024a|Holter2024]]), or even purely on ethology ([[rahwanMachineBehaviour2019|Rahwan2019]])
-
-
-Researches have proposed frameworks varying from a more high-level conceptualization ( [[rahwanMachineBehaviour2019|Rahwan2019]]), 
-
+[[dafoeOpenProblemsCooperative2020|Dafoe2020]]
 
 Agent design comes as one of the most complex attributes in the AI impact on humans populations. The architecture of the [[research/notes/cognition/Cognitive Profile|cognitive profile]] of agents will dictate how AAs behave in the world, hence shaping the cooperative outcomes of society. 
 
