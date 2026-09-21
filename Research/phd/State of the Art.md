@@ -39,8 +39,7 @@ While imitation (social learning) presents the most rational answer, it is not t
 
 The reasoning mechanism that an agent is applying can have major implications in the cooperative dynamics of individuals. 
 
-For instance, conformity-driven individuals may help 
-[[quanRationalConformityBehavior2022|Quan2022]]
+For instance, conformity-driven individuals can change the equilibria of the game dynamics in well-mixed populations ([[mollemanEffectsConformismCultural2013|MollemanE2013]]), while enhancing network reciprocity in social dilemmas ([[szolnokiConformityEnhancesNetwork2015|Szolnoki2015]]), namely on spatial public goods game ([[quanRationalConformityBehavior2022|Quan2022]]).
 
 
 Individuals often regard to different reasoning mechanisms, which is the case of conformity [ ], aspiration-driven reasoning [ ], counterfactual thinking [ ], theory of mind [ ], and others [ ]. 
