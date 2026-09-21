@@ -44,7 +44,7 @@ For instance, conformity-driven individuals can change the equilibria of the gam
 Aspiration-driven individuals can also have great impacts on the game equilibria: independently on the population structure, in non-dyadic games, aspiration favours different strategies than imitation does ([[duAspirationDynamicsMultiplayer2014|Du2014]]). However, mixing aspiration with imitation can promote cooperation in well-mixed populations, but not in structured populations ([[wangEvolutionaryGameDynamics2019|Wang2019]]).
 
 
-Moving to more deliberative reasoning mechanisms, counterfactual thinking has too a great impact on social dynamics, [[fernandesCounterfactualThinkingStochastic2024|Fernandes2024]]
+Moving to more deliberative reasoning mechanisms, counterfactual thinking has too a great impact on social dynamics: while a small fraction of counterfactuals may promote high standards of cooperation ([[pereiraCounterfactualThinkingCooperation2019|Pereira2019]]), this effect has a maximum threshold, from which cooperation starts fail ([[fernandesCounterfactualThinkingStochastic2024|Fernandes2024]]). Additionally, these effects are highly contingent of the nature of the game being played.
 
 <mark style="background:#ff4d4f">add theory of mind here</mark>
 
@@ -67,9 +67,11 @@ Although the usage of these different reasoning types is highly contingent on so
 - Result about counterfactual thinking vs SL
 - result about  ToM vs SL -->
 
-<!--- Evolution Dynamics -->
+<!--- Cognitive Evolution -->
 
-Lastly, we have cognitive evolution. Because time is the unconditional factor, the way that the population evolves over time
+Lastly, we have cognitive evolution. Because time is the unconditional factor, the way that the population cognition evolves over time is essential. Here we can discuss culture (?)
+
+This is the big gap, there's not much work here.
 
 
 
