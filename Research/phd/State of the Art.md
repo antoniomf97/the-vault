@@ -41,7 +41,7 @@ The reasoning mechanism that an agent is applying can have major implications in
 
 For instance, conformity-driven individuals can change the equilibria of the game dynamics in well-mixed populations ([[mollemanEffectsConformismCultural2013|MollemanE2013]]), while enhancing network reciprocity in social dilemmas ([[szolnokiConformityEnhancesNetwork2015|Szolnoki2015]]), namely on spatial public goods game ([[quanRationalConformityBehavior2022|Quan2022]]). While these findings are solid, there are caveats: while the most favorable outcomes emerge if the masses conform, forcing leaders to confirm can significantly worsen the overall cooperative performance ([[szolnokiLeadersShouldNot2016|Szolnoki2016]]).
 
-Another example is the aspiration
+Aspiration-driven individuals can also have great impacts on the game equilibria: independently on the population structure, in non-dyadic games, aspiration favours different strategies than imitation does 
 
 
 Moving to more deliberative reasoning mechanisms, counterfactual thinking has too a great impact on social dynamics,
