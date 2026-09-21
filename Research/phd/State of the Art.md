@@ -38,7 +38,7 @@ While the literature on the approach to describe agent design is fragmented acro
 depending on the focus varying from more high-level conceptualization [[]]
 
 a small number of manipulable dimensions that directly influence the agent's effect on human cooperation.
-
+<!---
 The first dimension is conditionality, or whether the agent's actions are dependent on its recipient behavior or not. When there's no conditionality, we fall on the sub-space of unconditional bots, that take one same action regardless of their peers responses.
 Studies on the effects of unconditional versus the conditional action have shown that Samaritan-AI agents (that help everyone unconditionally) promote higher cooperation than Discriminatory AI that only helps those considered worthy/cooperative, especially in slow-moving societies where change based on payoff difference is moderate (small intensities of selection) ([[bookerDiscriminatorySamaritanWhich2023|Booker2023]], [[sharmaSmallBotsBig2023|Sharma2023]], [[zimmaroEmergenceCooperationOneshot2024|Zimmaro2024]], [[shiradoNetworkEngineeringUsing2020|Shirado2020]]).
 
@@ -46,20 +46,15 @@ Pro-social agents balancing their own payoffs with opponents' foster the highest
 
 For a second dimension, we consider adaptability. How an agent adapts 
 
-
 Finally we consider the reasoning mechanism. Here we specifically discuss the architecture of the agents' [[research/notes/cognition/Cognitive Profile|cognitive profile]], i.e., how the agent's reasoning repertoire is organized. 
 While imitation (social learning) presents the most rational answer, it is not the most frequent heuristic used by humans. Individuals often regard to different reasoning mechanisms, which is the case of conformity [ ], aspiration-driven reasoning [ ], counterfactual thinking [ ], theory of mind [ ], and others [ ]. 
 Although the usage of these different reasoning types is highly contingent on social and populational structure, their unique nature can drastically influence the cooperation outcome.
 - Result about conformism vs social learning
 - result about aspiration vs SL
 - Result about counterfactual thinking vs SL
-- result about  ToM vs SL
+- result about  ToM vs SL -->
 
-
-
-
-
-
+<!--- Evolution Dynamics -->
 
 Lastly, we have cognitive evolution. Because time is the unconditional factor, the way that the population evolves over time
 

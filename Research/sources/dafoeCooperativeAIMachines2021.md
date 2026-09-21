@@ -2,9 +2,7 @@
 Title: "Cooperative AI: machines must learn to find common ground"
 Year: 2021
 Authors: Allan Dafoe, Yoram Bachrach, Gillian Hadfield, Eric Horvitz, Kate Larson, Thore Graepel
-Tags:
-  - Society
-  - AI
+Tags: [Society, AI, /read]
 URL: https://www.nature.com/articles/d41586-021-01170-0
 aliases:
   - Cooperative AI: machines must learn to find common ground
@@ -25,7 +23,7 @@ aliases:
 > %% begin notes %%
 > Write notes here!
 > 
-> %% end notes %%
+> > %% end notes %%
 
 > [!EXAMPLE]- Annotations
 > >>  <mark class="hltr-yellow">"To help humanity solve fundamental problems of cooperation, scientists need to reconceive artificial intelligence as deeply social."</mark> [Page 1](zotero://open-pdf/library/items/MWA9CXZM?page=1&annotation=WEL62DCB)
@@ -135,4 +133,4 @@ aliases:
 > 
 > 
 
-%% Import Date: 2026-08-11T16:53:23.627+01:00 %%
+%% Import Date: 2026-09-21T12:34:50.192+01:00 %%
