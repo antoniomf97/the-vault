@@ -22,18 +22,17 @@ Regarding sub-populational proportionality, it has been suggested that the propo
 On another level, the populational infrastructure also has a great impact on the overall cooperation dynamics, whether we consider well-mixed populations or structured networks.
 Networked populations maintain enhanced cooperation irrespective of imitation strength, while well-mixed populations require weak imitation for agents to be effective [[guoEngineeringOptimalCooperation2024|Guo2024]]. Even a single bot placed at a high-degree node can foster cooperation by reshaping social connections locally [[guoFacilitatingCooperationHumanagent2023|Guo2023]], [[shiradoLocallyNoisyAutonomous2017|Shirado2017]], [[shiradoNetworkEngineeringUsing2020|Shirado2020]].
 
-
 <!--- Agent Design -->
 
 Agent design comes as the most complex contingency in the AI impact on humans populations. The whole architecture of agents, internal and external, will dictate how AAs behave in the world, shaping the cooperative dynamics of societies.
 
 The literature on agent design conceptual description is, however, very fragmented, as a large variety of frameworks have been proposed ([[allmendingerMultiagentAI2026|Allmendinger2026]]). Researchers have suggested different frameworks, each emphasizing different aspects of the human-AI collaboration space. 
-While some concentrate on specific dimensions, such as agent-environment interface ([[stahleDesignSpaceIntelligent2025|Stahle2025]]), Cognitive commitments ([Cila2022])
+While some concentrate on specific dimensions, such as agent-environment interface ([[stahleDesignSpaceIntelligent2025|Stahle2025]]), cognitive commitments ([Cila2022]), communication spaces ([[borghoffHumanartificialInteractionAge2025|Borghoff2025]]), or using bidirectional interaction (Human-AI and AI-human) as meta-dimensions ([[]])
 
-others have more high-level concept models, either focused solely on the machine, on humans parellez or ethology ([[rahwanMachineBehaviour2019|Rahwan2019]])
+others have more high-level concept models, either focused on humans parallelization ([[holterDeconstructingHumanAICollaboration2024a|Holter2024]]), or even purely on ethology ([[rahwanMachineBehaviour2019|Rahwan2019]])
 
 
-Researches have proposed frameworks varying from a more high-level conceptualization ([[holterDeconstructingHumanAICollaboration2024a|Holter2024]], [[rahwanMachineBehaviour2019|Rahwan2019]]), 
+Researches have proposed frameworks varying from a more high-level conceptualization ( [[rahwanMachineBehaviour2019|Rahwan2019]]), 
 
 
 Agent design comes as one of the most complex attributes in the AI impact on humans populations. The architecture of the [[research/notes/cognition/Cognitive Profile|cognitive profile]] of agents will dictate how AAs behave in the world, hence shaping the cooperative outcomes of society. 
