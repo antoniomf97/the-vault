@@ -13,7 +13,7 @@ Starting with the dynamics structure, a core finding is that introducing autonom
 Cooperative AAs have limited impact in prisoner's dilemma games but facilitate cooperation in stag hunt games, while defective AAs paradoxically promote complete dominance of cooperation in snowdrift games [[guoFacilitatingCooperationHumanagent2023|Guo2023]].
 The dynamics effects depend not only on the game itself, but on the game's configurations. In a mixed spatial prisoner's dilemma environment using reinforcement learning–based machine strategies, it was shown that in low-temptation settings, machines strengthen cooperative stability, whereas in high-temptation environments, cooperation relies more on human strategies [[quanHumanMachineCooperation2026|Quan2026]].
 
-<mark style="background:#ff4d4f">**TODO:** Add institutions here</mark>
+<mark style="background:#ff4d4f">add institutions here</mark>
 
 <!--- Population Structure -->
 
@@ -27,18 +27,17 @@ Networked populations maintain enhanced cooperation irrespective of imitation st
 Agent design comes as the most complex contingency in the AI impact on humans populations. The whole architecture of agents, internal and external, will dictate how AAs behave in the world, shaping the cooperative dynamics of societies.
 
 The literature on agent design conceptual description is, however, very fragmented, as a large variety of frameworks have been proposed ([[allmendingerMultiagentAI2026|Allmendinger2026]]). Researchers have suggested different frameworks, each emphasizing different aspects of the human-AI collaboration space. 
-While some concentrate on specific dimensions, such as agent-environment interface ([[stahleDesignSpaceIntelligent2025|Stahle2025]]), cognitive commitments ([Cila2022]), communication spaces ([[borghoffHumanartificialInteractionAge2025|Borghoff2025]]), or using bidirectional interaction (Human-AI and AI-human) as meta-dimensions ([[dellermannFutureHumanAICollaboration2019|Dellermann2019]]), others rather focus on more high-level concept models, either with focus on AI design as parallelization to humans ([[holterDeconstructingHumanAICollaboration2024a|Holter2024]], [[tremblaySharedMindsCognitive2026|Tremblay2026]]), as machine-architectural centric ([[aboualiAgenticAIComprehensive2025|Ali2025]]), with focus on biology, specifically in ethology ([[rahwanMachineBehaviour2019|Rahwan2019]]), or even reinforcing the need for a multi-disciplinary focus ([[dafoeOpenProblemsCooperative2020|Dafoe2020]]).
-Although the different frameworks offer a wide range of interpretations of how to describe agent design, we believe a more high-level.
+While some concentrate on specific dimensions, such as agent-environment interface ([[stahleDesignSpaceIntelligent2025|Stahle2025]]), cognitive commitments ([Cila2022]), communication spaces ([[borghoffHumanartificialInteractionAge2025|Borghoff2025]]), or using bidirectional interaction (Human-AI and AI-human) as meta-dimensions ([[dellermannFutureHumanAICollaboration2019|Dellermann2019]]), others rather focus on more high-level concept models, either with focus on AI design as parallelization to humans ([[holterDeconstructingHumanAICollaboration2024a|Holter2024]], [[tremblaySharedMindsCognitive2026|Tremblay2026]]), as machine-architectural centric ([[aboualiAgenticAIComprehensive2025|Ali2025]]), with focus on biology, specifically in ethology ([[rahwanMachineBehaviour2019|Rahwan2019]]), or even reinforcing the need for a multi-disciplinary approach ([[dafoeOpenProblemsCooperative2020|Dafoe2020]]).
+
+Although the different frameworks offer a wide range of interpretations of how to describe autonomous agent, a more high-level model could be helpful to generalize any conclusions from this work (<mark style="background:#ff4d4f">review this sentence</mark>).
+
+We propose a 
 
 
-Agent design comes as one of the most complex attributes in the AI impact on humans populations. The architecture of the [[research/notes/cognition/Cognitive Profile|cognitive profile]] of agents will dictate how AAs behave in the world, hence shaping the cooperative outcomes of society. 
+
+ 
 
 
-While the literature on the approach to describe agent design is fragmented across different fields, we can derive dimensions from a formal object
-
-depending on the focus varying from more high-level conceptualization [[]]
-
-a small number of manipulable dimensions that directly influence the agent's effect on human cooperation.
 <!---
 The first dimension is conditionality, or whether the agent's actions are dependent on its recipient behavior or not. When there's no conditionality, we fall on the sub-space of unconditional bots, that take one same action regardless of their peers responses.
 Studies on the effects of unconditional versus the conditional action have shown that Samaritan-AI agents (that help everyone unconditionally) promote higher cooperation than Discriminatory AI that only helps those considered worthy/cooperative, especially in slow-moving societies where change based on payoff difference is moderate (small intensities of selection) ([[bookerDiscriminatorySamaritanWhich2023|Booker2023]], [[sharmaSmallBotsBig2023|Sharma2023]], [[zimmaroEmergenceCooperationOneshot2024|Zimmaro2024]], [[shiradoNetworkEngineeringUsing2020|Shirado2020]]).
