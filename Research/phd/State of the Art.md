@@ -34,25 +34,20 @@ Pro-social agents balancing their own payoffs with opponents' foster the highest
 
 
 
-Finally we consider the reasoning mechanism. Here we specifically discuss the architecture of the agents' [[research/notes/cognition/Cognitive Profile|cognitive profile]], i.e., how the agent's reasoning repertoire is organized. This field is, however, mostly focused on general populations of rational individuals, rather than hybrid populations. 
+Finally we consider the reasoning mechanism. Here we specifically discuss the architecture of the agents' [[research/notes/cognition/Cognitive Profile|cognitive profile]], i.e., how the agent's reasoning repertoire is organized. This field is, however, mostly focused on general populations of rational individuals, rather than hybrid populations, but nonetheless we can show how different reasoning profiles can drastically change the cooperative dynamics. 
 While imitation (social learning) presents the most rational answer, it is not the most frequent heuristic used by humans, as individuals often regard to different reasoning mechanisms. 
 
-The reasoning mechanism that an agent is applying can have major implications in the cooperative dynamics of individuals. 
+Although the usage of these different reasoning types is highly contingent on social and populational structure, their unique nature can  can have major implications in the cooperative dynamics population-wise. 
 
 For instance, conformity-driven individuals can change the equilibria of the game dynamics in well-mixed populations ([[mollemanEffectsConformismCultural2013|MollemanE2013]]), while enhancing network reciprocity in social dilemmas ([[szolnokiConformityEnhancesNetwork2015|Szolnoki2015]]), namely on spatial public goods game ([[quanRationalConformityBehavior2022|Quan2022]]). While these findings are solid, there are caveats: while the most favorable outcomes emerge if the masses conform, forcing leaders to confirm can significantly worsen the overall cooperative performance ([[szolnokiLeadersShouldNot2016|Szolnoki2016]]).
 
-Aspiration-driven individuals can also have great impacts on the game equilibria: independently on the population structure, in non-dyadic games, aspiration favours different strategies than imitation does 
+Aspiration-driven individuals can also have great impacts on the game equilibria: independently on the population structure, in non-dyadic games, aspiration favours different strategies than imitation does ([[duAspirationDynamicsMultiplayer2014|Du2014]]). However, mixing aspiration with imitation can promote cooperation in well-mixed populations, but not in structured populations ([[wangEvolutionaryGameDynamics2019|Wang2019]]).
 
 
-Moving to more deliberative reasoning mechanisms, counterfactual thinking has too a great impact on social dynamics,
+Moving to more deliberative reasoning mechanisms, counterfactual thinking has too a great impact on social dynamics, [[fernandesCounterfactualThinkingStochastic2024|Fernandes2024]]
 
+<mark style="background:#ff4d4f">add theory of mind here</mark>
 
-Individuals often regard to different reasoning mechanisms, which is the case of conformity [ ], aspiration-driven reasoning [ ], counterfactual thinking [ ], theory of mind [ ], and others [ ]. 
-Although the usage of these different reasoning types is highly contingent on social and populational structure, their unique nature can drastically influence the cooperation outcome.
-- Result about conformism vs social learning
-- result about aspiration vs SL
-- Result about counterfactual thinking vs SL
-- result about  ToM vs SL 
 
 
 
