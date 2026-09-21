@@ -2,7 +2,7 @@
 Title: "Machine behaviour"
 Year: 2019
 Authors: Iyad Rahwan, Manuel Cebrian, Nick Obradovich, Josh Bongard, Jean-François Bonnefon, Cynthia Breazeal, Jacob W. Crandall, Nicholas A. Christakis, Iain D. Couzin, Matthew O. Jackson, Nicholas R. Jennings, Ece Kamar, Isabel M. Kloumann, Hugo Larochelle, David Lazer, Richard McElreath, Alan Mislove, David C. Parkes, Alex ‘Sandy’ Pentland, Margaret E. Roberts, Azim Shariff, Joshua B. Tenenbaum, Michael Wellman
-Tags: []
+Tags: [AI Design]
 URL: https://www.nature.com/articles/s41586-019-1138-y
 aliases:
   - Machine behaviour
@@ -23,7 +23,7 @@ aliases:
 > %% begin notes %%
 > Write notes here!
 > 
-> %% end notes %%
+> > %% end notes %%
 
 > [!EXAMPLE]- Annotations
 > >>  <mark class="hltr-yellow">"Mechanisms for generating behaviour"</mark> [Page 480](zotero://open-pdf/library/items/SEDFJCN5?page=480&annotation=IDAXWVIG)
@@ -73,4 +73,4 @@ aliases:
 > 
 > 
 
-%% Import Date: 2026-09-21T12:34:50.244+01:00 %%
+%% Import Date: 2026-09-21T14:20:51.239+01:00 %%
