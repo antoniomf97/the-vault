@@ -34,7 +34,14 @@ Pro-social agents balancing their own payoffs with opponents' foster the highest
 
 
 
-Finally we consider the reasoning mechanism. Here we specifically discuss the architecture of the agents' [[research/notes/cognition/Cognitive Profile|cognitive profile]], i.e., how the agent's reasoning repertoire is organized. This field is, however, mostly focused on general populations of rational individuals, rather than hybrid populations, but nonetheless we can show how different reasoning profiles can drastically change the cooperative dynamics. 
+Finally we consider the reasoning mechanism. Here we specifically discuss the architecture of the agents' [[research/notes/cognition/Cognitive Profile|cognitive profile]], i.e., how the agent's reasoning repertoire is organized. 
+
+This field is, however, mostly focused on general populations of rational individuals, rather than hybrid populations, but nonetheless we can show how different reasoning profiles can drastically change the cooperative dynamics. 
+
+
+<mark style="background:#ff4d4f">add teams here</mark>
+
+
 While imitation (social learning) presents the most rational answer, it is not the most frequent heuristic used by humans, as individuals often regard to different reasoning mechanisms. 
 
 Although the usage of these different reasoning types is highly contingent on social and populational structure, their unique nature can  can have major implications in the cooperative dynamics population-wise. 
