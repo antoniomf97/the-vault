@@ -36,6 +36,9 @@ Pro-social agents balancing their own payoffs with opponents' foster the highest
 
 Finally we consider the reasoning mechanism. Here we specifically discuss the architecture of the agents' [[research/notes/cognition/Cognitive Profile|cognitive profile]], i.e., how the agent's reasoning repertoire is organized. 
 
+Although 
+
+
 This field is, however, mostly focused on general populations of rational individuals, rather than hybrid populations, but nonetheless we can show how different reasoning profiles can drastically change the cooperative dynamics. 
 
 
