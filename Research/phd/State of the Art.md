@@ -34,6 +34,7 @@ Pro-social agents balancing their own payoffs with opponents' foster the highest
 
 
 
+
 Finally we consider the reasoning mechanism. Here we specifically discuss the architecture of the agents' [[research/notes/cognition/Cognitive Profile|cognitive profile]], i.e., how the agent's reasoning repertoire is organized. 
 
 Although 
