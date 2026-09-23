@@ -31,7 +31,7 @@ aliases:
 > %% begin notes %%
 > Write notes here!
 > 
-> %% end notes %%
+> > %% end notes %%
 
 > [!EXAMPLE]- Annotations
 > >>  <mark class="hltr-yellow">"this study explores how team trust emerges in human–AI teams compared to human–human teams."</mark> [Page 1212](zotero://open-pdf/library/items/JR9QEPDF?page=1212&annotation=L5QKT9HB)
@@ -41,4 +41,4 @@ aliases:
 > 
 > 
 
-%% Import Date: 2026-09-23T12:20:59.145+01:00 %%
+%% Import Date: 2026-09-23T12:36:36.955+01:00 %%

@@ -23,7 +23,7 @@ aliases:
 > %% begin notes %%
 > Write notes here!
 > 
-> %% end notes %%
+> > %% end notes %%
 
 > [!EXAMPLE]- Annotations
 > >>  <mark class="hltr-yellow">"Our study explores how changes to a person’s mental model of an AI system affects their interaction with the system."</mark> [Page 1](zotero://open-pdf/library/items/ZDKNIMJL?page=1&annotation=VNG4MKRU)
@@ -43,4 +43,4 @@ aliases:
 > 
 > 
 
-%% Import Date: 2026-09-23T11:38:19.777+01:00 %%
+%% Import Date: 2026-09-23T12:36:37.006+01:00 %%
