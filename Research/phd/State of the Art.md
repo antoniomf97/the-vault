@@ -37,6 +37,9 @@ Pro-social agents balancing their own payoffs with opponents' foster the highest
 
 Finally we consider the reasoning mechanism. Here we specifically discuss the architecture of the agents' [[research/notes/cognition/Cognitive Profile|cognitive profile]], i.e., how the agent's reasoning repertoire is organized. 
 
+
+
+
 Although the impact of cognitive mechanisms has not been widely studied in large-scale simulations, works on laboratory tasks 
 
 some works have been proposed in organizational teams and laboratory tasks.
