@@ -48,8 +48,8 @@ some works have been proposed in organizational teams and laboratory tasks.
 
 This field is, however, mostly focused on general populations of rational individuals, rather than hybrid populations, but nonetheless we can show how different reasoning profiles can drastically change the cooperative dynamics. 
 
-
-<mark style="background:#ff4d4f">add teams here</mark>
+Hybrid populations _have_ been studied at scale — with cognition abstracted to a fixed policy.
+<mark style="background:#ff4d4f">add hybrid populations in EGT</mark>
 
 
 While imitation (social learning) presents the most rational answer, it is not the most frequent heuristic used by humans, as individuals often regard to different reasoning mechanisms. 
