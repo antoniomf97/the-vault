@@ -23,7 +23,7 @@ aliases:
 > %% begin notes %%
 > Write notes here!
 > 
-> %% end notes %%
+> > %% end notes %%
 
 > [!EXAMPLE]- Annotations
 > >>  <mark class="hltr-yellow">"s. This study explores the unique nature of team dynamics in human-agent teams compared to human-human teams and the impact of team composition on perceived team cognition, team performance, and trust."</mark> [Page 1](zotero://open-pdf/library/items/NP5DWU9U?page=1&annotation=UZWURTCN)
@@ -48,4 +48,4 @@ aliases:
 > 
 > 
 
-%% Import Date: 2026-09-23T11:38:19.791+01:00 %%
+%% Import Date: 2026-09-23T12:20:59.154+01:00 %%
