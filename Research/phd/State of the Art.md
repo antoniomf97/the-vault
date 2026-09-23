@@ -38,9 +38,11 @@ Pro-social agents balancing their own payoffs with opponents' foster the highest
 Finally we consider the reasoning mechanism. Here we specifically discuss the architecture of the agents' [[research/notes/cognition/Cognitive Profile|cognitive profile]], i.e., how the agent's reasoning repertoire is organized. 
 
 Cognition in hybrid settings has been richly studied, either at dyadic or small-scale groups. At a dyadic-scale, researchers have been focused on understanding coordination dynamics ([[zhaoRoleAdaptationCollective2025|Zhao2025]],[[carrollUtilityLearningHumans2019|Carroll2019]]]), communication ([[pataranutapornInfluencingHumanAI2023|Pataranutaporn2023]], [[zhangInvestigatingAITeammate2023|Zhang2023]], [[crandallCooperatingMachines2018|Crandall2018]]), perception ([[ishowo-olokoBehaviouralEvidenceTransparency2019|Ishowo-oloko2019]], [[karpusAlgorithmExploitationHumans2021|Karpus2021]]) and trust ([[gliksonHumanTrustArtificial2020|Glikson2020]]).
-At small-scale groups, researchers have been paying more attention to collective ([[]]) and shared cognitions ([[aggarwalSelfbeliefsTransactiveMemory2025|Aggarwal2025]], [[schelbleLetsThinkTogether2022|Schelble2022]]), trust ([[oneillHumanAutonomyTeaming2022|Oneill2022]], [[georgantaWouldYouTrust2024|Georganta2024]]), and team composition and performance ([[mcneeseWhoWhatMy2021|Mcneese2021]]).
+At small-scale groups, researchers have been paying more attention to collective ([[guptaFosteringCollectiveIntelligence2025|Gupta2025]]) and shared cognitions ([[aggarwalSelfbeliefsTransactiveMemory2025|Aggarwal2025]], [[schelbleLetsThinkTogether2022|Schelble2022]]), trust ([[oneillHumanAutonomyTeaming2022|Oneill2022]], [[georgantaWouldYouTrust2024|Georganta2024]]), and team composition and performance ([[mcneeseWhoWhatMy2021|Mcneese2021]]).
 
-Additionally, some frameworks have been proposed aiming to explore the bridging mechanisms that connect dyads to small groups, by treating trust, memory and cognition as a multi-level mechanism rather than properties of a single interaction scale ([[ulfertShapingMultidisciplinaryUnderstanding2024|Ulfert2024]], [[riedlCognitiveSpilloverHuman2026|Riedl2026]])
+Additionally, some frameworks have been proposed aiming to explore the bridging mechanisms that connect dyads to small groups, by treating trust, memory and cognition as a multi-level mechanism rather than properties of a single interaction scale ([[ulfertShapingMultidisciplinaryUnderstanding2024|Ulfert2024]]). This  ([[riedlCognitiveSpilloverHuman2026|Riedl2026]]). 
+
+
 
 
 
