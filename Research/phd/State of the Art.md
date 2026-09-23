@@ -24,7 +24,17 @@ Networked populations maintain enhanced cooperation irrespective of imitation st
 
 <!--- Agent Design -->
 
-Agent design comes as a very complex contingency in the AI impact on humans populations. The whole architecture of agents, let it be communication, perception, or problem-solving, will dictate how AAs behave in the world, shaping the cooperative dynamics of societies. 
+Agent design comes as a very complex contingency in the AI impact on humans populations, as it integrates 
+communication, perception, or problem-solving. 
+
+
+The whole architecture of agents, will dictate how AAs behave in the world, shaping the cooperative dynamics of societies. 
+
+
+While hybrid populations have been widely studied at scale, as previously stated, cognition is typically abstracted to a fixed policy. On the other hand, cognition in hybrid settings has been richly studied, either at dyadic or small-scale groups, mostly in real scenarios. At a dyadic-scale, researchers have been focused on understanding coordination dynamics ([[zhaoRoleAdaptationCollective2025|Zhao2025]],[[carrollUtilityLearningHumans2019|Carroll2019]]]), communication ([[pataranutapornInfluencingHumanAI2023|Pataranutaporn2023]], [[zhangInvestigatingAITeammate2023|Zhang2023]], [[crandallCooperatingMachines2018|Crandall2018]]), perception ([[ishowo-olokoBehaviouralEvidenceTransparency2019|Ishowo-oloko2019]], [[karpusAlgorithmExploitationHumans2021|Karpus2021]]) and trust ([[gliksonHumanTrustArtificial2020|Glikson2020]]). At small-scale groups, researchers have been paying more attention to collective ([[guptaFosteringCollectiveIntelligence2025|Gupta2025]]) and shared cognitions ([[aggarwalSelfbeliefsTransactiveMemory2025|Aggarwal2025]], [[schelbleLetsThinkTogether2022|Schelble2022]]), trust ([[oneillHumanAutonomyTeaming2022|Oneill2022]], [[georgantaWouldYouTrust2024|Georganta2024]]), and team composition and performance ([[mcneeseWhoWhatMy2021|Mcneese2021]]).
+
+Additionally, some frameworks have been proposed aiming to explore the bridging mechanisms that connect dyads to small groups, by treating trust, memory and cognition as a multi-level mechanism rather than properties of a single interaction scale ([[ulfertShapingMultidisciplinaryUnderstanding2024|Ulfert2024]]). This comes as extremely relevant attending to the fact that AI exposure affects shared cognition beyond the immediate human-AI interaction, hence implying major effects on larger scale scenarios ([[riedlCognitiveSpilloverHuman2026|Riedl2026]]). 
+
 
 
 
@@ -39,9 +49,6 @@ Pro-social agents balancing their own payoffs with opponents' foster the highest
 
 Finally we consider the reasoning mechanism. Here we specifically discuss the architecture of the agents' [[research/notes/cognition/Cognitive Profile|cognitive profile]], i.e., how the agent's reasoning repertoire is organized. 
 
-While hybrid populations have been widely studied at scale, as previously stated, cognition is typically abstracted to a fixed policy. On the other hand, cognition in hybrid settings has been richly studied, either at dyadic or small-scale groups, mostly in real scenarios. At a dyadic-scale, researchers have been focused on understanding coordination dynamics ([[zhaoRoleAdaptationCollective2025|Zhao2025]],[[carrollUtilityLearningHumans2019|Carroll2019]]]), communication ([[pataranutapornInfluencingHumanAI2023|Pataranutaporn2023]], [[zhangInvestigatingAITeammate2023|Zhang2023]], [[crandallCooperatingMachines2018|Crandall2018]]), perception ([[ishowo-olokoBehaviouralEvidenceTransparency2019|Ishowo-oloko2019]], [[karpusAlgorithmExploitationHumans2021|Karpus2021]]) and trust ([[gliksonHumanTrustArtificial2020|Glikson2020]]). At small-scale groups, researchers have been paying more attention to collective ([[guptaFosteringCollectiveIntelligence2025|Gupta2025]]) and shared cognitions ([[aggarwalSelfbeliefsTransactiveMemory2025|Aggarwal2025]], [[schelbleLetsThinkTogether2022|Schelble2022]]), trust ([[oneillHumanAutonomyTeaming2022|Oneill2022]], [[georgantaWouldYouTrust2024|Georganta2024]]), and team composition and performance ([[mcneeseWhoWhatMy2021|Mcneese2021]]).
-
-Additionally, some frameworks have been proposed aiming to explore the bridging mechanisms that connect dyads to small groups, by treating trust, memory and cognition as a multi-level mechanism rather than properties of a single interaction scale ([[ulfertShapingMultidisciplinaryUnderstanding2024|Ulfert2024]]). This comes as extremely relevant attending to the fact that AI exposure affects shared cognition beyond the immediate human-AI interaction, hence implying major effects on larger scale scenarios ([[riedlCognitiveSpilloverHuman2026|Riedl2026]]). 
 
 While efforts are being made to develop a major understanding of the AI cognitive impact in hybrid populations, human cognition have been widely studied in large-scales simulations. Namely, researchers have shown how different reasoning profiles can drastically change the cooperative dynamics. 
 
