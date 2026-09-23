@@ -26,11 +26,9 @@ Networked populations maintain enhanced cooperation irrespective of imitation st
 
 Agent design comes as a very complex contingency in the AI impact on humans populations. The whole architecture of agents, internal and external, will dictate how AAs behave in the world, shaping the cooperative dynamics of societies. Under the domain of agent design, research has been spreading in different dimensions.
 
-The first dimension is conditionality, or whether the agent's actions are dependent on its recipient behavior or not. When there's no conditionality, we fall on the sub-space of unconditional bots, that take one same action regardless of their peers responses.
-
-Studies on the effects of unconditional versus the conditional action have shown that Samaritan-AI agents (that help everyone unconditionally) promote higher cooperation than Discriminatory AI that only helps those considered worthy/cooperative, especially in slow-moving societies where change based on payoff difference is moderate (small intensities of selection) ([[bookerDiscriminatorySamaritanWhich2023|Booker2023]], [[sharmaSmallBotsBig2023|Sharma2023]], [[zimmaroEmergenceCooperationOneshot2024|Zimmaro2024]], [[shiradoNetworkEngineeringUsing2020|Shirado2020]]).
+The first dimension is adaptability, or whether the agent's actions are dependent on its recipient behavior or not, meaning it adapts to the environment. When there's no adaptability, we fall on the sub-space of unconditional bots, that take one same action regardless of their peers responses. Studies on the effects of unconditional versus the conditional action have shown that Samaritan-AI agents (that help everyone unconditionally) promote higher cooperation than Discriminatory AI that only helps those considered worthy/cooperative, especially in slow-moving societies where change based on payoff difference is moderate (small intensities of selection) ([[bookerDiscriminatorySamaritanWhich2023|Booker2023]], [[sharmaSmallBotsBig2023|Sharma2023]], [[zimmaroEmergenceCooperationOneshot2024|Zimmaro2024]], [[shiradoNetworkEngineeringUsing2020|Shirado2020]]).
  
-Pro-social agents balancing their own payoffs with opponents' foster the highest cooperation, while extreme altruism or pure individualism hinders it [[guoEngineeringOptimalCooperation2024|Guo2024]]. 
+Pro-social agents balancing their own payoffs with opponents' foster the highest cooperation, while extreme altruism or pure individualism hinders it ([[guoEngineeringOptimalCooperation2024|Guo2024]]). 
 
 
 
