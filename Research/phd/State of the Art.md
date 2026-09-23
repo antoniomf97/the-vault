@@ -37,7 +37,9 @@ Pro-social agents balancing their own payoffs with opponents' foster the highest
 
 Finally we consider the reasoning mechanism. Here we specifically discuss the architecture of the agents' [[research/notes/cognition/Cognitive Profile|cognitive profile]], i.e., how the agent's reasoning repertoire is organized. 
 
-Cognition in hybrid settings has been richly studied, either at dyadic and small-group scale.
+Cognition in hybrid settings has been richly studied. At a dyadic-scale, researchers have been focused on understanding coordination dynamics ([[zhaoRoleAdaptationCollective2025|Zhao2025]],[ ]), conversation ([[pataranutapornInfluencingHumanAI2023|Pataranutaporn2023]], [[ ]])
+
+, either at dyadic and small-group scale.
 
 
 Although the impact of cognitive mechanisms has not been widely studied in large-scale simulations, works on laboratory tasks 
