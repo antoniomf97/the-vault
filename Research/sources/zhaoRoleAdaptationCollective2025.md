@@ -9,7 +9,7 @@ aliases:
   - zhaoRoleAdaptationCollective2025
 ---
 
-**Zotero PDF Link:** 
+**Zotero PDF Link:** [PDF](zotero://select/library/items/8LBJMIKR)
 **Relations:** 
 
 
@@ -26,9 +26,24 @@ aliases:
 > %% begin notes %%
 > Write notes here!
 > 
-> %% end notes %%
+> > %% end notes %%
 
 > [!EXAMPLE]- Annotations
+> >>  <mark class="hltr-yellow">"This paper explores a framework for defining artificial intelligence (AI) that adapts to individuals within a group, and discusses the technical challenges for collaborative AI systems that must work with different human partners."</mark> [Page 291](zotero://open-pdf/library/items/8LBJMIKR?page=291&annotation=B6HSKXGI)
+>
+> 
+>
+> 
+> >>  <mark class="hltr-red">"when communicating with a partner, an AI should consider how prepared their partner is to receive and correctly interpret the information they are receiving."</mark> [Page 291](zotero://open-pdf/library/items/8LBJMIKR?page=291&annotation=SSJLWGKB)
+>
+> 
+>
+> 
+> >>  <mark class="hltr-red">"Forgoing such individual considerations may adversely impact the partner’s mental state and proficiency."</mark> [Page 291](zotero://open-pdf/library/items/8LBJMIKR?page=291&annotation=7HHRNKDI)
+>
+> 
+>
+> 
 > 
 
-%% Import Date: 2026-09-23T11:38:19.840+01:00 %%
+%% Import Date: 2026-09-23T12:10:47.109+01:00 %%
