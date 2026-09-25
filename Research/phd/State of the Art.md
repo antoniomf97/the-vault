@@ -4,10 +4,12 @@
 
 In the past few years, the understanding of the cooperation impact of AI Cognition in hybrid societies of Humans and autonomous agents (AAs) has seen a significant progress, despite studies at large-scale still being on its embryonic stage. Only in the past few years researchers have started to contribute to the literature, that has now span the fields of evolutionary game theory, organizational theory and behavioral experiments. 
 
-The current state of the art suggests that artificial agents can significantly impact the cooperative dynamics of human societies, even when employing fixed behaviors [[bookerDiscriminatorySamaritanWhich2023|Booker2023]], [[sharmaSmallBotsBig2023|Sharma2023]], [[guoFacilitatingCooperationHumanagent2023|Guo2023]], [[terruchaArtCompensationHow2024|Terrucha2024]], [[quanHumanMachineCooperation2026|Quan2026]]. However, the direction and magnitude of these effects are highly contingent on the dynamics structure, population structure, agent design, and the cognitive evolution over time. Although these 
-Let's look at some in particular.
+The current state of the art suggests that artificial agents can significantly impact the cooperative dynamics of human societies, even when employing fixed behaviors [[bookerDiscriminatorySamaritanWhich2023|Booker2023]], [[sharmaSmallBotsBig2023|Sharma2023]], [[guoFacilitatingCooperationHumanagent2023|Guo2023]], [[terruchaArtCompensationHow2024|Terrucha2024]], [[quanHumanMachineCooperation2026|Quan2026]]. However, the direction and magnitude of these effects are highly contingent on the population structure, dynamics structure, agent design, and the cognitive evolution over time. Let's look at these dimensions in particular.
 
 <!--- Population Structure -->
+
+
+
 
 Population structure introduces further dependencies, at various levels. 
 Regarding sub-populational proportionality, it has been suggested that the proportion of AAs to humans in a hybrid society play a critical role on cooperation. While increasing the number of agents can foster cooperation, beyond a certain threshold for instance a significant increase in the number of agents can lead to a cooperation collapse [[guoFacilitatingCooperationHumanagent2023|Guo2023]], [[fuOptimalIntegrationIntelligent2026|Fu2026]].
