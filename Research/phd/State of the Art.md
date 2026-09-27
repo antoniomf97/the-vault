@@ -13,7 +13,7 @@ On a first level, the social structure of a population has major impacts on its 
 
 On a second level, the natural type of each individual impacts heavily cooperation. While adding a single human node does not show significant consequences, a single bot placed at a high-degree node can foster cooperation by reshaping social connections locally ([[guoFacilitatingCooperationHumanagent2023|Guo2023]], [[shiradoLocallyNoisyAutonomous2017|Shirado2017]], [[shiradoNetworkEngineeringUsing2020|Shirado2020]]).
 
-Finally, we must also consider the population composition, in specific, the sub-population proportionality. 
+Finally, we must also consider the population composition, in specific, the sub-population proportionality. The relative proportions, and relative scales of interacting sub-populations directly govern the survival, spread, and phase transitions of cooperation ([[huangEffectHeterogeneousSubpopulations2015|Huang2015]])
 
 Regarding sub-populational proportionality, it has been suggested that the proportion of AAs to humans in a hybrid society play a critical role on cooperation. While increasing the number of agents can foster cooperation, beyond a certain threshold for instance a significant increase in the number of agents can lead to a cooperation collapse [[guoFacilitatingCooperationHumanagent2023|Guo2023]], [[fuOptimalIntegrationIntelligent2026|Fu2026]].
 
