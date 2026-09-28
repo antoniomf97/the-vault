@@ -17,9 +17,9 @@ Lastly, we must also consider the population composition, in specific, the sub-p
 
 <!--- Dynamics Structure -->
 
-Another important core dimension is the dynamics structure, that intends to describe how the different individuals can interact with one another. It defines the temporal scheduling, public game-theoretic interaction protocols, and feedback mechanisms that govern how artificial agents and humans exchange actions.
+Another important core dimension is the dynamics structure, that intends to describe how the different individuals can interact with one another. It defines the temporal scheduling, public game-theoretic interaction protocols, and feedback mechanisms that govern how artificial agents and humans exchange actions. Recent literature has shown that cooperation rates are highly sensitive to these operational rules, hence determining whether prosocial behaviors spread or collapse ([], []).
 
-
+In fact, and starting off on temporal scheduling, early multi-agent simulations often relied on rigid, synchronized, turn-based updates with fixed-increment discrete time steps, which introduce artificial synchronization, execution bias, and propagation delays ([]). 
 
 Starting with the dynamics structure, a core finding is that introducing autonomous agents (AAs) into human populations can facilitate or inhibit cooperation depending on the social dilemma structure. 
 Cooperative AAs have limited impact in prisoner's dilemma games but facilitate cooperation in stag hunt games, while defective AAs paradoxically promote complete dominance of cooperation in snowdrift games [[guoFacilitatingCooperationHumanagent2023|Guo2023]].
