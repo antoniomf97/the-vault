@@ -32,9 +32,7 @@ On a last step, we analyze the matching mechanisms, that is, who interacts with 
 Firstly, in multi-populational settings, different sub-populations may have different preferences towards whom they interact with. In large-scale simulations, researchers demonstrated that algorithmic partner choice fundamentally reshapes social dynamics, driving transitions between assortative pairing, human displacement, and cooperative stabilization ([[jiaAsymmetricInteractionPreference2025|Jia2025]]).
 Here enter the concepts of homophily and heterophily, that is, how likely are individuals to interact with those of the same or other kind, respectively.   
 
-For instance, when agents evaluate candidate partners under explicit identity disclosure, humans exhibit an initial aversion toward AI, yet learn to prefer **hyper-prosocial AI partners** over human alternatives as repeated interactions unfold
-
-[[jiangHumansLearnPrefer2025|Jiang2025]]
+For instance, when agents evaluate candidate partners under explicit identity disclosure, humans exhibit an initial aversion toward AI, yet learn to prefer hyper-prosocial AI partners over human alternatives as repeated interactions unfold ([[jiangHumansLearnPrefer2025|Jiang2025]]).
 
 
 
