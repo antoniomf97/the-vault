@@ -81,9 +81,14 @@ Moving to more deliberative reasoning mechanisms, counterfactual thinking has to
 
 <!--- Cognitive Evolution -->
 
-Lastly, we have cognitive evolution. Because time is the unconditional factor, the way that the population cognition evolves naturally have a major impact on the cooperative dynamics. In large-scale simulations of hybrid societies, cognitive evolution has advanced beyond rigid payoff matrices toward dynamic generative architectures, active belief updating, and hierarchical social learning. Current research models the mind as an evolving, adaptive engine whose internal representations, cognitive biases, and learning horizons continuously coevolve with cultural and institutional norms [[]].
+Lastly, we have cognitive evolution. Because time is the unconditional factor, the way that the population cognition evolves naturally have a major impact on the cooperative dynamics. In large-scale simulations of hybrid societies, cognitive evolution has advanced beyond rigid payoff matrices toward dynamic generative architectures, active belief updating, and hierarchical social learning. Current research models the mind as an evolving, adaptive engine whose internal representations, cognitive biases, and learning horizons continuously coevolve with cultural and institutional norms ([[zihengWhyAreWe2025|Ziheng2025]], [[dossantosCoevolutionCooperationCognition2018|Santos2018]]). This fundamentally affects cooperation
 
 
+We find that cooperation and cognition can coevolve-cooperation initially evolves, favouring enhanced cognition, which favours enhanced cooperation, and stabilizes cooperation against a drop in relatedness.
+
+we find that cooperation and mutual help are the central driver of evolutionary survival, with universal and reciprocal morality exhibiting the most stable outcomes across conditions while selfishness is strongly disfavoured.
+
+we further identify cognition as a central mediator -- most clearly through a cost of moral judgment that shifts the winning moral type across settings, with a self-purging effect among selfish agents as an additional cognitive pattern
 
 
 
