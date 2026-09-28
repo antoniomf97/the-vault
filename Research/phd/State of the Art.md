@@ -81,7 +81,10 @@ Moving to more deliberative reasoning mechanisms, counterfactual thinking has to
 
 <!--- Cognitive Evolution -->
 
-Lastly, we have cognitive evolution. Because time is the unconditional factor, the way that the population cognition evolves over time is essential. Here we can discuss culture (?)
+Lastly, we have cognitive evolution. Because time is the unconditional factor, the way that the population cognition evolves over time is essential. 
+
+Current research models the mind as an evolving, adaptive engine whose internal representations, cognitive biases, and learning horizons continuously coevolve with cultural and institutional norms
+
 
 This is the big gap, there's not much work here.
 
