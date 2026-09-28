@@ -33,6 +33,8 @@ Firstly, in multi-populational settings, different sub-populations may have diff
 
 For instance, 
 
+[[jiangHumansLearnPrefer2025|Jiang2025]]
+
 
 
 We start by exploring the concepts of homophily and heterophily, that is, how likely are individuals to interact with those of the same or other kind, respectively. 
