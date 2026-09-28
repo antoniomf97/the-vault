@@ -2,7 +2,7 @@
 Title: "Social physics in the age of artificial intelligence"
 Year: 2026
 Authors: The Anh Han, Joel Z. Leibo, Tom Lenaerts, Iyad Rahwan, Fernando Santos, Matjaž Perc, Valerio Capraro
-Tags: [/unread, Society, Hybrid]
+Tags: [/unread, Society, Hybrid Societies]
 URL: https://arxiv.org/abs/2603.16900
 aliases:
   - Social physics in the age of artificial intelligence
@@ -23,7 +23,7 @@ aliases:
 > %% begin notes %%
 > Write notes here!
 > 
-> %% end notes %%
+> > %% end notes %%
 
 > [!EXAMPLE]- Annotations
 > >>  <mark class="hltr-yellow">"In contemporary society, and likely even more so in the near future, humans and AI systems with diverse roles and capabilities coexist and interact, giving rise to co-evolutionary dynamics that differ markedly from those observed in purely human settings"</mark> [Page 4](zotero://open-pdf/library/items/B29EQBT6?page=4&annotation=XJQ6ICTB)
@@ -38,4 +38,4 @@ aliases:
 > 
 > 
 
-%% Import Date: 2026-08-31T17:05:10.449+01:00 %%
+%% Import Date: 2026-09-28T16:59:39.358+01:00 %%

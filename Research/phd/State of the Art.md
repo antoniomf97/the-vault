@@ -81,12 +81,8 @@ Moving to more deliberative reasoning mechanisms, counterfactual thinking has to
 
 <!--- Cognitive Evolution -->
 
-Lastly, we have cognitive evolution. Because time is the unconditional factor, the way that the population cognition evolves over time is essential. 
+Lastly, we have cognitive evolution. Because time is the unconditional factor, the way that the population cognition evolves naturally have a major impact on the cooperative dynamics. In large-scale simulations of hybrid societies, cognitive evolution has advanced beyond rigid payoff matrices toward dynamic generative architectures, active belief updating, and hierarchical social learning. Current research models the mind as an evolving, adaptive engine whose internal representations, cognitive biases, and learning horizons continuously coevolve with cultural and institutional norms [[]].
 
-Current research models the mind as an evolving, adaptive engine whose internal representations, cognitive biases, and learning horizons continuously coevolve with cultural and institutional norms
-
-
-This is the big gap, there's not much work here.
 
 
 
