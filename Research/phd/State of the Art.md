@@ -51,7 +51,10 @@ Firstly, in multi-populational settings, different sub-populations may have diff
 capability complementarity
 
 
-Under network assortment, researchers have seen the impact of matching in the cooperative dynamics in topics such as 
+Under network assortment, researchers have seen the impact of matching in the cooperative dynamics in various specific topics. For instance, structural role asymmetries fundamentally alter partner matching: 
+in bipartite Ultimatum Game models, discriminatory AI proposers that selectively enforce fairness outcompete unconditional Samaritan bots
+
+in bipartite Ultimatum Game models, discriminatory AI proposers that selectively enforce fairness outcompete unconditional Samaritan bots
 
 
 <!--- Institutions -->
