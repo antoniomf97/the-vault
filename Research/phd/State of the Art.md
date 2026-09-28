@@ -29,6 +29,13 @@ Additionally, the interaction temporal framing, that is, the horizon framing sub
 
 On a last step, we analyze the matching mechanisms, that is, who interacts with who. Note a major difference between the matching mechanisms and the social structure: while the network says which pairs can meet, the matching rule says which pairs do actually meet. 
 
+We start by exploring the concepts
+
+
+
+
+Lastly, we introduce institutions as overlapping some
+
 <mark style="background:#ff4d4f">add institutions here</mark>
 
 
@@ -88,6 +95,9 @@ In another design, it is shown that, in optional prisoner’s dilemma game, AAs 
 
 
 <!--- [[hanSocialPhysicsAge2026|Han2026]] for the gap -->
+
+
+<mark style="background:#ff4d4f">add CULTURE here</mark>
 
 ## What has been tried on cognition
 
