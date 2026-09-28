@@ -1,0 +1,31 @@
+---
+Title: "Evolution of fairness in hybrid populations with specialised AI agents"
+Year: 2026
+Authors: Zhao Song, Theodor Cimpeanu, Chen Shen, The Anh Han
+Tags: [EGT, /unread]
+URL: https://arxiv.org/abs/2602.18498
+aliases:
+  - Evolution of fairness in hybrid populations with specialised AI agents
+  - songEvolutionFairnessHybrid2026
+---
+
+**Zotero PDF Link:** [PDF](zotero://select/library/items/9KIVSSH5)
+**Relations:** 
+
+
+> [!INFO] Citation
+> Song, Z., Cimpeanu, T., Shen, C., & Han, T. A. (2026). _Evolution of fairness in hybrid populations with specialised AI agents_ (Version 1). arXiv. [https://doi.org/10.48550/ARXIV.2602.18498](https://doi.org/10.48550/ARXIV.2602.18498)
+
+> [!abstract] Abstract
+> Fairness in hybrid societies hinges on a simple choice: should AI be a generous host or a strict gatekeeper? Moving beyond symmetric models, we show that asymmetric social structures--like those in hiring, regulation, and negotiation--AI that guards fairness outperforms AI that gifts it. We bridge this gap with a bipartite hybrid population model of the Ultimatum Game, separating humans and AI into distinct proposer and receiver groups. We first introduce Samaritan AI agents, which act as either unconditional fair proposers or strict receivers. Our results reveal a striking asymmetry: Samaritan AI receivers drive population-wide fairness far more effectively than Samaritan AI proposers. To overcome the limitations of the Samaritan AI proposer, we design the Discriminatory AI proposer, which predicts co-players' expectations and only offers fair portions to those with high acceptance thresholds. Our results demonstrate that this Discriminatory AI outperforms both types of Samaritan AI, especially in strong selection scenarios. It not only sustains fairness across both populations but also significantly lowers the critical mass of agents required to reach an equitable steady state. By transitioning from unconditional modelling to strategic enforcement, our work provides a pivotal framework for deploying asymmetric AIs in the increasingly hybrid society.
+
+> [!NOTE]- Persistent Notes
+> %% begin notes %%
+> Write notes here!
+> 
+> %% end notes %%
+
+> [!EXAMPLE]- Annotations
+> 
+
+%% Import Date: 2026-09-28T22:08:46.307+01:00 %%
