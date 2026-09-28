@@ -23,7 +23,7 @@ aliases:
 > %% begin notes %%
 > Write notes here!
 > 
-> %% end notes %%
+> > %% end notes %%
 
 > [!EXAMPLE]- Annotations
 > >>  <mark class="hltr-yellow">"here we put forward a heterogeneous sub-population model on regular lattices and complex networks: players face different dilemmas and cooperation tendency inside and outside sub-population"</mark> [Page 681](zotero://open-pdf/library/items/VAW4577P?page=681&annotation=DFH5P7LM)
@@ -43,4 +43,4 @@ aliases:
 > 
 > 
 
-%% Import Date: 2026-09-27T13:59:24.033+01:00 %%
+%% Import Date: 2026-09-28T11:49:12.719+01:00 %%
