@@ -8,7 +8,7 @@ The current state of the art suggests that artificial agents can significantly i
 
 <!--- Population Structure -->
 
-Starting with the foundation, the population structure is the backbone of large-scale simulations, as it describes the basis of the social environment on which agents can act, at different levels. 
+Starting with the foundation, the population structure is the backbone of large-scale simulations, as it describes the basis of the social environment on which agents can act, at different level. Specifically, 
 
 On a first level, the social structure of a population has major impacts on its overall cooperation dynamics. Whether modelled as unstructured well-mixed systems, rigid networks, or even an hybrid intermediate configurations between the two systems, topology fundamentally changes how cooperative behaviors emerge, stabilize, or decay ([[randStaticNetworkStructure2014|Rand2014]], [[allenEvolutionaryDynamicsAny2017|Allen2017]]). Researchers have shown that this result remains unaltered even when considering hybrid societies of human and agents: networked populations maintain enhanced cooperation irrespective of imitation strength, while well-mixed populations require weak imitation for agents to be effective ([[guoEngineeringOptimalCooperation2024|Guo2024]]).
 
