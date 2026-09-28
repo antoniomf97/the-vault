@@ -38,7 +38,7 @@ For instance, when agents evaluate candidate partners under explicit identity di
 
 
 
-Lastly, we introduce institutions
+Lastly, we explore institutions as formalized exogenous rule systems and enforcement protocols that constrain how humans and artificial agents interact. Rather than treating institutions as neutral containers, state-of-the-art simulations demonstrate that market rules, property systems, and governance constraints fundamentally coill
 
 <mark style="background:#ff4d4f">add institutions here</mark>
 
