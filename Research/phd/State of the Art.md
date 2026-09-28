@@ -82,14 +82,16 @@ Moving to more deliberative reasoning mechanisms, counterfactual thinking has to
 <!--- Cognitive Evolution -->
 
 Lastly, we have cognitive evolution. Because time is the unconditional factor, the way that the population cognition evolves naturally have a major impact on the cooperative dynamics. 
-In large-scale simulations of hybrid societies, cognitive evolution has advanced beyond rigid payoff matrices toward dynamic generative architectures, active belief updating, and hierarchical social learning. 
+In large-scale simulations of hybrid societies, cognitive evolution has advanced beyond rigid payoff matrices toward dynamic generative architectures, active belief updating, and hierarchical social learning. Current research models the mind as an evolving, adaptive engine whose internal representations, cognitive biases, and learning horizons continuously coevolve with cultural and institutional norms. These extraordinary flexibility leads to major impacts on the overall cooperation dynamics. 
+This effect has been seen in humans, where researchers proposed that cooperation and cognition can coevolve: 
+
 For instance, researchers have proposed LLM-based agent simulation framework that can bring cognitive realism to this question: agents with varying moral dispositions perceive, remember, reason, and decide in a simulated prehistoric hunter-gatherer society ([[zihengWhyAreWe2025|Ziheng2025]])
 
 
-Current research models the mind as an evolving, adaptive engine whose internal representations, cognitive biases, and learning horizons continuously coevolve with cultural and institutional norms (, [[dossantosCoevolutionCooperationCognition2018|Santos2018]]). This fundamentally affects cooperation
+ . 
 
 
-We find that cooperation and cognition can coevolve-cooperation initially evolves, favouring enhanced cognition, which favours enhanced cooperation, and stabilizes cooperation against a drop in relatedness.
+We find that cooperation and cognition can coevolve-cooperation initially evolves, favouring enhanced cognition, which favours enhanced cooperation, and stabilizes cooperation against a drop in relatedness. These results suggest that enhanced cognition could have transformed the nature of cooperative dilemmas faced by early humans, thereby explaining the maintenance of cooperation between unrelated partners ([[dossantosCoevolutionCooperationCognition2018|Santos2018]]).
 
 we find that cooperation and mutual help are the central driver of evolutionary survival, with universal and reciprocal morality exhibiting the most stable outcomes across conditions while selfishness is strongly disfavoured.
 
@@ -109,12 +111,6 @@ In another design, it is shown that, in optional prisoner’s dilemma game, AAs 
 
 
 <mark style="background:#ff4d4f">add CULTURE here</mark>
-
-## What has been tried on cognition
-
-Whereas most works on cooperation dynamics focus on social learning, assuming individuals are purely rational [ ], many other works have been done in exploring different types of reasoning. While some works focus on incorporating emotions [ ], such as guilt, anger or regret, others try to focus more on the cognitive side exploring, for instance, different update rules, from imitation biases, such as conformism [ ] or prestige [ ], through individual reinforcement based on aspiration levels [ ], to more deliberative mechanisms, such as counterfactual thinking [ ] and theory of mind [ ].
-
-While some works have been done in exploring the impact of AI in society, as a part of a hybrid human-AI society, they are very limited. Agent-based simulations, multi-agent RL, behavioral experiments, all show greater limitations (explain limitations here...(re-do paragraph)). While EGT provides a simple framework that helps exploring the cooperative effects of having different types of agents, reasoning under different cognitive profiles, hybrid human-AI societies are widely unexplored within an EGT approach. Some works have been done, either generally opinions [ ] or very specific situations [Samaritan] but a more general and profound study is lacking.
 
 ## What none of this addresses is...
 
