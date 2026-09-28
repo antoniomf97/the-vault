@@ -17,7 +17,7 @@ Finally, we must also consider the population composition, in specific, the sub-
 
 <!--- Dynamics Structure -->
 
-While 
+While
 
 Starting with the dynamics structure, a core finding is that introducing autonomous agents (AAs) into human populations can facilitate or inhibit cooperation depending on the social dilemma structure. 
 Cooperative AAs have limited impact in prisoner's dilemma games but facilitate cooperation in stag hunt games, while defective AAs paradoxically promote complete dominance of cooperation in snowdrift games [[guoFacilitatingCooperationHumanagent2023|Guo2023]].
