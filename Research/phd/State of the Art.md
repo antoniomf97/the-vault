@@ -8,7 +8,7 @@ The current state of the art suggests that artificial agents can significantly i
 
 <!--- Population Structure -->
 
-Starting with the foundation, the population structure is the backbone of large-scale simulations, as it describes the basis of the social environment on which agents can act, at different level. Specifically, we'll look into the social structure, the individuals' intrinsic nature and the population composition.
+Starting with the foundation, the population structure is the backbone of large-scale simulations, as it describes the basis of the social environment on which agents can act, at different level. Specifically, we'll look into the social structure, that defines who can interact with who, the individuals' intrinsic nature, which specifies who is the agent, and the population composition, which is specific to what is the overall population composition.
 
 On a first level, the social structure of a population has major impacts on its overall cooperation dynamics. Whether modelled as unstructured well-mixed systems, rigid networks, or even an hybrid intermediate configurations between the two systems, topology fundamentally changes how cooperative behaviors emerge, stabilize, or decay ([[randStaticNetworkStructure2014|Rand2014]], [[allenEvolutionaryDynamicsAny2017|Allen2017]]). Researchers have shown that this result remains unaltered even when considering hybrid societies of human and agents: networked populations maintain enhanced cooperation irrespective of imitation strength, while well-mixed populations require weak imitation for agents to be effective ([[guoEngineeringOptimalCooperation2024|Guo2024]]).
 
@@ -27,7 +27,7 @@ The dynamics effects depend not only on the games' inherent nature (that is, if 
 
 Additionally, the interaction temporal framing, that is, the horizon framing substantially alter artificial agent influence. The fact that dilemmas are framed as repeated or one-shot has a major impact on the cooperative dynamics not only under human societies ([[terruchaArtCompensationHow2024|Terrucha2024]], [[akataPlayingRepeatedGames2025|Akata2025]]), but more importantly under hybrid societies ([[barreda-tarrazonaExploitingMachineHuman2026|Barreda-Tarrazona2026]]). As an example, while the likelihood of cooperation does not depend on whether the counterpart is human or artificial in the one-shot Prisoner's Dilemma  games, the same is not true for repeated Prisoner's Dilemma, where cooperation is less likely when participants play with an artificial agent than when they play with other humans ([[barreda-tarrazonaExploitingMachineHuman2026|Barreda-Tarrazona2026]]).
 
-On a last step, we analyze the matching mechanisms, that is, who interacts with who.
+On a last step, we analyze the matching mechanisms, that is, who interacts with who. We re-inforce
 
 <mark style="background:#ff4d4f">add institutions here</mark>
 
