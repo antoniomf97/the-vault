@@ -84,7 +84,9 @@ Moving to more deliberative reasoning mechanisms, counterfactual thinking has to
 Lastly, we have cognitive evolution. Because time is the unconditional factor, the way that the population cognition evolves naturally have a major impact on the cooperative dynamics. 
 In large-scale simulations of hybrid societies, cognitive evolution has advanced beyond rigid payoff matrices toward dynamic generative architectures, active belief updating, and hierarchical social learning. Current research models the mind as an evolving, adaptive engine whose internal representations, cognitive biases, and learning horizons continuously coevolve with cultural and institutional norms. These extra-ordinary flexibility leads to major impacts on the overall cooperation dynamics. 
 This effect has been seen in humans, where researchers proposed that cooperation and cognition can coevolve, suggesting that enhanced cognition could have transformed the nature of cooperative dilemmas faced by early humans, thereby explaining the maintenance of cooperation between unrelated partners ([[dossantosCoevolutionCooperationCognition2018|Santos2018]]).
+Another example is, when investigating adaptive time dynamics in learning, researchers found that individuals relied more on (conformist) social learning after spatial compared with temporal changes ([[deffnerDynamicSocialLearning2020|Deffner2020]]).
 
+The same 
 For instance, researchers have proposed LLM-based agent simulation framework that can bring cognitive realism to this question: agents with varying moral dispositions perceive, remember, reason, and decide in a simulated prehistoric hunter-gatherer society ([[zihengWhyAreWe2025|Ziheng2025]])
 
 
