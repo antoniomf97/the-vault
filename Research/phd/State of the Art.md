@@ -29,7 +29,7 @@ Additionally, the interaction temporal framing, that is, the horizon framing sub
 
 On a last step, we analyze the matching mechanisms, that is, who interacts with who. Note a major difference between the matching mechanisms and the social structure: while the network says which pairs can meet, the matching rule says which pairs do actually meet. 
 
-We start by exploring the concepts
+We start by exploring the concepts of homophily and heterophily, that is, how lean are individuals to interact with the ones of the same or other kind, respectively. 
 
 
 
