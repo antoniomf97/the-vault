@@ -55,7 +55,7 @@ Under network assortment, researchers have seen the impact of matching in the co
 
 **Dynamic incentive distortions** emerge during pre-announced sorting: pairing high performers with low performers reduces baseline effort by 20% compared to random matching due to strategic masking of capability ([[gallDynamicIncentiveEffects2019|Gall2019]])
 
-
+**Multimodal behavioral alignment** grounds pairing: analyzing synchronized gaze, speech, and physiological signals allows matching engines to model human cognitive load and self-regulation dynamically
 
 
 <!--- Institutions -->
