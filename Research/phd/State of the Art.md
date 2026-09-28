@@ -6,41 +6,52 @@ In the past few years, the understanding of the cooperation impact of AI Cogniti
 
 The current state of the art suggests that artificial agents can significantly impact the cooperative dynamics of human societies, even when employing fixed behaviors ([[bookerDiscriminatorySamaritanWhich2023|Booker2023]], [[sharmaSmallBotsBig2023|Sharma2023]], [[guoFacilitatingCooperationHumanagent2023|Guo2023]], [[terruchaArtCompensationHow2024|Terrucha2024]], [[quanHumanMachineCooperation2026|Quan2026]]). However, the direction and magnitude of these effects are highly contingent on all the default dimensions of large-scale simulations: population structure, dynamics structure, agent design, and the cognitive evolution over time. We will now be looking at each of these dimensions in particular.
 
-<!--- Population Structure -->
+<!--- ===== Population Structure===== -->
 
 Starting with the foundation, the population structure is the backbone of large-scale simulations, as it describes the basis of the social environment on which agents can act, at different level. Specifically, we'll look into the social structure, that defines who can interact with who, the individuals' intrinsic nature, which specifies who is the agent, and the population composition, which is specific to what is the overall population composition.
 
+<!--- Social Structure -->
+
 On a first level, the social structure of a population has major impacts on its overall cooperation dynamics. Whether modelled as unstructured well-mixed systems, rigid networks, or even an hybrid intermediate configurations between the two systems, topology fundamentally changes how cooperative behaviors emerge, stabilize, or decay ([[randStaticNetworkStructure2014|Rand2014]], [[allenEvolutionaryDynamicsAny2017|Allen2017]]). Researchers have shown that this result remains unaltered even when considering hybrid societies of human and agents: networked populations maintain enhanced cooperation irrespective of imitation strength, while well-mixed populations require weak imitation for agents to be effective ([[guoEngineeringOptimalCooperation2024|Guo2024]]).
+
+<!---  Intrinsic Nature -->
 
 On a second level, the nature of each individual's intrinsic types heavily impacts cooperation. For instance, while adding a single human node does not show significant consequences, a single bot placed at a high-degree node can foster cooperation by reshaping social connections locally ([[guoFacilitatingCooperationHumanagent2023|Guo2023]], [[shiradoLocallyNoisyAutonomous2017|Shirado2017]], [[shiradoNetworkEngineeringUsing2020|Shirado2020]]).
 
+<!--- Population Composition -->
+
 Lastly, we must also consider the population composition, in specific, the sub-population proportionality. The relative proportions, and relative scales of interacting sub-populations directly govern the survival, spread, and phase transitions of cooperation ([[huangEffectHeterogeneousSubpopulations2015|Huang2015]]). The same is true for hybrid societies, where researchers suggest that the proportion of AAs to humans in a hybrid society play a critical role on cooperation. For instance, while increasing the number of agents can foster cooperation, beyond a certain threshold for instance a significant increase in the number of agents can lead to a cooperation collapse ([[guoFacilitatingCooperationHumanagent2023|Guo2023]], [[fuOptimalIntegrationIntelligent2026|Fu2026]]).
 
-<!--- Dynamics Structure -->
+<!--- ===== Dynamics Structure ===== -->
 
 Another important core dimension is the dynamics structure, that intends to describe when, how and with whom the different individuals can interact with. It defines the temporal scheduling, public game-theoretic interaction protocols, and matching mechanisms that govern how artificial agents and humans exchange actions. Recent literature has shown that cooperation rates are highly sensitive to these operational rules, hence determining whether prosocial behaviors spread or collapse ([], []).
 
+<!--- Temporal Scheduling -->
+
  In fact, starting with temporal scheduling, early multi-agent simulations often relied on rigid, synchronized, turn-based updates with fixed-increment discrete time steps, which introduce artificial synchronization, execution bias, and propagation delays ([]). More importantly, it introduce temporal synchronization errors that fail to capture human behavioral dynamics ([[kosterFastEmbeddedLanguage2024|Koster2024]]). As a result, the state-of-the-art frameworks increasingly deploy event-driven queues and continuous-time loops to capture more realistic social interactions ([[fabriDisentanglingHumanAIHybrids2023|Fabri2023]], [[williamsEventTriggeredFrameworkTrustMediated2025|Williams2025]]).
+
+<!--- Game-Theoretic Protocols -->
 
 On another step, the public game-theoretic protocols matter: introducing autonomous agents (AAs) into human populations can facilitate or inhibit cooperation depending on the social dilemma structure. Cooperative AAs have limited impact in prisoner's dilemma games but facilitate cooperation in stag hunt games, while defective AAs paradoxically promote complete dominance of cooperation in snowdrift games [[guoFacilitatingCooperationHumanagent2023|Guo2023]].
 The dynamics effects depend not only on the games' inherent nature (that is, if its whether a coordination, co-existence or C-dominance game), but on the games' configurations. In a mixed spatial prisoner's dilemma environment using reinforcement learning–based machine strategies, it was shown that in low-temptation settings, machines strengthen cooperative stability, whereas in high-temptation environments, cooperation relies more on human strategies ([[quanHumanMachineCooperation2026|Quan2026]]).
 
 Additionally, the interaction temporal framing, that is, the horizon framing substantially alter artificial agent influence. The fact that dilemmas are framed as repeated or one-shot has a major impact on the cooperative dynamics not only under human societies ([[terruchaArtCompensationHow2024|Terrucha2024]], [[akataPlayingRepeatedGames2025|Akata2025]]), but more importantly under hybrid societies ([[barreda-tarrazonaExploitingMachineHuman2026|Barreda-Tarrazona2026]]). As an example, while the likelihood of cooperation does not depend on whether the counterpart is human or artificial in the one-shot Prisoner's Dilemma  games, the same is not true for repeated Prisoner's Dilemma, where cooperation is less likely when participants play with an artificial agent than when they play with other humans ([[barreda-tarrazonaExploitingMachineHuman2026|Barreda-Tarrazona2026]]).
 
+<!--- Matching Mechanisms -->
+
 On a last step, we analyze the matching mechanisms, that is, who interacts with who. Note a major difference between the matching mechanisms and the social structure: while the network says which pairs can meet, the matching rule says which pairs do actually meet. 
 
 Firstly, in multi-populational settings, different sub-populations may have different preferences towards whom they interact with. In large-scale simulations, researchers demonstrated that algorithmic partner choice fundamentally reshapes social dynamics, driving transitions between assortative pairing, human displacement, and cooperative stabilization ([[jiaAsymmetricInteractionPreference2025|Jia2025]]). Here enter the concepts of homophily and heterophily, that is, how likely are individuals to interact with those of the same or other kind, respectively.  For instance, when agents evaluate candidate partners under explicit identity disclosure, humans exhibit an initial aversion toward AI, yet learn to prefer hyper-prosocial AI partners over human alternatives as repeated interactions unfold ([[jiangHumansLearnPrefer2025|Jiang2025]]).
 
 
-
-
+<!--- Institutions -->
 
 Lastly, we explore institutions as formalized exogenous rule systems and enforcement protocols that constrain how humans and artificial agents interact. Rather than operating as passive backgrounds, institutional frameworks actively act on the structure of the fitness landscape, dictating whether cooperation elevates or collapses under hybrid systems ([[bartelheimerConceptualizingHybridIntelligent2025|Bartelheimer2025]]).
 Researchers have been 
 
 
 
-<!--- Agent Design -->
+<!--- ===== Agent Design ===== -->
 
 Agent design comes as a very complex contingency in the AI impact on humans populations, as it integrates an elaborate set of dimensions, from its core components, like memory, embodiment and identity, to its more superficial set of social skills, like communication, affection, perception, or problem-solving ([[oecdIntroducingOECDAI2025|OECD2025]]). The whole architecture of agents, will dictate how AAs behave in the world, shaping the cooperative dynamics of societies. 
 
