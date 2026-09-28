@@ -13,11 +13,13 @@ On a first level, the social structure of a population has major impacts on its 
 
 On a second level, the nature of each individual's intrinsic types heavily impacts cooperation. For instance, while adding a single human node does not show significant consequences, a single bot placed at a high-degree node can foster cooperation by reshaping social connections locally ([[guoFacilitatingCooperationHumanagent2023|Guo2023]], [[shiradoLocallyNoisyAutonomous2017|Shirado2017]], [[shiradoNetworkEngineeringUsing2020|Shirado2020]]).
 
-Finally, we must also consider the population composition, in specific, the sub-population proportionality. The relative proportions, and relative scales of interacting sub-populations directly govern the survival, spread, and phase transitions of cooperation ([[huangEffectHeterogeneousSubpopulations2015|Huang2015]]). The same is true for hybrid societies, where researchers suggest that the proportion of AAs to humans in a hybrid society play a critical role on cooperation. For instance, while increasing the number of agents can foster cooperation, beyond a certain threshold for instance a significant increase in the number of agents can lead to a cooperation collapse ([[guoFacilitatingCooperationHumanagent2023|Guo2023]], [[fuOptimalIntegrationIntelligent2026|Fu2026]]).
+Lastly, we must also consider the population composition, in specific, the sub-population proportionality. The relative proportions, and relative scales of interacting sub-populations directly govern the survival, spread, and phase transitions of cooperation ([[huangEffectHeterogeneousSubpopulations2015|Huang2015]]). The same is true for hybrid societies, where researchers suggest that the proportion of AAs to humans in a hybrid society play a critical role on cooperation. For instance, while increasing the number of agents can foster cooperation, beyond a certain threshold for instance a significant increase in the number of agents can lead to a cooperation collapse ([[guoFacilitatingCooperationHumanagent2023|Guo2023]], [[fuOptimalIntegrationIntelligent2026|Fu2026]]).
 
 <!--- Dynamics Structure -->
 
-While
+Another important core dimension is the dynamics structure, that intends to describe how the different individuals can interact with one another. It defines the temporal scheduling, public game-theoretic interaction protocols, and feedback mechanisms that govern how artificial agents and humans exchange actions.
+
+
 
 Starting with the dynamics structure, a core finding is that introducing autonomous agents (AAs) into human populations can facilitate or inhibit cooperation depending on the social dilemma structure. 
 Cooperative AAs have limited impact in prisoner's dilemma games but facilitate cooperation in stag hunt games, while defective AAs paradoxically promote complete dominance of cooperation in snowdrift games [[guoFacilitatingCooperationHumanagent2023|Guo2023]].
