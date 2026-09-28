@@ -27,7 +27,7 @@ The dynamics effects depend not only on the games' inherent nature (that is, if 
 
 Additionally, the interaction temporal framing, that is, the horizon framing substantially alter artificial agent influence. The fact that dilemmas are framed as repeated or one-shot has a major impact on the cooperative dynamics not only under human societies ([[terruchaArtCompensationHow2024|Terrucha2024]], [[akataPlayingRepeatedGames2025|Akata2025]]), but more importantly under hybrid societies ([[barreda-tarrazonaExploitingMachineHuman2026|Barreda-Tarrazona2026]]). As an example, while the likelihood of cooperation does not depend on whether the counterpart is human or artificial in the one-shot Prisoner's Dilemma  games, the same is not true for repeated Prisoner's Dilemma, where cooperation is less likely when participants play with an artificial agent than when they play with other humans ([[barreda-tarrazonaExploitingMachineHuman2026|Barreda-Tarrazona2026]]).
 
-On a last step, we analyze the matching mechanisms, that is, who interacts with who. We re-inforce
+On a last step, we analyze the matching mechanisms, that is, who interacts with who. Note a major difference between the matching mechanisms and the social structure: while the network says which pairs can meet, the matching rule says which pairs do actually meet. 
 
 <mark style="background:#ff4d4f">add institutions here</mark>
 
