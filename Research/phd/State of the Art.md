@@ -34,7 +34,7 @@ We start by exploring the concepts of homophily and heterophily, that is, how li
 
 
 
-Lastly, we introduce institutions as overlapping some
+Lastly, we introduce institutions
 
 <mark style="background:#ff4d4f">add institutions here</mark>
 
