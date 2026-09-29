@@ -110,6 +110,10 @@ Lastly, we have cognitive evolution. Because time is the unconditional factor, t
 In large-scale simulations of hybrid societies, cognitive evolution has advanced beyond rigid payoff matrices toward dynamic generative architectures, active belief updating, and hierarchical social learning. Current research models the mind as an evolving, adaptive engine whose internal representations, cognitive biases, and learning horizons continuously coevolve with cultural and institutional norms. These extra-ordinary flexibility leads to major impacts on the overall cooperation dynamics. 
 This effect has been seen in humans, where researchers proposed that cooperation and cognition can coevolve, suggesting that enhanced cognition could have transformed the nature of cooperative dilemmas faced by early humans, thereby explaining the maintenance of cooperation between unrelated partners ([[dossantosCoevolutionCooperationCognition2018|Santos2018]]).
 Another example is, when investigating adaptive time dynamics in learning, researchers found that individuals relied more on (conformist) social learning after spatial compared with temporal changes ([[deffnerDynamicSocialLearning2020|Deffner2020]]).
+The evolution of beliefs
+
+strong consensus may be insufficient to guarantee social stability, that the cognitive coherence of belief-systems is vital in determining their ability to spread, and that coherent belief-systems may pose a serious problem for resolving social polarization, due to their ability to prevent consensus even under high levels of social exposure ([[rodriguezCollectiveDynamicsBelief2016|Rodriguez2016]])
+
 
 
 The effects of time are similarly visible in hybrid societies. For instance, researchers have proposed LLM-based agent simulation framework that can bring cognitive realism to this question: agents with varying moral dispositions perceive, remember, reason, and decide in a simulated prehistoric hunter-gatherer society ([[zihengWhyAreWe2025|Ziheng2025]])
@@ -122,7 +126,7 @@ we further identify cognition as a central mediator -- most clearly through a co
 
 
 
-strong consensus may be insufficient to guarantee social stability, that the cognitive coherence of belief-systems is vital in determining their ability to spread, and that coherent belief-systems may pose a serious problem for resolving social polarization, due to their ability to prevent consensus even under high levels of social exposure ([[rodriguezCollectiveDynamicsBelief2016|Rodriguez2016]])
+
 
 
 
@@ -138,9 +142,9 @@ strong consensus may be insufficient to guarantee social stability, that the cog
 We have explored a wide set of dimensions under the topic of the cooperative impact of AI Cognition in hybrid societies, coming to a final conclusion that reinforces the initial premise: artificial agents can significantly impact the cooperative dynamics of societies, but this impact is highly contingent on the populational and dynamical structures, on the agent design and on the cognitive evolution. 
 
 Many different works have been exploring some of these dimensions, focusing on particular topics, such as population composition (), temporal scheduling (), matching mechanisms (), institutions (), reasoning mechanisms (), and many others. 
-However, and taking the [[oecdIntroducingOECDAI2025|OECD2025]] general framework, some dimensions remain relatively unexplored in large-scale simulations. This is the case of embodiment, AI identity, social preception
+However, and taking the [[oecdIntroducingOECDAI2025|OECD2025]] general framework, some dimensions remain relatively unexplored in large-scale simulations. This is the case of embodiment, AI identity, social perception and social problem-solving.
 
-none of the proposed models and frameworks have specifically studied the evolution of the impact of AI cognition in 
+Focusing on the latter, we've seen that none of the proposed models and frameworks have specifically studied the evolution of the impact of AI cognition in cooperation in hybrid societies, let alone enabling generalization.
 
 
 
