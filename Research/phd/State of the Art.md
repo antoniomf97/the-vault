@@ -151,8 +151,6 @@ We have explored many different works on a wide set of dimensions under the topi
 However, none of these works specifically explores how AI cognitive profiles and their evolutions affect the emergence and stability of cooperation in large-scale hybrid societies. 
 Some researchers have partially explored the evolution of 
 
-In fact, some  have come closer but not quite fulfilling our purpose.
-
 
 <!--- The biggest gap in the field of AI cognition in hybrid populations is the near-total absence of works that examine how AI cognitive capabilities alter cooperative dynamics. Evolutionary game models overwhelmingly use fixed-behavior agents as proxies for AI, explicitly abstracting away cognitive complexity. 
 
