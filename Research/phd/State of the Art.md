@@ -152,7 +152,7 @@ However, none of these works specifically explores how AI cognitive profiles and
 
 Although some researchers have explored some tangent topics, there are still a lot of limitations that haven't been explored. 
 
-Some works have partially explored the evolution of cognition, but using a very general approach and only focused in humans ([[dossantosCoevolutionCooperationCognition2018|Santos2018]]), or only focused on the beliefs ([[deffnerDynamicSocialLearning2020|Deffner2020]]). Others have
+Some works have partially explored the evolution of cognition, but using a very general approach and only focused in humans ([[dossantosCoevolutionCooperationCognition2018|Santos2018]]), or only focused on the beliefs ([[deffnerDynamicSocialLearning2020|Deffner2020]]). Others have studied human-AI interaction in large hybrid populations, but softening the differences between humans and agents, and restricting the dynamic to a PD
 
 
 <!--- The biggest gap in the field of AI cognition in hybrid populations is the near-total absence of works that examine how AI cognitive capabilities alter cooperative dynamics. Evolutionary game models overwhelmingly use fixed-behavior agents as proxies for AI, explicitly abstracting away cognitive complexity. 
