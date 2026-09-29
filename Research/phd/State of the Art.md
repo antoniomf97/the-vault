@@ -139,12 +139,16 @@ we further identify cognition as a central mediator -- most clearly through a co
 
 ## What none of this addresses is...
 
-We have explored a wide set of dimensions under the topic of the cooperative impact of AI Cognition in hybrid societies, coming to a final conclusion that reinforces the initial premise: artificial agents can significantly impact the cooperative dynamics of societies, but this impact is highly contingent on the populational and dynamical structures, on the agent design and on the cognitive evolution. 
+<!---We have explored a wide set of dimensions under the topic of the cooperative impact of AI Cognition in hybrid societies, coming to a final conclusion that reinforces the initial premise: artificial agents can significantly impact the cooperative dynamics of societies, but this impact is highly contingent on the populational and dynamical structures, on the agent design and on the cognitive evolution. 
 
 Many different works have been exploring some of these dimensions, focusing on particular topics, such as population composition (), temporal scheduling (), matching mechanisms (), institutions (), reasoning mechanisms (), and many others. 
 However, and taking the [[oecdIntroducingOECDAI2025|OECD2025]] general framework, some dimensions remain relatively unexplored in large-scale simulations. This is the case of embodiment, AI identity, social perception and social problem-solving.
 
-Focusing on the latter, we've seen that none of the proposed models and frameworks have specifically studied the evolution of the impact of AI cognition in cooperation in hybrid societies, let alone enabling generalization.
+Focusing on the latter, we've seen that none of the proposed models and frameworks have specifically studied the evolution of the impact of AI cognition in cooperation in hybrid societies, let alone enabling generalization. --->
+
+This work investigates how the cognitive profiles of AI agents shape the emergence and evolution of cooperation in hybrid human-AI societies, contributing to a deeper understanding of how AI systems can be responsibly designed to promote beneficial societal outcomes.
+
+We have explored a wide set of dimensions under the topic of the cooperative impact of AI Cognition in hybrid societies, coming to a final conclusion that reinforces the initial premise: artificial agents can significantly impact the cooperative dynamics of societies, but this impact is highly contingent on the populational and dynamical structures, on the agent design and on the cognitive evolution. 
 
 
 
