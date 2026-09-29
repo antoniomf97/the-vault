@@ -135,9 +135,11 @@ strong consensus may be insufficient to guarantee social stability, that the cog
 
 ## What none of this addresses is...
 
-We have explored a wide set of dimensions in the cooperative impact of AI Cognition in hybrid societies. We're now able to point out some future directions that are still yet to be studied.
+We have explored a wide set of dimensions under the topic of the cooperative impact of AI Cognition in hybrid societies, coming to a final conclusion that reinforces the premise: artificial agents can significantly impact the cooperative dynamics of societies and this impact is hig
 
-artificial agents impact the cooperative dynamics of human societies
+
+After exploring a wide set of dimensions in the cooperative impact of AI Cognition in hybrid societies, we're now able to point out some future directions that are yet to be studied.
+
 
 
 
@@ -155,4 +157,4 @@ scenarios, such as stochastic games and sequential social dilemma games
 
 #### Limitations that we will not address
 
-While these theoretical findings may provide powerful insights, they are bounded to mathematical models in controlled environments that are yet to be empirically validated. While most behavioral studies bridge these models to reality, most experiments assume human-AI pairs, omitting the group (and large group) processes that generate emergent norm expectations [[mutznerBoundedNormativeEquivalence2026|Mutzner2026]].
+While these theoretical findings may provide powerful insights, they are bounded to mathematical models in controlled environments that are yet to be empirically validated. While most behavioral studies bridge these models to reality, most experiments assume human-AI pairs, omitting the group (and large group) processes that generate emergent norm expectations /[[mutznerBoundedNormativeEquivalence2026|Mutzner2026]](.
