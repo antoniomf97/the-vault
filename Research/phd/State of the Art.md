@@ -149,7 +149,10 @@ Focusing on the latter, we've seen that none of the proposed models and framewor
 We have explored many different works on a wide set of dimensions under the topic of the cooperative impact of AI Cognition in hybrid societies, coming to a final conclusion that reinforces the initial premise: artificial agents can significantly impact the cooperative dynamics of societies, but this impact is highly contingent on the populational and dynamical structures, on the agent design and on the cognitive evolution. 
 
 However, none of these works specifically explores how AI cognitive profiles and their evolutions affect the emergence and stability of cooperation in large-scale hybrid societies. 
-Some researchers have partially explored the evolution of 
+
+Although some researchers have explored some tangent topics, there are still a lot of limitations that haven't been explored. 
+
+Some works have partially explored the evolution of cognition, but using a very general approach and only focused in humans ([[dossantosCoevolutionCooperationCognition2018|Santos2018]]), or only focused on the beliefs ([[deffnerDynamicSocialLearning2020|Deffner2020]]). Others have
 
 
 <!--- The biggest gap in the field of AI cognition in hybrid populations is the near-total absence of works that examine how AI cognitive capabilities alter cooperative dynamics. Evolutionary game models overwhelmingly use fixed-behavior agents as proxies for AI, explicitly abstracting away cognitive complexity. 
