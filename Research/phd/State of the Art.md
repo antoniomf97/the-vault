@@ -2,7 +2,7 @@
 
 ## What the field has established
 
-In the past few years, the understanding of the cooperation impact of AI Cognition in hybrid societies of Humans and autonomous agents (AAs) has seen a significant progress, despite studies at large-scale still being on its embryonic stage. Only in the past few years researchers have started to contribute to the literature, that has now span the fields of evolutionary game theory, organizational theory and behavioral experiments. 
+In the past few years, the understanding of the cooperation impact of AI Cognition in hybrid societies of humans and autonomous agents (AAs) has seen a significant progress, despite studies at large-scale still being on its embryonic stage. Only in the past few years researchers have started to contribute to the literature, that has now span the fields of evolutionary game theory, organizational theory and behavioral experiments. 
 
 The current state of the art suggests that artificial agents can significantly impact the cooperative dynamics of human societies, even when employing fixed behaviors ([[bookerDiscriminatorySamaritanWhich2023|Booker2023]], [[sharmaSmallBotsBig2023|Sharma2023]], [[guoFacilitatingCooperationHumanagent2023|Guo2023]], [[terruchaArtCompensationHow2024|Terrucha2024]], [[quanHumanMachineCooperation2026|Quan2026]]). However, the direction and magnitude of these effects are highly contingent on all the default dimensions of large-scale simulations: population structure, dynamics structure, agent design, and the cognitive evolution over time. We will now be looking at each of these dimensions in particular.
 
@@ -134,6 +134,12 @@ strong consensus may be insufficient to guarantee social stability, that the cog
 <mark style="background:#ff4d4f">add CULTURE here</mark>
 
 ## What none of this addresses is...
+
+We have explored a wide set of dimensions in the cooperative impact of AI Cognition in hybrid societies. We're now able to point out some future directions that are still yet to be studied.
+
+artificial agents impact the cooperative dynamics of human societies
+
+
 
 The biggest gap in the field of AI cognition in hybrid populations is the near-total absence of works that examine how AI cognitive capabilities alter cooperative dynamics. Evolutionary game models overwhelmingly use fixed-behavior agents as proxies for AI, explicitly abstracting away cognitive complexity. 
 
