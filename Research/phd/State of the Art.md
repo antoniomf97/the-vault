@@ -137,7 +137,10 @@ strong consensus may be insufficient to guarantee social stability, that the cog
 
 We have explored a wide set of dimensions under the topic of the cooperative impact of AI Cognition in hybrid societies, coming to a final conclusion that reinforces the initial premise: artificial agents can significantly impact the cooperative dynamics of societies, but this impact is highly contingent on the populational and dynamical structures, on the agent design and on the cognitive evolution. 
 
-Many different works have been exploring some of these dimensions, focusing on specific topics, such as population composition (), temporal scheduling
+Many different works have been exploring some of these dimensions, focusing on particular topics, such as population composition (), temporal scheduling (), matching mechanisms (), institutions (), reasoning mechanisms (), and many others. 
+However, and taking the [[oecdIntroducingOECDAI2025|OECD2025]] general framework, some dimensions remain relatively unexplored in large-scale simulations. This is the case of embodiment, AI identity, social preception
+
+none of the proposed models and frameworks have specifically studied the evolution of the impact of AI cognition in 
 
 
 
