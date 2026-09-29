@@ -137,12 +137,12 @@ strong consensus may be insufficient to guarantee social stability, that the cog
 
 We have explored a wide set of dimensions under the topic of the cooperative impact of AI Cognition in hybrid societies, coming to a final conclusion that reinforces the initial premise: artificial agents can significantly impact the cooperative dynamics of societies, but this impact is highly contingent on the populational and dynamical structures, on the agent design and on the cognitive evolution.
 
-Even though the populational and dynamical structures have a representative impact on cooperation, agent design and cognition evolution 
+Even though the populational and dynamical structures have a representative impact on cooperation, agent design seems to present the highest contingency in a shorten span of time, while cognition evolution offers the biggest impact on longer time spans.
 
 
 
 
-The biggest gap in the field of AI cognition in hybrid populations is the near-total absence of works that examine how AI cognitive capabilities alter cooperative dynamics. Evolutionary game models overwhelmingly use fixed-behavior agents as proxies for AI, explicitly abstracting away cognitive complexity. 
+<!--- The biggest gap in the field of AI cognition in hybrid populations is the near-total absence of works that examine how AI cognitive capabilities alter cooperative dynamics. Evolutionary game models overwhelmingly use fixed-behavior agents as proxies for AI, explicitly abstracting away cognitive complexity. 
 
 Not only that, but most works consider an AI just as another evolutionary individual that evolves over time, rather than assuming a different species, with distinct motivations, different cognitive profile, unique attributes and, most importantly, that does not reproduce nor imitate for fitness. This overwhelmingly simplifies the real asymmetry between AI and humans, thus providing possibly inaccurate results.
 
@@ -151,9 +151,9 @@ TODO: Guo2023
 Although interesting, these insights are highly limited. The authors only consider the simplest social dilemmas, by the dynamics design. AI-AI interactions are not considered
 
 it remains uncertain how they would perform in more complex
-scenarios, such as stochastic games and sequential social dilemma games
+scenarios, such as stochastic games and sequential social dilemma games --->
 
 
-#### Limitations that we will not address
+<!---  #### Limitations that we will not address
 
-While these theoretical findings may provide powerful insights, they are bounded to mathematical models in controlled environments that are yet to be empirically validated. While most behavioral studies bridge these models to reality, most experiments assume human-AI pairs, omitting the group (and large group) processes that generate emergent norm expectations /[[mutznerBoundedNormativeEquivalence2026|Mutzner2026]](.
+While these theoretical findings may provide powerful insights, they are bounded to mathematical models in controlled environments that are yet to be empirically validated. While most behavioral studies bridge these models to reality, most experiments assume human-AI pairs, omitting the group (and large group) processes that generate emergent norm expectations /[[mutznerBoundedNormativeEquivalence2026|Mutzner2026]](.--->
