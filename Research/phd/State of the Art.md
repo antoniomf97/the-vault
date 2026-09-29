@@ -152,7 +152,9 @@ However, none of these works specifically explores how AI cognitive profiles and
 
 Some works have partially explored the evolution of cognition, but using a very general approach, considering it as an abstract trait rather than distinct reasoning types, and only focused in humans ([[dossantosCoevolutionCooperationCognition2018|dos Santos2018]]), or only focused on the beliefs ([[rodriguezCollectiveDynamicsBelief2016|Rodriguez2016]]). Others have studied asymmetric human-AI interactions in large hybrid populations, but softening human-AI distinction, assuming the most significant difference between agents and humans is the flexibility of decision, while restricting the game-protocol to a Prisoner's Dilemma ([[jiaAsymmetricInteractionPreference2025|Jia2025]]).
 
-Additionally, works on the Samaritan vs discriminatory AI have explored the effects of bots in societies, but restricted to AI fixed designs
+
+
+Additionally, works on the Samaritan vs discriminatory AI have explored the effects of bots in societies, but restricted to AI fixed designs ([[songEvolutionFairnessHybrid2026|song2026]], [[bookerDiscriminatorySamaritanWhich2023|booker2023]], [[zimmaroEmergenceCooperationOneshot2024|Zimmaro2024]]). Finally, some works have proposed 
 
 
 <!--- The biggest gap in the field of AI cognition in hybrid populations is the near-total absence of works that examine how AI cognitive capabilities alter cooperative dynamics. Evolutionary game models overwhelmingly use fixed-behavior agents as proxies for AI, explicitly abstracting away cognitive complexity. 
