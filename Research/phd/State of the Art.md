@@ -97,13 +97,14 @@ For instance, conformity-driven individuals can change the equilibria of the gam
 
 Aspiration-driven individuals can also have great impacts on the game equilibria: independently on the population structure, in non-dyadic games, aspiration favors different strategies than imitation does ([[duAspirationDynamicsMultiplayer2014|Du2014]]). However, mixing aspiration with imitation can promote cooperation in well-mixed populations, but not in structured populations ([[wangEvolutionaryGameDynamics2019|Wang2019]]).
 
-
 Moving to more deliberative reasoning mechanisms, counterfactual thinking has too a great impact on social dynamics: while a small fraction of counterfactuals may promote high standards of cooperation ([[pereiraCounterfactualThinkingCooperation2019|Pereira2019]]), this effect has a maximum threshold, from which cooperation starts fail ([[fernandesCounterfactualThinkingStochastic2024|Fernandes2024]]). Additionally, these effects are highly contingent of the nature of the game being played.
+
+
 
 <mark style="background:#ff4d4f">add theory of mind here</mark>
 
 
-<!--- Cognitive Evolution -->
+<!--- ===== Cognitive Evolution ===== -->
 
 Lastly, we have cognitive evolution. Because time is the unconditional factor, the way that the population cognition evolves naturally have a major impact on the cooperative dynamics. 
 In large-scale simulations of hybrid societies, cognitive evolution has advanced beyond rigid payoff matrices toward dynamic generative architectures, active belief updating, and hierarchical social learning. Current research models the mind as an evolving, adaptive engine whose internal representations, cognitive biases, and learning horizons continuously coevolve with cultural and institutional norms. These extra-ordinary flexibility leads to major impacts on the overall cooperation dynamics. 
@@ -124,9 +125,7 @@ we further identify cognition as a central mediator -- most clearly through a co
 strong consensus may be insufficient to guarantee social stability, that the cognitive coherence of belief-systems is vital in determining their ability to spread, and that coherent belief-systems may pose a serious problem for resolving social polarization, due to their ability to prevent consensus even under high levels of social exposure ([[rodriguezCollectiveDynamicsBelief2016|Rodriguez2016]])
 
 
-<!--- In fact, some findings suggest that introducing autonomous agents (AAs) into human populations can either facilitate or inhibit cooperative action depending on the social dilemma structure. For instance, while AI agents have limited impact in the prisoner's dilemma, it enables cooperation in coordination games, such as the stag hunt, and, paradoxically, promotes complete dominance of cooperation in co-existence games, such as the snowdrift game. 
 
-In another design, it is shown that, in optional prisoner’s dilemma game, AAs operating under unconditionally cooperative bots induce the emergence of cooperation, in both well-mixed populations and a regular lattice under weak imitation scenarios. However, under different circumstances, such as strong imitation, the results vary significantly. These findings emphasize the significance of bot design in promoting cooperation and offer useful insights for encouraging cooperation in real-world scenarios . -->
 
 
 <!--- [[hanSocialPhysicsAge2026|Han2026]] for the gap -->
