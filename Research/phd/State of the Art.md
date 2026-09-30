@@ -63,7 +63,6 @@ Lastly, we explore institutions as formalized exogenous rule systems and enforce
 Researchers have been 
 
 
-
 <!--- ===== Agent Design ===== -->
 
 Agent design comes as a very complex contingency in the AI impact on humans populations, as it integrates an elaborate set of dimensions, from its core components, like memory, embodiment and identity, to its more superficial set of social skills, like communication, affection, perception, or problem-solving ([[oecdIntroducingOECDAI2025|OECD2025]]). The whole architecture of agents, will dictate how AAs behave in the world, shaping the cooperative dynamics of societies. 
@@ -85,17 +84,15 @@ Finally, we reinforce the relevance of the reasoning mechanism in its effects on
 
 While efforts are being made towards better understanding of some of the AI reasoning mechanisms and its impacts in hybrid populations, the effects of richer reasoning repertoire in cooperation has been widely studied in large-scale simulations. In fact, researchers have shown how different reasoning profiles can drastically change the cooperative dynamics in populations. 
 
-While imitation (social learning) traditionally presents the most rational answer ([[kendalSocialLearningStrategies2018|Kendal2018]]), it is not the most frequent heuristic used by humans, as individuals often resort to different reasoning mechanisms. 
-
-Despite the usage of these different reasoning types is highly contingent on dynamical and populational structure, their unique nature can have major implications in the cooperative dynamics population-wise. 
+While imitation (social learning) traditionally presents the most rational answer ([[kendalSocialLearningStrategies2018|Kendal2018]]), it is not the most frequent heuristic used by humans, as individuals often resort to different reasoning mechanisms. Despite the usage of these different reasoning types being highly contingent on dynamical and populational structure, their unique nature can have major implications in the cooperative dynamics population-wise. 
 
 For instance, conformity-driven individuals can change the equilibria of the game dynamics in well-mixed populations ([[mollemanEffectsConformismCultural2013|MollemanE2013]]), while enhancing network reciprocity in social dilemmas ([[szolnokiConformityEnhancesNetwork2015|Szolnoki2015]]), namely on spatial public goods game ([[quanRationalConformityBehavior2022|Quan2022]]). While these findings are solid, there are caveats: while the most favorable outcomes emerge if the masses conform, forcing leaders to confirm can significantly worsen the overall cooperative performance ([[szolnokiLeadersShouldNot2016|Szolnoki2016]]).
 
 Aspiration-driven individuals can also have great impacts on the game equilibria: independently on the population structure, in non-dyadic games, aspiration favors different strategies than imitation does ([[duAspirationDynamicsMultiplayer2014|Du2014]]). However, mixing aspiration with imitation can promote cooperation in well-mixed populations, but not in structured populations ([[wangEvolutionaryGameDynamics2019|Wang2019]]).
 
-More deliberative reasoning mechanisms have , counterfactual thinking has too a great impact on social dynamics: while a small fraction of counterfactuals may promote high standards of cooperation ([[pereiraCounterfactualThinkingCooperation2019|Pereira2019]]), this effect has a maximum threshold, from which cooperation starts fail ([[fernandesCounterfactualThinkingStochastic2024|Fernandes2024]]). Additionally, these effects are highly contingent of the nature of the game being played.
+In a more deliberative side, counterfactual thinking has too a great impact on social dynamics: while a small fraction of counterfactuals may promote high standards of cooperation in coordination games ([[pereiraCounterfactualThinkingCooperation2019|Pereira2019]]), this effect has a maximum threshold, from which cooperation starts to colapse ([[fernandesCounterfactualThinkingStochastic2024|Fernandes2024]]). Additionally, these effects are highly contingent of the nature of the game being played.
 
-
+As a final example, 
 
 <mark style="background:#ff4d4f">add theory of mind here</mark>
 
