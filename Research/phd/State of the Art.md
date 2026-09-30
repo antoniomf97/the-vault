@@ -16,7 +16,7 @@ On a first level, the social structure of a population has major impacts on its 
 
 <!---  Intrinsic Nature -->
 
-On a second level, the nature of each individual's intrinsic types heavily impacts cooperation. For instance, while adding a single human node does not show significant consequences, a single bot placed at a high-degree node can foster cooperation by reshaping social connections locally ([[guoFacilitatingCooperationHumanagent2023|Guo2023]], [[shiradoLocallyNoisyAutonomous2017|Shirado2017]], [[shiradoNetworkEngineeringUsing2020|Shirado2020]]).
+On a second level, the nature of each individual's intrinsic types heavily impacts cooperation. In fact, direct empirical and theoretical comparisons show that interacting with a human elicits different communicative patterns, emotional evaluations, and relational expectations than interacting with an artificial intelligence system ([[guzmanOntologicalBoundariesHumans2020|Guzman2020]], [[mouMediaInequalityComparing2017|Mou2017]]). In large scale simulations, researchers have verified this major distinction. while adding a single human node does not show significant consequences, a single bot placed at a high-degree node can foster cooperation by reshaping social connections locally ([[guoFacilitatingCooperationHumanagent2023|Guo2023]], [[shiradoLocallyNoisyAutonomous2017|Shirado2017]], [[shiradoNetworkEngineeringUsing2020|Shirado2020]]).
 
 <!--- Population Composition -->
 
@@ -92,7 +92,10 @@ Aspiration-driven individuals can also have great impacts on the game equilibria
 
 In a more deliberative side, counterfactual thinking has too a great impact on social dynamics: while a small fraction of counterfactuals may promote high standards of cooperation in coordination games ([[pereiraCounterfactualThinkingCooperation2019|Pereira2019]]), this effect has a maximum threshold, from which cooperation starts to collapse ([[fernandesCounterfactualThinkingStochastic2024|Fernandes2024]]). Additionally, these effects are highly contingent of the nature of the game being played.
 
-Finally, Theory of Mind has seen an expanding literature 
+Finally, the impact of theory of mind (ToM) in cooperation has also seen an expanding literature. In fact, researchers have been exploring the effects of ToM in cooperative dynamics, particularly in sequential games. 
+
+
+We show it is possible to deduce whether players make inferences about each other and quantify their sophistication on the basis of choices in sequential games ([[yoshidaGameTheoryMind2008|Yoshida2008]]).
 
 <mark style="background:#ff4d4f">add theory of mind here</mark>
 
@@ -118,25 +121,12 @@ we further identify cognition as a central mediator -- most clearly through a co
 
 
 
-
-
-
-
-
-
 <!--- [[hanSocialPhysicsAge2026|Han2026]] for the gap -->
 
 
 <mark style="background:#ff4d4f">add CULTURE here</mark>
 
 ## What none of this addresses is...
-
-<!---We have explored a wide set of dimensions under the topic of the cooperative impact of AI Cognition in hybrid societies, coming to a final conclusion that reinforces the initial premise: artificial agents can significantly impact the cooperative dynamics of societies, but this impact is highly contingent on the populational and dynamical structures, on the agent design and on the cognitive evolution. 
-
-Many different works have been exploring some of these dimensions, focusing on particular topics, such as population composition (), temporal scheduling (), matching mechanisms (), institutions (), reasoning mechanisms (), and many others. 
-However, and taking the [[oecdIntroducingOECDAI2025|OECD2025]] general framework, some dimensions remain relatively unexplored in large-scale simulations. This is the case of embodiment, AI identity, social perception and social problem-solving.
-
-Focusing on the latter, we've seen that none of the proposed models and frameworks have specifically studied the evolution of the impact of AI cognition in cooperation in hybrid societies, let alone enabling generalization. --->
 
 We have explored many different works on a wide set of dimensions under the topic of the cooperative impact of AI Cognition in hybrid societies, coming to a final conclusion that reinforces the initial premise: artificial agents can significantly impact the cooperative dynamics of societies, but this impact is highly contingent on the populational and dynamical structures, on the agent design and on the cognitive evolution. 
 
@@ -146,19 +136,5 @@ Some works have partially explored the evolution of cognition, but using a very 
 
 Additionally, works on the Samaritan vs discriminatory AI have explored the effects of bots in societies, but restricted to AI fixed designs ([[songEvolutionFairnessHybrid2026|song2026]], [[bookerDiscriminatorySamaritanWhich2023|booker2023]], [[zimmaroEmergenceCooperationOneshot2024|Zimmaro2024]]). Finally, some works have proposed reinforcement learning as the reasoning mechanism of AI, although assuming a fixed cognitive profile ([[quanHumanMachineCooperation2026|Quan2026]]).
 
-
-<!--- The biggest gap in the field of AI cognition in hybrid populations is the near-total absence of works that examine how AI cognitive capabilities alter cooperative dynamics. Evolutionary game models overwhelmingly use fixed-behavior agents as proxies for AI, explicitly abstracting away cognitive complexity. 
-
-Not only that, but most works consider an AI just as another evolutionary individual that evolves over time, rather than assuming a different species, with distinct motivations, different cognitive profile, unique attributes and, most importantly, that does not reproduce nor imitate for fitness. This overwhelmingly simplifies the real asymmetry between AI and humans, thus providing possibly inaccurate results.
-
-
-TODO: Guo2023
-Although interesting, these insights are highly limited. The authors only consider the simplest social dilemmas, by the dynamics design. AI-AI interactions are not considered
-
-it remains uncertain how they would perform in more complex
-scenarios, such as stochastic games and sequential social dilemma games --->
-
-
-<!---  #### Limitations that we will not address
-
+<!---
 While these theoretical findings may provide powerful insights, they are bounded to mathematical models in controlled environments that are yet to be empirically validated. While most behavioral studies bridge these models to reality, most experiments assume human-AI pairs, omitting the group (and large group) processes that generate emergent norm expectations /[[mutznerBoundedNormativeEquivalence2026|Mutzner2026]](.--->
