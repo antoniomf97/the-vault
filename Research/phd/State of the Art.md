@@ -92,7 +92,7 @@ Aspiration-driven individuals can also have great impacts on the game equilibria
 
 In a more deliberative side, counterfactual thinking has too a great impact on social dynamics: while a small fraction of counterfactuals may promote high standards of cooperation in coordination games ([[pereiraCounterfactualThinkingCooperation2019|Pereira2019]]), this effect has a maximum threshold, from which cooperation starts to colapse ([[fernandesCounterfactualThinkingStochastic2024|Fernandes2024]]). Additionally, these effects are highly contingent of the nature of the game being played.
 
-As a final example, 
+Theory of Mind has 
 
 <mark style="background:#ff4d4f">add theory of mind here</mark>
 
