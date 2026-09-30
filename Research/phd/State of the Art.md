@@ -16,7 +16,7 @@ On a first level, the social structure of a population has major impacts on its 
 
 <!---  Intrinsic Nature -->
 
-On a second level, the nature of each individual's intrinsic types heavily impacts cooperation. In fact, direct empirical and theoretical comparisons show that interacting with a human elicits different communicative patterns, emotional evaluations, and relational expectations than interacting with an artificial intelligence system ([[guzmanOntologicalBoundariesHumans2020|Guzman2020]], [[mouMediaInequalityComparing2017|Mou2017]]). In large scale simulations, researchers have verified this major distinction. while adding a single human node does not show significant consequences, a single bot placed at a high-degree node can foster cooperation by reshaping social connections locally ([[guoFacilitatingCooperationHumanagent2023|Guo2023]], [[shiradoLocallyNoisyAutonomous2017|Shirado2017]], [[shiradoNetworkEngineeringUsing2020|Shirado2020]]).
+On a second level, the nature of each individual's intrinsic types heavily impacts cooperation. In fact, direct empirical and theoretical comparisons show that interacting with a human elicits different communicative patterns, emotional evaluations, and relational expectations than interacting with an artificial intelligence system ([[guzmanOntologicalBoundariesHumans2020|Guzman2020]], [[mouMediaInequalityComparing2017|Mou2017]]). In large scale simulated networks, researchers have verified this major distinction: while adding a single human node does not show significant consequences, a single bot placed at a high-degree node can foster cooperation by reshaping social connections locally ([[guoFacilitatingCooperationHumanagent2023|Guo2023]], [[shiradoLocallyNoisyAutonomous2017|Shirado2017]], [[shiradoNetworkEngineeringUsing2020|Shirado2020]]). This conceptually reveals the impact that each individual intrinsic nature has in hybrid societies.
 
 <!--- Population Composition -->
 
@@ -24,11 +24,12 @@ Lastly, we must also consider the population composition, in specific, the sub-p
 
 <!--- ===== Dynamics Structure ===== -->
 
-Another important core dimension is the dynamics structure, that intends to describe when, how and with whom the different individuals can interact with. It defines the temporal scheduling, public game-theoretic interaction protocols, and matching mechanisms that govern how artificial agents and humans exchange actions. Recent literature has shown that cooperation rates are highly sensitive to these operational rules, hence determining whether prosocial behaviors spread or collapse ([], []).
+The dynamics structure, although arguably yet another part of the population structure, is extremely rich, being itself a core dynamic in large-scale simulations. It defines the temporal scheduling, that defines when the different individuals can interact, the public game-theoretic interaction protocols, that demonstrate the rules of how the interactions occur, and the matching mechanisms, that govern how artificial agents and humans exchange actions. Recent literature has shown that cooperation rates are highly sensitive to these operational rules, hence determining whether prosocial behaviors spread or collapse ([], []).
 
 <!--- Temporal Scheduling -->
 
- In fact, starting with temporal scheduling, early multi-agent simulations often relied on rigid, synchronized, turn-based updates with fixed-increment discrete time steps, which introduce artificial synchronization, execution bias, and propagation delays ([]). More importantly, it introduce temporal synchronization errors that fail to capture human behavioral dynamics ([[kosterFastEmbeddedLanguage2024|Koster2024]]). As a result, the state-of-the-art frameworks increasingly deploy event-driven queues and continuous-time loops to capture more realistic social interactions ([[fabriDisentanglingHumanAIHybrids2023|Fabri2023]], [[williamsEventTriggeredFrameworkTrustMediated2025|Williams2025]]).
+Starting with temporal scheduling, early multi-agent simulations often relied on rigid, synchronized, turn-based updates with fixed-increment discrete time steps, which introduce artificial synchronization, execution bias, and propagation delays ([]). More importantly, it introduce temporal synchronization errors that fail to capture human behavioral dynamics (
+[[kosterFastEmbeddedLanguage2024|Koster2024]]). As a result, the state-of-the-art frameworks increasingly deploy event-driven queues and continuous-time loops to capture more realistic social interactions ([[fabriDisentanglingHumanAIHybrids2023|Fabri2023]], [[williamsEventTriggeredFrameworkTrustMediated2025|Williams2025]]).
 
 <!--- Game-Theoretic Protocols -->
 
@@ -49,9 +50,6 @@ Firstly, in multi-populational settings, different sub-populations may have diff
 
 
 Capability complementarity
-
-
-
 
 
 Under network assortment, researchers have seen the impact of matching in the cooperative dynamics in different specific topics. For instance, structural role asymmetries fundamentally alter partner matching: in bipartite Ultimatum Game models, discriminatory AI proposers that selectively enforce fairness outcompete unconditional ([[songEvolutionFairnessHybrid2026|Song2026]]). Additionally, topological hub placement magnifies influence: inserting autonomous agents into high-degree nodes steers hybrid equilibria, whereas uncoordinated delegation risks sociotechnical lock-in ([[guoFacilitatingCooperationHumanagent2023|Guo2023]]). Also, dynamic incentive distortions emerge during pre-announced sorting: pairing high performers with low performers reduces baseline effort by 20% compared to random matching due to strategic masking of capability ([[gallDynamicIncentiveEffects2019|Gall2019]]). Finally, multimodal behavioral alignment also impacts pairing: analyzing synchronized gaze, speech, and physiological signals allows matching engines to model human cognitive load and self-regulation dynamically
