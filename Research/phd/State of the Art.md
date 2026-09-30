@@ -81,15 +81,11 @@ The first dimension is adaptability, or whether the agent's actions are dependen
 Pro-social agents balancing their own payoffs with opponents' foster the highest cooperation, while extreme altruism or pure individualism hinders it ([[guoEngineeringOptimalCooperation2024|Guo2024]]). 
 
 
+Finally, we reinforce the relevance of the reasoning mechanism in its effects on the cooperative dynamics. In specific, we discuss the architecture of the agents' cognitive profile, i. e., how the agent's reasoning repertoire is organized.
 
+While efforts are being made towards better understanding of some of the AI reasoning mechanisms and its impacts in hybrid populations, the effects of richer reasoning repertoire in cooperation has been widely studied in large-scale simulations. In fact, researchers have shown how different reasoning profiles can drastically change the cooperative dynamics in populations. 
 
-Finally we consider the reasoning mechanism. Here we specifically discuss the architecture of the agents' [[research/notes/cognition/Cognitive Profile|cognitive profile]], i.e., how the agent's reasoning repertoire is organized. 
-
-
-While efforts are being made to develop a major understanding of the AI cognitive impact in hybrid populations, human cognition have been widely studied in large-scales simulations. Namely, researchers have shown how different reasoning profiles can drastically change the cooperative dynamics. 
-
-
-Although imitation (social learning) traditionally presents the most rational answer ([[kendalSocialLearningStrategies2018|Kendal2018]]), it is not the most frequent heuristic used by humans, as individuals often resort to different reasoning mechanisms. 
+While imitation (social learning) traditionally presents the most rational answer ([[kendalSocialLearningStrategies2018|Kendal2018]]), it is not the most frequent heuristic used by humans, as individuals often resort to different reasoning mechanisms. 
 
 Despite the usage of these different reasoning types is highly contingent on dynamical and populational structure, their unique nature can have major implications in the cooperative dynamics population-wise. 
 
@@ -97,12 +93,11 @@ For instance, conformity-driven individuals can change the equilibria of the gam
 
 Aspiration-driven individuals can also have great impacts on the game equilibria: independently on the population structure, in non-dyadic games, aspiration favors different strategies than imitation does ([[duAspirationDynamicsMultiplayer2014|Du2014]]). However, mixing aspiration with imitation can promote cooperation in well-mixed populations, but not in structured populations ([[wangEvolutionaryGameDynamics2019|Wang2019]]).
 
-Moving to more deliberative reasoning mechanisms, counterfactual thinking has too a great impact on social dynamics: while a small fraction of counterfactuals may promote high standards of cooperation ([[pereiraCounterfactualThinkingCooperation2019|Pereira2019]]), this effect has a maximum threshold, from which cooperation starts fail ([[fernandesCounterfactualThinkingStochastic2024|Fernandes2024]]). Additionally, these effects are highly contingent of the nature of the game being played.
+More deliberative reasoning mechanisms have , counterfactual thinking has too a great impact on social dynamics: while a small fraction of counterfactuals may promote high standards of cooperation ([[pereiraCounterfactualThinkingCooperation2019|Pereira2019]]), this effect has a maximum threshold, from which cooperation starts fail ([[fernandesCounterfactualThinkingStochastic2024|Fernandes2024]]). Additionally, these effects are highly contingent of the nature of the game being played.
 
 
 
 <mark style="background:#ff4d4f">add theory of mind here</mark>
-
 
 <!--- ===== Cognitive Evolution ===== -->
 
