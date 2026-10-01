@@ -28,8 +28,7 @@ The dynamics structure, although arguably yet another part of the population str
 
 <!--- Temporal Scheduling -->
 
-Starting with temporal scheduling, early multi-agent simulations often relied on rigid, synchronized, turn-based updates with fixed-increment discrete time steps, which introduce artificial synchronization, execution bias, and propagation delays ([]). More importantly, it introduce temporal synchronization errors that fail to capture human behavioral dynamics (
-[[kosterFastEmbeddedLanguage2024|Koster2024]]). As a result, the state-of-the-art frameworks increasingly deploy event-driven queues and continuous-time loops to capture more realistic social interactions ([[fabriDisentanglingHumanAIHybrids2023|Fabri2023]], [[williamsEventTriggeredFrameworkTrustMediated2025|Williams2025]]).
+Starting with temporal scheduling, early multi-agent simulations often relied on rigid, synchronized, turn-based updates with fixed-increment discrete time steps, which introduce artificial synchronization, execution bias, and propagation delays ([]). More importantly, it introduce temporal synchronization errors that fail to capture human behavioral dynamics ([[kosterFastEmbeddedLanguage2024|Koster2024]]). As a result, the state-of-the-art frameworks increasingly deploy event-driven queues and continuous-time loops to capture more realistic social interactions ([[fabriDisentanglingHumanAIHybrids2023|Fabri2023]], [[williamsEventTriggeredFrameworkTrustMediated2025|Williams2025]]).
 
 <!--- Game-Theoretic Protocols -->
 
