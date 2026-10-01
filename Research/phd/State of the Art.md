@@ -41,14 +41,14 @@ Additionally, the interaction temporal framing, that is, the horizon framing sub
 
 On a last step, we analyze the matching mechanisms, that is, who interacts with who. Note a major difference between the matching mechanisms and the social structure: while the network says which pairs can meet, the matching rule says which pairs do actually meet. 
 
-In hybrid human–AI societies, matching mechanisms govern partner formation, task allocation, and coalition structuring between humans and artificial agents. Rather than assuming static random mixing, recent advances formalize matching as an endogenous process driven by strategic partner selection, capability complementarity, and network assortment.
+In hybrid human-AI societies, matching mechanisms govern partner formation, task allocation, and coalition structuring between humans and artificial agents. Rather than assuming static random mixing, recent advances formalize matching as an endogenous process driven by strategic partner selection, capability complementarity, and network assortment.
 
 Strategic partner selection is a deliberate decision that establishes matching based on what individuals know about their partners, specifically in what they expect them to behave.
 
 Firstly, in multi-populational settings, different sub-populations may have different preferences towards whom they interact with. In large-scale simulations, researchers demonstrated that algorithmic partner choice fundamentally reshapes social dynamics, driving transitions between assortative pairing, human displacement, and cooperative stabilization ([[jiaAsymmetricInteractionPreference2025|Jia2025]]). Here enter the concepts of homophily and heterophily, that is, how likely are individuals to interact with those of the same or other kind, respectively.  This translates in 
 
 
-Capability complementarity is a process where individuals matching is based on their complementarity, that is, the pair produces more than each could alone, thanks to different skills. can you ma
+Capability complementarity is a process of matching based on individuals complementarity, that is, the pair produces more than each could alone, thanks to different skills. 
 
 ([[vaccaroWhenCombinationsHumans2024|Vaccaro2024]]).
 
