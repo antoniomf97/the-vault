@@ -55,9 +55,10 @@ Finally, we mention that topological hub placement magnifies influence: insertin
 <!--- Institutions -->
 
 Lastly, we explore institutions as formalized exogenous rule systems and enforcement protocols that constrain how humans and artificial agents interact. Rather than operating as passive backgrounds, institutional frameworks actively act on the structure of the fitness landscape, dictating whether cooperation elevates or collapses under hybrid systems ([[bartelheimerConceptualizingHybridIntelligent2025|Bartelheimer2025]]). 
-Pre-funded sanctioning institutions can outcompete peer punishment (Sigmund2010), and switching adaptively from rewards to penalties minimizes the advantage of defectors (Chen2015), although maximizing cooperation need not maximize social welfare (Han2024).
-Researchers have been formalizing this view in evolutionary game theory. AI agents that help only cooperators, or that reduce disagreement over reputations, can sustain human cooperation ([[zimmaroEmergenceCooperationOneshot2024|Zimmaro2024]])
-Yet most studies treat AI as a fixed-strategy participant under static, human-designed rules, and how institutions co-evolve with the humans and AI agents they govern remains open ([[hanSocialPhysicsAge2026|Han2026]])
+Pre-funded sanctioning institutions can outcompete peer punishment ([[sigmundSocialLearningPromotes2010|sigmundSocialLearningPromotes2010]]), and switching adaptively from rewards to penalties minimizes the advantage of defectors ([[chenFirstCarrotThen2015|Chen2015]]), although maximizing cooperation need not maximize social welfare (Han2024).
+Researchers have been formalizing this view in evolutionary game theory. AI agents that help only cooperators, or that reduce disagreement over reputations, can sustain human cooperation ([[zimmaroEmergenceCooperationOneshot2024|Zimmaro2024]]).
+By contrast, rules imposed on the agents themselves, such as requiring them to always cooperate, fail to raise human cooperation (Hintze2026).
+Yet most studies treat AI as a fixed-strategy participant under static, human-designed rules, and how institutions co-evolve with the humans and AI agents they govern remains open ([[hanSocialPhysicsAge2026|Han2026]]).
 
 <!--- ===== Agent Design ===== -->
 
