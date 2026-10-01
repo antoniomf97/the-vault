@@ -54,9 +54,10 @@ Finally, we mention that topological hub placement magnifies influence: insertin
 
 <!--- Institutions -->
 
-Lastly, we explore institutions as formalized exogenous rule systems and enforcement protocols that constrain how humans and artificial agents interact. Rather than operating as passive backgrounds, institutional frameworks actively act on the structure of the fitness landscape, dictating whether cooperation elevates or collapses under hybrid systems ([[bartelheimerConceptualizingHybridIntelligent2025|Bartelheimer2025]]).
-Researchers have been 
-
+Lastly, we explore institutions as formalized exogenous rule systems and enforcement protocols that constrain how humans and artificial agents interact. Rather than operating as passive backgrounds, institutional frameworks actively act on the structure of the fitness landscape, dictating whether cooperation elevates or collapses under hybrid systems ([[bartelheimerConceptualizingHybridIntelligent2025|Bartelheimer2025]]). 
+Pre-funded sanctioning institutions can outcompete peer punishment (Sigmund2010), and switching adaptively from rewards to penalties minimizes the advantage of defectors (Chen2015), although maximizing cooperation need not maximize social welfare (Han2024).
+Researchers have been formalizing this view in evolutionary game theory. AI agents that help only cooperators, or that reduce disagreement over reputations, can sustain human cooperation ([[zimmaroEmergenceCooperationOneshot2024|Zimmaro2024]])
+Yet most studies treat AI as a fixed-strategy participant under static, human-designed rules, and how institutions co-evolve with the humans and AI agents they govern remains open ([[hanSocialPhysicsAge2026|Han2026]])
 
 <!--- ===== Agent Design ===== -->
 
