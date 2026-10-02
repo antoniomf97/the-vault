@@ -63,7 +63,15 @@ Finally, we explore institutions as formalized exogenous rule systems and enforc
 
 <!--- ===== Agent Design ===== -->
 
-Agent design comes as a very complex contingency in the AI impact on humans populations, as it integrates an elaborate set of dimensions, from its core components, like memory, embodiment and identity, to its more superficial set of social skills, like communication, affection, perception, or problem-solving ([[oecdIntroducingOECDAI2025|OECD2025]]). The whole architecture of agents, will dictate how AAs behave in the world, shaping the cooperative dynamics of societies. 
+Agent design is the third dimension, and concerns what happens inside the agent. The whole architecture of agents, will dictate how AAs behave in the world, shaping the cooperative dynamics of societies. It is, then, a very complex contingency in the AI impact on humans populations, far from being a single property: the OECD Social interaction scale describes an artificial agent through three core components of social context (embodiment, social memory, and identity) and four social skills built on them (communication, affective skills, social perception, and social problem solving) ([[oecdIntroducingOECDAI2025|OECD2025]]). 
+
+
+ Research on hybrid systems has covered these dimensions unevenly. In dyads and small teams, where humans interact with actual systems, communication, perception, and trust have been studied in depth. Population-scale models abstract most of these dimensions away, and identity enters as the agent's kind and its visibility to others, as discussed above.
+
+
+
+What population models do represent is the agent's decision process, which we refer to as its cognitive profile: how it chooses an action and how it revises that choice. The same scale orders this process by sophistication, from pre-set, scripted responses, through learning from past interactions, to inferring others' intent and weighing alternative courses of action. We follow this progression, distinguishing fixed policies, heuristic update rules, and deliberative mechanisms, and for each we note at which scale, and in which kind of population, it has been studied.
+
 
 While hybrid populations have been widely studied at scale, as previously discussed, cognition is typically abstracted to a fixed policy. On the other hand, cognition in hybrid settings has been richly studied, but either at dyadic or small-scale groups, mostly in real scenarios. 
 At a dyadic-scale, researchers have been focused on understanding coordination dynamics ([[zhaoRoleAdaptationCollective2025|Zhao2025]],[[carrollUtilityLearningHumans2019|Carroll2019]]]), communication ([[pataranutapornInfluencingHumanAI2023|Pataranutaporn2023]], [[zhangInvestigatingAITeammate2023|Zhang2023]], [[crandallCooperatingMachines2018|Crandall2018]]), perception ([[ishowo-olokoBehaviouralEvidenceTransparency2019|Ishowo-oloko2019]], [[karpusAlgorithmExploitationHumans2021|Karpus2021]]) and trust ([[gliksonHumanTrustArtificial2020|Glikson2020]]). 
