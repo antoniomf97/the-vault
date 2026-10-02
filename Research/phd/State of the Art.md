@@ -48,7 +48,6 @@ Strategic partner selection is a deliberate decision that establishes matching b
 
 Partner selection can also be delegated to AI. A deep reinforcement learning social planner that recommends which ties to form or break fostered cooperation in human groups, not by isolating defectors but by embedding them in small cooperative neighborhoods (McKee2023). Autonomous agents that engineer network connections likewise increased cooperation (Shirado2020).
 
-
 Capability complementarity is a process of matching based on individuals complementarity, where individuals' different skills make the pair more productive than either would be alone. While empirical meta-analyses indicate that combining human and machine capabilities does not automatically guarantee synergy ([[vaccaroWhenCombinationsHumans2024|Vaccaro2024]]), newer frameworks characterize the conditions under which human-AI teams outperform both humans and AI alone ([[gonzalezScienceHumanAI2026|Gonzalez2026]]).
 
 In assignment problems where a central decision-maker allocates items, confidence-based deferral systems let the algorithm make part of the matching decisions and route the rest to humans ([[arnaiz-rodriguezHumanAIComplementarityMatching2025|Arnaiz-Rodriguez2025]]). 
