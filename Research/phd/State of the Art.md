@@ -67,7 +67,12 @@ Agent design is the third dimension, and concerns what happens inside the agent.
 
 Additionally, some frameworks have been proposed aiming to explore the bridging mechanisms that connect dyads to small groups, by treating trust, memory and cognition as a multi-level mechanism rather than properties of a single interaction scale ([[ulfertShapingMultidisciplinaryUnderstanding2024|Ulfert2024]]). This comes as extremely relevant attending to the fact that AI exposure affects shared cognition beyond the immediate human-AI interaction, hence implying major effects on larger scale scenarios ([[riedlCognitiveSpilloverHuman2026|Riedl2026]]). 
 
+
+<mark style="background:#fff88f">Some of this work already looks beyond a single scale. Team trust has been framed as a multilevel construct spanning the individual, dyadic, and team levels ([[ulfertShapingMultidisciplinaryUnderstanding2024|Ulfert2024]]), and exposure to AI has been shown to spill over into human–human interaction, affecting shared language, attention, and mental models ([[riedlCognitiveSpilloverHuman2026|Riedl2026]]).</mark>
+
+
 Population-scale models abstract most of these dimensions away, and identity enters as the agent's kind and its visibility to others, as discussed above. What population models do represent is the agent's decision process, which we refer to as its cognitive profile: how it chooses an action and how it revises that choice. The same scale orders this process by sophistication, from pre-set, scripted responses, through learning from past interactions, to inferring others' intent and weighing alternative courses of action. We follow this progression, distinguishing fixed policies, heuristic update rules, and deliberative mechanisms, and for each we note at which scale, and in which kind of population, it has been studied.
+
 
 
 
