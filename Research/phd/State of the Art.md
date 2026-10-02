@@ -42,6 +42,10 @@ Additionally, the interaction temporal framing, that is, the horizon framing sub
 On a last step, we analyze the matching mechanisms, that is, who interacts with whom. 
 We first reinforce that matching should be distinguished from the social structure: while the network determines which pairs can meet, the matching rule determines which pairs actually do. In hybrid human-AI societies, matching mechanisms govern partner formation, task allocation, and coalition structuring between humans and artificial agents. Rather than assuming static random mixing, recent advances formalize matching as an endogenous process driven by strategic partner selection, capability complementarity, and network assortment.
 
+
+Rather than assuming static random mixing, recent work treats matching as an endogenous process. This view builds on evolutionary models in which cooperation prevails when individuals can adjust their social ties (Santos2006), and on network experiments in which people sever links with defectors and form new ones with cooperators (Rand2011). We organize this literature around three mechanisms: strategic partner selection, capability complementarity, and assortative matching.
+
+
 Strategic partner selection is a deliberate decision that establishes matching based on what individuals know about their partners, specifically in what they expect them to behave.
 In large-scale simulations, researchers demonstrated that algorithmic partner choice fundamentally reshapes social dynamics, driving transitions between assortative pairing, human displacement, and cooperative stabilization ([[jiaAsymmetricInteractionPreference2025|Jia2025]]). 
 
