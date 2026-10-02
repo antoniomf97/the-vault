@@ -63,10 +63,7 @@ Finally, we explore institutions as formalized exogenous rule systems and enforc
 
 <!--- ===== Agent Design ===== -->
 
-Agent design is the third dimension, and concerns what happens inside the agent. The whole architecture of agents, will dictate how AAs behave in the world, shaping the cooperative dynamics of societies. It is, then, a very complex contingency in the AI impact on humans populations, far from being a single property: the OECD Social interaction scale describes an artificial agent through three core components of social context (embodiment, social memory, and identity) and four social skills built on them (communication, affective skills, social perception, and social problem solving) ([[oecdIntroducingOECDAI2025|OECD2025]]). 
-
-
- Research on hybrid systems has covered these dimensions unevenly. In dyads and small teams, where humans interact with actual systems, communication, perception, and trust have been studied in depth. Population-scale models abstract most of these dimensions away, and identity enters as the agent's kind and its visibility to others, as discussed above.
+Agent design is the third dimension, and concerns what happens inside the agent. The whole architecture of agents, will dictate how AAs behave in the world, shaping the cooperative dynamics of societies. It is, then, a very complex contingency in the AI impact on humans populations, far from being a single property: the OECD Social interaction scale describes an artificial agent through three core components of social context (embodiment, social memory, and identity) and four social skills built on them (communication, affective skills, social perception, and social problem solving) ([[oecdIntroducingOECDAI2025|OECD2025]]). Research on hybrid systems has covered these dimensions unevenly. In dyads and small teams, where humans interact with actual systems, communication, perception, and trust have been studied in depth. Population-scale models abstract most of these dimensions away, and identity enters as the agent's kind and its visibility to others, as discussed above.
 
 
 
