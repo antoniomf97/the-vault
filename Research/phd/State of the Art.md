@@ -24,7 +24,7 @@ Lastly, we must also consider the population composition, in specific, the sub-p
 
 <!--- ===== Dynamics Structure ===== -->
 
-The dynamics structure, although arguably yet another part of the population structure, is extremely rich, being itself a core dynamic in large-scale simulations. It defines the temporal scheduling, that defines when the different individuals can interact, the public game-theoretic interaction protocols, that demonstrate the rules of how the interactions occur, and the matching mechanisms, that govern how artificial agents and humans exchange actions. Recent literature has shown that cooperation rates are highly sensitive to these operational rules, hence determining whether prosocial behaviors spread or collapse ([], []).
+The dynamics structure, although arguably yet another part of the population structure, is rich enough to be a core component of large-scale simulations in its own right. It defines the temporal scheduling, which defines when individuals can interact; the public game-theoretic interaction protocols, which demonstrate the rules of how the interactions unfold; and the matching mechanisms, which determine who interacts with whom, among humans and artificial agents alike. Recent literature has shown that cooperation rates are highly sensitive to these operational rules, hence determining whether prosocial behaviors spread or collapse ([], []).
 
 <!--- Temporal Scheduling -->
 
