@@ -43,7 +43,11 @@ On a last step, we analyze the matching mechanisms, that is, who interacts with 
 We first reinforce that matching should be distinguished from the social structure: while the network determines which pairs can meet, the matching rule determines which pairs actually do. In hybrid human-AI societies, matching mechanisms govern partner formation, task allocation, and coalition structuring between humans and artificial agents. Rather than assuming static random mixing, recent advances formalize matching as an endogenous process. This view builds on evolutionary models in which cooperation prevails when individuals can adjust their social ties (Santos2006), and on network experiments in which people sever links with defectors and form new ones with cooperators (Rand2011). We organize this literature around three mechanisms: strategic partner selection, capability complementarity, and network assortment.
 
 
-Strategic partner selection is a deliberate decision that establishes matching based on what individuals know about their partners, specifically in what they expect them to behave.
+Strategic partner selection is a deliberate decision that establishes matching based on what individuals know about their partners, specifically on how one expects them to behave.
+
+
+In collective-risk dilemmas involving humans and artificial agents, participants follow outcome-based rules: those whose group failed prefer teams without defectors, whereas those whose group succeeded become more lenient (Santos2020). Humans' preferences among reinforcement-learning partners also track the agents' perceived warmth and competence, beyond their objective performance (McKee2024).
+
 In large-scale simulations, researchers demonstrated that algorithmic partner choice fundamentally reshapes social dynamics, driving transitions between assortative pairing, human displacement, and cooperative stabilization ([[jiaAsymmetricInteractionPreference2025|Jia2025]]). 
 
 
