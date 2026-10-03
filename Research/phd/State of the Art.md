@@ -4,7 +4,7 @@
 
 In the past few years, the understanding of the cooperation impact of AI Cognition in hybrid societies of humans and autonomous agents (AAs) has seen a significant progress, despite studies at large-scale still being on its embryonic stage. Only in the past few years researchers have started to contribute to the literature, that has now span the fields of evolutionary game theory, organizational theory and behavioral experiments. 
 
-The current state of the art suggests that artificial agents can significantly impact the cooperative dynamics of human societies, even when employing fixed behaviors ([[bookerDiscriminatorySamaritanWhich2023|Booker2023]], [[sharmaSmallBotsBig2023|Sharma2023]], [[guoFacilitatingCooperationHumanagent2023|Guo2023]], [[terruchaArtCompensationHow2024|Terrucha2024]], [[quanHumanMachineCooperation2026|Quan2026]]). However, the direction and magnitude of these effects are highly contingent on all the default dimensions of large-scale simulations: population structure, dynamics structure, agent design, and the cognitive evolution over time. We will now be looking at each of these dimensions in particular.
+The current state of the art suggests that artificial agents can significantly impact the cooperative dynamics of human societies, even when employing fixed behaviors ([[bookerDiscriminatorySamaritanWhich2023|Booker2023]], [[sharmaSmallBotsBig2023|Sharma2023]], [[guoFacilitatingCooperationHumanagent2023|Guo2023]], [[terruchaArtCompensationHow2024|Terrucha2024]], [[quanHumanMachineCooperation2026|Quan2026]]). However, the direction and magnitude of these effects are highly contingent on how the population is structured, on how its dynamics are set up and on how the agents are designed. We organize the literature along these three dimensions (population structure, dynamics structure and agent design), adding a fourth that regards cognitive evolution, exploring whether the agents' cognitive profiles are fixed or themselves change over time.
 
 <!--- ===== Population Structure===== -->
 
@@ -53,10 +53,6 @@ Capability complementarity is a process of matching based on individuals complem
 Lastly, matching can be assortative, that is, dependent on the individuals' kind: homophilic when individuals preferentially interact with those of their own kind, and heterophilic when they favor the other kind. The initial reluctance to select disclosed bots described above is a homophilic preference of this sort, and it weakens with experience ([[jiangHumansLearnPrefer2025|Jiang2025]]).
 Evolutionary models examine such preferences at the population level. In a spatial prisoner's dilemma where humans and agents are each assigned preferences for interacting with their own or the other kind, cooperation improves markedly when both favor one kind over the other. Humans show the more stable prosocial behavior, while agents form highly cooperative clusters when they strongly prefer interacting with humans ([[jiaAsymmetricInteractionPreference2025|Jia2025]]).
 
-<!---Although node placement is, strictly, a property of the network, it shapes whom artificial agents are matched with. Placing even a handful of agents on the highest-degree nodes effectively stimulates human cooperation, whereas random placement has little effect, and large shares of agents can trigger a breakdown of cooperation ([[guoFacilitatingCooperationHumanagent2023|Guo2023]]). There is also an intermediate, optimal share of embedded agents that best promotes cooperation (Fu2026).
-
-Finally, we mention that topological hub placement magnifies influence: inserting autonomous agents into high-degree nodes steers hybrid equilibria, whereas uncoordinated delegation risks sociotechnical lock-in ([[guoFacilitatingCooperationHumanagent2023|Guo2023]]). --->
-
 <!--- Institutions -->
 
 Finally, we explore institutions as formalized exogenous rule systems and enforcement protocols that constrain how humans and artificial agents interact ([[bartelheimerConceptualizingHybridIntelligent2025|Bartelheimer2025]]). Rather than operating as passive backgrounds, institutions change the payoffs individuals face, and thereby whether cooperation spreads or collapses. Researchers have been formalizing this view in evolutionary game theory. Pre-funded sanctioning institutions can outcompete peer punishment ([[sigmundSocialLearningPromotes2010|Sigmund2010]]), and switching adaptively from rewards to penalties minimizes the advantage of defectors ([[chenFirstCarrotThen2015|Chen2015]]), although maximizing cooperation need not maximize social welfare ([[hanEvolutionaryMechanismsThat2024|Han2024]]). Despite these results being focused on a human-centered environment, recent work extends these models to hybrid populations. Under indirect reciprocity, artificial agents can reduce disagreement over reputations and improve cooperation (Pires2025). By contrast, rules imposed on the agents themselves, such as requiring them to always cooperate, fail to raise human cooperation ([[hintzePromotingCooperationPublic2026|Hintze2026]]). Yet most studies treat AI as a fixed-strategy participant under static, human-designed rules, and how institutions co-evolve with the humans and AI agents they govern remains open ([[hanSocialPhysicsAge2026|Han2026]]).
@@ -100,23 +96,6 @@ Theory of mind has been studied in the same way, and more sophistication is not 
 Cognitive profiles also change through learning and cultural transmission. In a laboratory experiment with migration and changing environments, people relied more on conformist social learning after spatial than after temporal changes, and their reliance on social learning declined quickly in the rounds after migration ([[deffnerDynamicSocialLearning2020|Deffner2020]]). In a large transmission-chain experiment, complex problem-solving algorithms persisted across generations when participants could choose whom to learn from, and frequently went extinct otherwise, replaced by simpler, lower-performing ones ([[thompsonComplexCognitiveAlgorithms2022|Thompson2022]]). What evolves can also be the content of cognition: when each individual holds a network of interacting beliefs, adoption depends on internal coherence as well as on social conformity, and a small number of individuals with highly coherent beliefs can overturn a consensus ([[rodriguezCollectiveDynamicsBelief2016|Rodriguez2016]]).
 
 For artificial agents the route of change is different. Humans acquire their strategies from those around them, whereas AI systems are trained on human-generated data and selected through human feedback and adoption, and in turn shape the behavior and the data of the people who use them ([[hanSocialPhysicsAge2026|Han2026]], [[pedreschiHumanAICoevolution2025|Pedreschi2025]]). Language models have also become a channel of cultural transmission in their own right, influencing which cultural traits are generated, passed on and selected ([[hanSocialPhysicsAge2026|Han2026]]). Simulations with language-model agents have begun to put cognitively rich agents under selection: in a simulated hunter-gatherer society, agents with universal and reciprocal moral dispositions were the most stable, selfish agents were strongly disfavored, and the cost of moral judgment shifted which type prevailed ([[zihengWhyAreWe2025|Ziheng2025]]). In the hybrid population models reviewed above, by contrast, cognitive profiles are set by design: humans follow a single update rule, usually imitation, and agents follow either a fixed policy or a learning rule that changes their behavior but not the rule itself.
-
-
-The effects of time are similarly visible in hybrid societies. For instance, researchers have proposed LLM-based agent simulation framework that can bring cognitive realism to this question: agents with varying moral dispositions perceive, remember, reason, and decide in a simulated prehistoric hunter-gatherer society ([[zihengWhyAreWe2025|Ziheng2025]])
-
-
-
-we find that cooperation and mutual help are the central driver of evolutionary survival, with universal and reciprocal morality exhibiting the most stable outcomes across conditions while selfishness is strongly disfavored.
-
-we further identify cognition as a central mediator -- most clearly through a cost of moral judgment that shifts the winning moral type across settings, with a self-purging effect among selfish agents as an additional cognitive pattern
-
-
-<mark style="background:#ff4d4f">add CULTURE here</mark>
-
-
-<mark style="background:#fff88f"></mark>
-
-<mark style="background:#fff88f"></mark>
 
 ## What none of this addresses is...
 
