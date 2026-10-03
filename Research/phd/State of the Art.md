@@ -8,13 +8,22 @@ The current state of the art suggests that artificial agents can significantly c
 
 <!--- ===== Population Structure===== -->
 
-The population structure is the backbone of large-scale simulations, as it describes who is in the population and who can meet whom. We consider three aspects: the social structure, which defines who can interact with whom; the intrinsic nature of each individual, that is, whether it is a human or an artificial agent; and the population composition, that is, the relative share of each.
+The population structure is the backbone of any hybrid population: it describes who is in the population and who can meet whom. We consider three aspects: the social structure, which defines who can interact with whom; the intrinsic nature of each individual, that is, whether it is a human or an artificial agent; and the population composition, that is, the relative share of each.
 
 <!--- Social Structure -->
 
 On a first level, the social structure of a population has major impacts on its overall cooperation dynamics. Whether modelled as unstructured well-mixed systems, rigid networks, or even an hybrid intermediate configurations between the two systems, topology fundamentally changes how cooperative behaviors emerge, stabilize, or decay ([[randStaticNetworkStructure2014|Rand2014]], [[allenEvolutionaryDynamicsAny2017|Allen2017]]). Researchers have shown that this result remains unaltered even when considering hybrid societies of human and agents: networked populations maintain enhanced cooperation irrespective of imitation strength, while well-mixed populations require weak imitation for agents to be effective ([[guoEngineeringOptimalCooperation2024|Guo2024]]).
 
+First, the social structure shapes cooperation. In well-mixed populations everyone can meet everyone, whereas on networks individuals interact only with their neighbors, and which strategies selection favors depends on that structure ([[allenEvolutionaryDynamicsAny2017|Allen2017]]). In experiments, people on a fixed network sustain high cooperation when the benefit-to-cost ratio of cooperating exceeds the number of neighbors, and cooperation decays otherwise or when partners are reshuffled ([[randStaticNetworkStructure2014|Rand2014]]). In hybrid populations structure matters as well: learning agents raise human cooperation on lattices whatever the imitation strength, that is, however closely humans' imitation follows payoffs, but in well-mixed populations only when imitation is weak ([[guoEngineeringOptimalCooperation2024|Guo2024]]). Not every kind of agent responds to structure as humans do: language-model agents playing a repeated prisoner's dilemma cooperate more in well-mixed settings and barely adjust to network structure, the opposite of the human pattern ([[hanStaticNetworkStructure2025|Han2025]]).
+
+
+
 Where artificial agents sit in the network also matters: ten agents placed on the highest-degree nodes of a 10,000-node scale-free network strongly shape human cooperation, and can effectively stimulate it in prisoner's dilemma and stag hunt games, whereas the same ten placed at random have little effect ([[guoFacilitatingCooperationHumanagent2023|Guo2023]]).
+
+
+
+
+Where artificial agents sit in the network also matters: ten agents placed on the highest-degree nodes of a 10,000-node scale-free network shape human cooperation, and can stimulate it in prisoner's dilemma and stag hunt games, whereas the same ten placed at random have little effect ([[guoFacilitatingCooperationHumanagent2023|Guo2023]]).
 
 <!---  Intrinsic Nature -->
 
