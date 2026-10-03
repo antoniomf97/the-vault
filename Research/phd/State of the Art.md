@@ -101,7 +101,7 @@ The evolution of beliefs
 
 strong consensus may be insufficient to guarantee social stability, that the cognitive coherence of belief-systems is vital in determining their ability to spread, and that coherent belief-systems may pose a serious problem for resolving social polarization, due to their ability to prevent consensus even under high levels of social exposure ([[rodriguezCollectiveDynamicsBelief2016|Rodriguez2016]])
 
-
+The fourth dimension is cognitive evolution: whether the cognitive profiles described above are fixed or themselves change over time. Most evolutionary models let selection act on behavior and take the process that generates it as given ([[hanSocialPhysicsAge2026|Han2026]]). A separate line of work makes the reasoning mechanism itself the trait under selection. When agents can either respond intuitively or pay a cost to deliberate and tailor their behavior to the type of game they face, selection favors either intuitive defectors or agents who cooperate intuitively and deliberate in order to defect in one-shot games. It never favors deliberating in order to cooperate (Bear2016). Cognition and cooperation can also reinforce each other: once cooperation exists it favors enhanced cognition, which in turn increases the returns from cooperating and stabilizes cooperation as relatedness falls ([[dossantosCoevolutionCooperationCognition2018|dos Santos2018]]).
 
 The effects of time are similarly visible in hybrid societies. For instance, researchers have proposed LLM-based agent simulation framework that can bring cognitive realism to this question: agents with varying moral dispositions perceive, remember, reason, and decide in a simulated prehistoric hunter-gatherer society ([[zihengWhyAreWe2025|Ziheng2025]])
 
@@ -111,7 +111,9 @@ we find that cooperation and mutual help are the central driver of evolutionary 
 
 we further identify cognition as a central mediator -- most clearly through a cost of moral judgment that shifts the winning moral type across settings, with a self-purging effect among selfish agents as an additional cognitive pattern
 
+<mark style="background:#fff88f"></mark>
 
+<mark style="background:#fff88f">Theory of mind has been studied in the same way, and more sophistication is not simply better. An informational cost keeps highly sophisticated individuals from fully exploiting less sophisticated ones in competitive settings, and cooperative settings favor lower levels of sophistication (Devaine2014). In a sequential dilemma, intermediate levels of reasoning evolve, provided individuals make reasoning mistakes and face a temptation for higher future gains (Lenaerts2024). Whether theory of mind is selected at all depends on the environment: inferring a partner's prosociality gives no advantage in the games usually studied, only where partners are stable and payoffs vary (Qi2022), in line with the argument that attributing preferences to others is an adaptation to strategic environments with persistent novelty (Kimbrough2013). In such varied environments, a reciprocal strategy built on Bayesian theory of mind outcompetes classic automata such as tit-for-tat and sustains cooperation across more settings (Kleiman-Weiner2025).</mark>
 
 
 <mark style="background:#ff4d4f">add CULTURE here</mark>
