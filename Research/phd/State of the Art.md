@@ -93,15 +93,17 @@ Finally, we discuss one of the most complex heuristics. Theory of mind, the abil
 
 <!--- ===== Cognitive Evolution ===== -->
 
-Lastly, we have cognitive evolution. Because time is the unconditional factor, the way that the population cognition evolves naturally have a major impact on the cooperative dynamics. 
-In large-scale simulations, cognitive evolution has advanced beyond rigid payoff matrices toward dynamic generative architectures, active belief updating, and hierarchical social learning. Current research models the mind as an evolving, adaptive engine whose internal representations, cognitive biases, and learning horizons continuously coevolve with cultural and institutional norms. These extra-ordinary flexibility leads to major impacts on the overall cooperation dynamics. 
-This effect has been seen in humans, where researchers proposed that cooperation and cognition can coevolve, suggesting that enhanced cognition could have transformed the nature of cooperative dilemmas faced by early humans, thereby explaining the maintenance of cooperation between unrelated partners ([[dossantosCoevolutionCooperationCognition2018|Santos2018]]).
+Finally, we discuss cognitive evolution, specifically whether the cognitive profiles described above are fixed or themselves change over time. Most evolutionary models let selection act on behavior and take the process that generates it as given ([[hanSocialPhysicsAge2026|Han2026]]). A separate line of work makes the reasoning mechanism itself the trait under selection. When agents can either respond intuitively or pay a cost to deliberate and tailor their behavior to the type of game they face, selection favors either intuitive defectors or agents who cooperate intuitively and deliberate in order to defect in one-shot games. It never favors deliberating in order to cooperate (Bear2016). Cognition and cooperation can also reinforce each other: once cooperation exists it favors enhanced cognition, which in turn increases the returns from cooperating and stabilizes cooperation as relatedness falls ([[dossantosCoevolutionCooperationCognition2018|dos Santos2018]]).
+
+
+
+
+
 Another example is, when investigating adaptive time dynamics in learning, researchers found that individuals relied more on (conformist) social learning after spatial compared with temporal changes ([[deffnerDynamicSocialLearning2020|Deffner2020]]).
 The evolution of beliefs
 
 strong consensus may be insufficient to guarantee social stability, that the cognitive coherence of belief-systems is vital in determining their ability to spread, and that coherent belief-systems may pose a serious problem for resolving social polarization, due to their ability to prevent consensus even under high levels of social exposure ([[rodriguezCollectiveDynamicsBelief2016|Rodriguez2016]])
 
-The fourth dimension is cognitive evolution: whether the cognitive profiles described above are fixed or themselves change over time. Most evolutionary models let selection act on behavior and take the process that generates it as given ([[hanSocialPhysicsAge2026|Han2026]]). A separate line of work makes the reasoning mechanism itself the trait under selection. When agents can either respond intuitively or pay a cost to deliberate and tailor their behavior to the type of game they face, selection favors either intuitive defectors or agents who cooperate intuitively and deliberate in order to defect in one-shot games. It never favors deliberating in order to cooperate (Bear2016). Cognition and cooperation can also reinforce each other: once cooperation exists it favors enhanced cognition, which in turn increases the returns from cooperating and stabilizes cooperation as relatedness falls ([[dossantosCoevolutionCooperationCognition2018|dos Santos2018]]).
 
 The effects of time are similarly visible in hybrid societies. For instance, researchers have proposed LLM-based agent simulation framework that can bring cognitive realism to this question: agents with varying moral dispositions perceive, remember, reason, and decide in a simulated prehistoric hunter-gatherer society ([[zihengWhyAreWe2025|Ziheng2025]])
 
