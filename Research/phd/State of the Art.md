@@ -97,6 +97,12 @@ For artificial agents the route of change is different. Humans acquire their str
 
 ## What none of this addresses is...
 
+
+The literature reviewed establishes that artificial agents change human cooperation, and that the effect depends on the structure of the population, on the dynamics of the interaction and on the design of the agents. What it does not address is how the cognitive profile of artificial agents affects cooperation at the scale of a population.
+
+The two bodies of work that come closest stop on opposite sides. Studies of dyads and small teams involve agents that communicate, adapt and reason, but not the population dynamics through which cooperation emerges or collapses. Population-scale models capture those dynamics, but give artificial agents a fixed policy ([[sharmaSmallBotsBig2023|Sharma2023]], [[guoFacilitatingCooperationHumanagent2023|Guo2023]], [[zimmaroEmergenceCooperationOneshot2024|Zimmaro2024]], [[songEvolutionFairnessHybrid2026|Song2026]]) or, at most, a reinforcement-learning rule ([[guoEngineeringOptimalCooperation2024|Guo2024]], [[quanHumanMachineCooperation2026|Quan2026]]), and give humans a single update rule.
+
+
 We have explored many different works on a wide set of dimensions under the topic of the cooperative impact of AI Cognition in hybrid societies, coming to a final conclusion that reinforces the initial premise: artificial agents can significantly impact the cooperative dynamics of societies, but this impact is highly contingent on the populational and dynamical structures, on the agent design and on the cognitive evolution. 
 
 However, none of these works specifically explores how AI cognitive profiles and their evolutions affect the emergence and stability of cooperation in large-scale hybrid societies. 
