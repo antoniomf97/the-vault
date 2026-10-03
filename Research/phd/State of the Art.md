@@ -113,10 +113,13 @@ we further identify cognition as a central mediator -- most clearly through a co
 
 
 
-<!--- [[hanSocialPhysicsAge2026|Han2026]] for the gap -->
-
 
 <mark style="background:#ff4d4f">add CULTURE here</mark>
+
+
+<mark style="background:#fff88f">Cognitive profiles also change through learning and cultural transmission. In a laboratory experiment with migration and changing environments, people relied more on conformist social learning after spatial than after temporal changes, and their reliance on social learning declined quickly in the rounds after migration ([[deffnerDynamicSocialLearning2020|Deffner2020]]). In a large transmission-chain experiment, complex problem-solving algorithms persisted across generations when participants could choose whom to learn from, and frequently went extinct otherwise, replaced by simpler, lower-performing ones ([[thompsonComplexCognitiveAlgorithms2022|Thompson2022]]). What evolves can also be the content of cognition: when each individual holds a network of interacting beliefs, adoption depends on internal coherence as well as on social conformity, and a small number of individuals with highly coherent beliefs can overturn a consensus ([[rodriguezCollectiveDynamicsBelief2016|Rodriguez2016]]).</mark>
+
+<mark style="background:#fff88f">For artificial agents the route of change is different. Humans acquire their strategies from those around them, whereas AI systems are trained on human-generated data and selected through human feedback and adoption, and in turn shape the behavior and the data of the people who use them ([[hanSocialPhysicsAge2026|Han2026]], [[pedreschiHumanAICoevolution2025|Pedreschi2025]]). Language models have also become a channel of cultural transmission in their own right, influencing which cultural traits are generated, passed on and selected ([[hanSocialPhysicsAge2026|Han2026]]). Simulations with language-model agents have begun to put cognitively rich agents under selection: in a simulated hunter-gatherer society, agents with universal and reciprocal moral dispositions were the most stable, selfish agents were strongly disfavored, and the cost of moral judgment shifted which type prevailed ([[zihengWhyAreWe2025|Ziheng2025]]). In the hybrid population models reviewed above, by contrast, cognitive profiles are set by design: humans follow a single update rule, usually imitation, and agents follow either a fixed policy or a learning rule that changes their behavior but not the rule itself.</mark>
 
 ## What none of this addresses is...
 
