@@ -1,5 +1,8 @@
 #phd 
 
+
+
+
 #### Complex environments
 
 Moreover, when considering cognitive complexity, one ought to explore complex environments as well, so the effects of such rich cognitive processes become visible and identifiable. In hybrid human-AI populations, specifically, we must consider the complex populational structure, rather than assuming the typical homogenous well-mixed populations, highly considered in evolutionary game theory. While some works have been done now assuming heterogeneity ([[vasconcelosClimatePoliciesWealth2014|Vasconcelos2014]], [[kimuraCoevolutionaryNetworksHomophily2008|Kimura2008]][[vasconcelosClimatePoliciesWealth2014|]]), they only consider a factor of homophily, while heterophily (very relevant in current AI companions for instance) remains highly unexplored.
