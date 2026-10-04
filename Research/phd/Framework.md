@@ -1,6 +1,24 @@
 #phd 
 
 
+# Research Questions
+
+
+Despite the growing presence of AI agents in human societies, the role of AI cognition in human-AI interactions at the population level remains poorly understood. Additionally, the evolution of eithers AI and human cognition is yet to be properly discussed within these environments. In this thesis, we address this gap by investigating how different cognitive profiles of AI agents, ranging from fixed policies to deliberative reasoning, affect the emergence, stability, and evolution of cooperation in hybrid human-AI societies.
+
+
+The main research question this thesis addresses is:
+
+**MRQ:** How does the cognitive profile of AI systems influence the emergence, stability, and evolution of cooperation in hybrid human–AI societies?
+
+We can unfold this in three main sub-questions.
+
+To address this, we formulate the following sub-questions:
+\textbf{RQ1:} 
+
+- research questions
+
+- approach
 
 
 #### Complex environments
