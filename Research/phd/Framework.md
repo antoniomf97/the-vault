@@ -1,15 +1,15 @@
 #phd 
-
-
 # Research Questions
-
 
 Despite the growing presence of AI agents in human societies, the role of AI cognition in human-AI interactions at the population level remains poorly understood. Additionally, the evolution of eithers AI and human cognition is yet to be properly discussed within these environments. 
 In this thesis, we address this gap by investigating how different cognitive profiles of AI agents, ranging from fixed policies to deliberative reasoning, affect the emergence, stability, and evolution of cooperation in hybrid human-AI societies.
 
 The main research question this thesis addresses is:
 
-**RQ1:** Compared with a population without artificial agents, how does each cognitive profile of the artificial agents (fixed, heuristic, deliberative) change the emergence and stability of cooperation among humans, and for which games, shares of agents and levels of assortment does the direction of that change reverse?
+RQ1: How does cognitive profile of artificial agents
+
+
+RQ1: Compared with a population without artificial agents, how does each cognitive profile of the artificial agents (fixed, heuristic, deliberative) change the emergence, stability and evolution of cooperation among humans, and for which games, shares of agents and levels of assortment does the direction of that change reverse?
 
 **RQ2:** When the humans' cognitive profiles can themselves change, which profiles spread among humans under each kind of artificial agent, and do the answers to RQ1 still hold?
 
