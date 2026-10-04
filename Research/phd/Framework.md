@@ -4,22 +4,26 @@
 # Research Questions
 
 
-Despite the growing presence of AI agents in human societies, the role of AI cognition in human-AI interactions at the population level remains poorly understood. Additionally, the evolution of eithers AI and human cognition is yet to be properly discussed within these environments. In this thesis, we address this gap by investigating how different cognitive profiles of AI agents, ranging from fixed policies to deliberative reasoning, affect the emergence, stability, and evolution of cooperation in hybrid human-AI societies.
+Despite the growing presence of AI agents in human societies, the role of AI cognition in human-AI interactions at the population level remains poorly understood. Additionally, the evolution of eithers AI and human cognition is yet to be properly discussed within these environments. 
+In this thesis, we address this gap by investigating how different cognitive profiles of AI agents, ranging from fixed policies to deliberative reasoning, affect the emergence, stability, and evolution of cooperation in hybrid human-AI societies.
 
 
 The main research question this thesis addresses is:
 
-**MRQ:** How does the cognitive profile of AI systems influence the emergence, stability, and evolution of cooperation in hybrid human–AI societies?
+**MRQ:** How does the cognitive profile of artificial agents, from fixed policies to heuristic and deliberative mechanisms, affect the emergence, stability and evolution of cooperation in hybrid human–AI societies?
 
-We can unfold this in three main sub-questions.
 
-To address this, we formulate the following sub-questions:
-\textbf{RQ1:} 
+**RQ1:** Compared with a population without artificial agents, how does each cognitive profile of the artificial agents (fixed, heuristic, deliberative) change the emergence and stability of cooperation among humans, and for which games, shares of agents and levels of assortment does the direction of that change reverse?
 
-- research questions
+**RQ2:** When the humans' cognitive profiles can themselves change, which profiles spread among humans under each kind of artificial agent, and do the answers to RQ1 still hold?
 
-- approach
+**RQ3 (extension):** What changes when the artificial agents' profiles are also revised over time?
 
+
+This main question has two follow up questions:
+
+- **RQ1:** Under which conditions (game, share of agents, assortment between kinds) does this effect change direction?
+- **RQ2:** How do these profiles change the way humans reason over time, and what does that change do to cooperation?
 
 #### Complex environments
 
