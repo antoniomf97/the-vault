@@ -6,7 +6,7 @@ In this thesis, we address this gap by investigating how different cognitive pro
 
 The main research question this thesis addresses is:
 
-RQ1: How does cognitive profile of artificial agents
+RQ1: When compared to a population How do the different cognitive profile of artificial agents (from fixed, or heuristic to deliberative) affect the emergence, stability and evolution of cooperation among human, and 
 
 
 RQ1: Compared with a population without artificial agents, how does each cognitive profile of the artificial agents (fixed, heuristic, deliberative) change the emergence, stability and evolution of cooperation among humans, and for which games, shares of agents and levels of assortment does the direction of that change reverse?
