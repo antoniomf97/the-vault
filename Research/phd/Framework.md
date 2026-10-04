@@ -1,25 +1,25 @@
 #phd 
 # Research Questions
 
-Despite the growing presence of AI agents in human societies, the role of AI cognition in human-AI interactions at the population level remains poorly understood. Additionally, the evolution of eithers AI and human cognition is yet to be properly discussed within these environments. 
-In this thesis, we address this gap by investigating how different cognitive profiles of AI agents, ranging from fixed policies to deliberative reasoning, affect the emergence, stability, and evolution of cooperation in hybrid human-AI societies.
+This thesis addresses the two parts of the gap identified previously on the state of the art. It investigates how the cognitive profiles of artificial agents, from fixed policies to heuristic and deliberative mechanisms, affect the evolution of cooperation in hybrid human-AI societies, first with all profiles held fixed, then letting those of humans evolve, and finally letting those of artificial agents change as well. Each step corresponds to one research question.
 
-The main research question this thesis addresses is:
+**RQ1:** Compared with a human-only population, how do the cognitive profiles of artificial agents (fixed, heuristic or deliberative) affect the emergence, stability and evolution of cooperation among humans, and how do the population structure (share of agents) and the dynamics (game protocols, assortment between kinds) change the direction and magnitude of these effects?
 
-RQ1: When compared to a population How do the different cognitive profile of artificial agents (from fixed, or heuristic to deliberative) affect the emergence, stability and evolution of cooperation among human, and 
+_Expected contribution:_ a model of hybrid populations in which artificial agents carry fixed, heuristic or deliberative profiles within a single framework, and a map of the conditions under which each profile raises, lowers or leaves unchanged cooperation among humans.
 
+**RQ2:** When the humans' cognitive profiles evolves over time, which profiles spread among humans under each kind of artificial agent, and do the answers to RQ1 still hold?
 
-RQ1: Compared with a population without artificial agents, how does each cognitive profile of the artificial agents (fixed, heuristic, deliberative) change the emergence, stability and evolution of cooperation among humans, and for which games, shares of agents and levels of assortment does the direction of that change reverse?
+_Expected contribution:_ a model in which the humans' profiles evolve, showing which profiles spread under each kind of artificial agent and whether conclusions obtained with a fixed human update rule survive.
 
-**RQ2:** When the humans' cognitive profiles can themselves change, which profiles spread among humans under each kind of artificial agent, and do the answers to RQ1 still hold?
+**RQ3 (extension):**  When the artificial agents' cognitive profiles are also revised over time, which combinations of human and artificial profiles persist, and do the answers to RQ2 still hold?
 
-**RQ3 (extension):** What changes when the artificial agents' profiles are also revised over time?
+_Expected contribution:_ if time allows, a first co-evolutionary model, identifying which combinations of human and artificial profiles persist.
 
+Together, these contributions are expected to show which cognitive profiles of artificial agents support or undermine cooperation among humans, under which conditions, and whether that answer survives once humans adapt to them. This gives those who design, deploy and regulate artificial agents a basis for anticipating their effects on human societies.
 
-This main question has two follow up questions:
+# Model
 
-- **RQ1:** Under which conditions (game, share of agents, assortment between kinds) does this effect change direction?
-- **RQ2:** How do these profiles change the way humans reason over time, and what does that change do to cooperation?
+Having established the research questions, we now move on to designing the model on which 
 
 #### Complex environments
 
