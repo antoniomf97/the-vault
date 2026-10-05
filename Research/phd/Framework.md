@@ -73,6 +73,7 @@ RQ3: AI cognitive profile will be variable
 
 As for the human part, a cognitive profiling is highly unexplored. Agents proxies of humans are mostly considered to have a single fixed learning rule, playing a single game, while in reality humans encompass different ones depending on the social situation, environment, and other factors . Moreover, socials situations can be very distinct hence it becomes important to consider different games that represent different situations. However, the oversimplicity that moved us away from realistic proxying can be dethroned when considering a more variable social richness (considering multiple games) and a cognitive profile empirically grounded.
 
+<!---
 #### Cultural context
 
 There is a big asymmetry between humans and AI: humans acquiring culture locally from neighbours, AI globally from a training corpus.
@@ -88,4 +89,4 @@ Although the different frameworks offer a wide range of interpretations of how t
 
 In specific, we propose an framework inspired on the social intelligence of AI ([[oecdIntroducingOECDAI2025|OECD2025]]). This framework conceptually organizes AI agents, separating its social skill dimensions, such as communication, affective, perception and problem-solving skills, from its core components, such as memory, embodiment and identity.
 
-However, some adjustments have to be taken. For instance, embodiment does not have a representation in the formalism of social simulations populational-wise (although we may suggest an open door in this direction as a future direction), meaning for now we can move without it. Consequently, affective skills, namely the expression of emotional states, cannot be represented in its physical dimension, but this is a limitation we are willing to take for now.
+However, some adjustments have to be taken. For instance, embodiment does not have a representation in the formalism of social simulations populational-wise (although we may suggest an open door in this direction as a future direction), meaning for now we can move without it. Consequently, affective skills, namely the expression of emotional states, cannot be represented in its physical dimension, but this is a limitation we are willing to take for now.--->
