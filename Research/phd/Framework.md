@@ -28,8 +28,8 @@ As expected, we will be considering a hybrid population, implying we have two di
 Regarding the network, we will be adopting a well-mixed approach, meaning each individual will be able to interact with another. In another words, this is the limit where a network is fully connected.
 
 Regarding identity, we must strictly differentiate biological from artificial agents. This separation will be distinct on RQ1/2 and RQ3
-1. Most researchers assume the agent's behavior is set from outside and never revised by social learning, and its share is a parameter. We will take such assumption
-   RQ3: when agent's cognition evolve, it would make sense that somehow they would also have to revise their strategy.
+1. Most researchers assume the agent's profile is set from outside and never revised by social learning, and its share is a parameter. We will take such assumption
+   RQ3: agent's cognition evolve, 
 2. RQ1/2: humans can imitate AI while AI doesn't imitate humans
    RQ3: AI will be able to imitate humans as well
 3. We can assume both AI and humans know the nature of their opponents. But this can be a good direction of future research
