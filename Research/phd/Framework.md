@@ -23,6 +23,8 @@ Having established the research questions, we now move on to designing the model
 
 ## Population structure
 
+As expected, we will be considering a hybrid population, implying we have two distinct sub-populations or humans and AI agents. As for taxonom
+
 We will be adopting a well-mixed approach, meaning each individual will be able to interact with another. In another words, this is the limit where a network is fully connected.
 
 
