@@ -19,7 +19,13 @@ Together, these contributions are expected to show which cognitive profiles of a
 
 # Model
 
-Having established the research questions, we now move on to designing the model on which 
+Having established the research questions, we now move on to designing the model on which our results will be built on. Within evolutionary game theory, we model a hybrid population of humans and artificial agents who interact in cooperation games. Every individual carries a cognitive profile, that is, a rule for choosing an action and for revising that choice. The profile of the artificial agents is set by design and is the quantity we compare, while a human-only population serves as the baseline. The three research questions use the same model and relax one assumption at a time. In RQ1 all profiles are held fixed, in RQ2 those of humans evolve, and in RQ3 those of artificial agents are revised as well. We explicitly specify the model along the four dimensions used in the review, population structure, dynamics structure, agent design and cognitive evolution, stating for each what is varied and what is held fixed, the latter being the limitations of this work.
+
+## Population structure
+
+We will be adopting a well-mixed approach, meaning each individual will be able to interact with another. In another words, this is the limit where a network is fully connected.
+
+
 
 #### Complex environments
 
@@ -29,9 +35,6 @@ Moreover, when considering cognitive complexity, one ought to explore complex en
 
 As for the human part, a cognitive profiling is highly unexplored. Agents proxies of humans are mostly considered to have a single fixed learning rule, playing a single game, while in reality humans encompass different ones depending on the social situation, environment, and other factors . Moreover, socials situations can be very distinct hence it becomes important to consider different games that represent different situations. However, the oversimplicity that moved us away from realistic proxying can be dethroned when considering a more variable social richness (considering multiple games) and a cognitive profile empirically grounded.
 
-
-
-
 #### Cultural context
 
 There is a big asymmetry between humans and AI: humans acquiring culture locally from neighbours, AI globally from a training corpus.
@@ -40,7 +43,6 @@ Evolução condicionada ou nao?
 
 1. should AI maintain their culture or learn from others?
 2. AI
-
 
 ## Taxonomy 
 
