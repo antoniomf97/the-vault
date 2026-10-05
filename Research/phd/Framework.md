@@ -23,15 +23,51 @@ Having established the research questions, we now move on to designing the model
 
 ## Population structure
 
-As expected, we will be considering a hybrid population, implying we have two distinct sub-populations or humans and AI agents. As for taxonom
+As expected, we will be considering a hybrid population, implying we have two distinct sub-populations or humans and AI agents. As for taxonomy distinction, throughout this work we may address to them as biological and artificial agents.
 
-We will be adopting a well-mixed approach, meaning each individual will be able to interact with another. In another words, this is the limit where a network is fully connected.
+Regarding the network, we will be adopting a well-mixed approach, meaning each individual will be able to interact with another. In another words, this is the limit where a network is fully connected.
 
+Regarding identity, we must strictly differentiate biological from artificial agents. This separation will be distinct on RQ1/2 and RQ3
+1. Most researchers assume the agent's behavior is set from outside and never revised by social learning, and its share is a parameter. We will take such assumption
+   RQ3: when agent's cognition evolve, it would make sense that somehow they would also have to revise their strategy.
+2. RQ1/2: humans can imitate AI while AI doesn't imitate humans
+   RQ3: AI will be able to imitate humans as well
+3. We can assume both AI and humans know the nature of their opponents. But this can be a good direction of future research
+4. The field convention is that speed, memory and reasoning cost are the same, regardless of the nature.
+   RQ1/2: for higher reasoning, like ToM or CT, memory and reasoning cost are mandatory to be discussed. They are different depending on human/AI AND they can be explicit on the payoff matrix.
 
 
 #### Complex environments
 
-Moreover, when considering cognitive complexity, one ought to explore complex environments as well, so the effects of such rich cognitive processes become visible and identifiable. In hybrid human-AI populations, specifically, we must consider the complex populational structure, rather than assuming the typical homogenous well-mixed populations, highly considered in evolutionary game theory. While some works have been done now assuming heterogeneity ([[vasconcelosClimatePoliciesWealth2014|Vasconcelos2014]], [[kimuraCoevolutionaryNetworksHomophily2008|Kimura2008]][[vasconcelosClimatePoliciesWealth2014|]]), they only consider a factor of homophily, while heterophily (very relevant in current AI companions for instance) remains highly unexplored.
+when considering cognitive complexity, one ought to explore complex environments as well, so the effects of such rich cognitive processes become visible and identifiable. In hybrid human-AI populations, specifically, we must consider the complex populational structure, rather than assuming the typical homogenous well-mixed populations, highly considered in evolutionary game theory. While some works have been done now assuming heterogeneity ([[vasconcelosClimatePoliciesWealth2014|Vasconcelos2014]], [[kimuraCoevolutionaryNetworksHomophily2008|Kimura2008]][[vasconcelosClimatePoliciesWealth2014|]]), they only consider a factor of homophily, while heterophily (very relevant in current AI companions for instance) remains highly unexplored.
+
+Theory of mind is about simulating others reasoning. Its effects are seen better under complex environments or complex dynamics.
+
+To provide a more complex dynamics, we can assume AI play one game while humans play another (asymmetric protocols). This, however, may introduce an extra variable, thus increasing the complexity of the simulations (?). But if we dont have this how can we model Theory of mind?
+
+## Agent Design
+
+Cogntive profile:
+
+RQ1/2: we will assume AI cognitive profile will be fixed, while human cognitive profile will be fixed (RQ1) or variable (RQ2).
+AI cognitive profile will be:
+1. fixed (always cooperate/always defect)
+2. heuristic (immitation)
+3. deliberative (ToM and/or CT)
+
+Human cognitive profile will be:
+1. empirically provided (stochastic, 50% conformism, 40% heuristic, 10% deliberative) 
+2. starts with empirically defined and evolves.
+	1. when interact with human imitates, when interact with AI there's a change of changing the profile (we must check papers that support how human reasoning evolve with exposure to AI vs to human)
+
+RQ3: AI cognitive profile will be variable
+1. AI interacting with AI will imitate (?) while interacting with human may evolve profile (or its profile may converge towards human profile (?))
+	1. we must investigate how could AI reasoning evolve
+	2. should AI evolution be conditioned?
+	3. AI can evolve with "global" information, while humans only with "local"!
+
+
+
 
 #### Human cognitive profiling
 
