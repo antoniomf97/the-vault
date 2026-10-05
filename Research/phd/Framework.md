@@ -28,11 +28,12 @@ As expected, we will be considering a hybrid population, implying we have two di
 Regarding the network, we will be adopting a well-mixed approach, meaning each individual will be able to interact with another. In another words, this is the limit where a network is fully connected.
 
 Regarding identity, we must strictly differentiate biological from artificial agents. This separation will be distinct on RQ1/2 and RQ3
-1. The field convention is that speed, memory and reasoning cost are the same, regardless of the nature.
+1. **Nature:** the agents kind (biological or artificial) is fixed and immutable
+2. **Visibility:** each individuals' kind is visible to all
+3. We can assume both AI and humans know the nature of their opponents. But this can be a good direction of future research
+
+ The field convention is that speed, memory and reasoning cost are the same, regardless of the nature.
    RQ1/2: for higher reasoning, like ToM or CT, memory and reasoning cost are mandatory to be discussed. They are different depending on human/AI AND they can be explicit on the payoff matrix.
-2. We can assume both AI and humans know the nature of their opponents. But this can be a good direction of future research
-
-
 
 #### Complex environments
 
