@@ -31,7 +31,7 @@ Regarding identity, we must strictly differentiate biological from artificial ag
 1. **Nature:** the agents kind (biological or artificial) is fixed and immutable
 2. **Visibility:** each individuals' kind is visible to all; we can assume both AI and humans know the nature of their opponents (But this can be a good direction of future research)
 3. **Knowledge:** AI has global knowledge; humans have local knowledge;
-4. **Action:**
+4. **Action:** 
 5. **Bias:** AI is more heterophilic while humans can vary between homophilic to well mixed
 6. **Left out:** we assume agents don't care about reputation, affection, roles, etc
 
