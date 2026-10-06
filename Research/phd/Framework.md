@@ -54,6 +54,11 @@ Having established the research questions, we now move on to designing the model
 - **RQ3:** both human and AI profiles change over time
 	- AI uses global knowledge to evolve; humans use local knowledge
 
+#### Results
+
+- **Outcomes:** emergence, stability and evolution of cooperation
+- **Validation:** fixed agents (Sharma2023 and Guo2023); zero agents (human-only results)
+
 
 Regarding identity, we must strictly differentiate biological from artificial agents. This separation will be distinct on RQ1/2 and RQ3
 1. **Nature:** the agents kind (biological or artificial) is fixed and immutable
