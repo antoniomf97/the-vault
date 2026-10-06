@@ -38,15 +38,14 @@ Having established the research questions, we now move on to designing the model
 
 #### Agent Design
 
-- **Cognitive profiles:**
-  RQ1: human has  
+- **Cognitive profiles:** AI profile will be either all fixed, all heuristic, or all deliberative
 - **Reasoning:** 
 	- **Fixed:** always cooperate/defect regardless of opponent
 	- **Heuristic:** conditionally act depending on heuristic (conformism, SL, aspiration)
 	- **Deliberative:** creates mental models about opponent (CT, ToM)
 	  (in this last case, uses partner's kind to make decision)
 - **Reasoning cost:** AI has lower cost than humans
-- memory
+- **Memory:** AI has larger memory compared to humans (used in deliberative reasoning)
 
 #### Cognitive Evolution
 
