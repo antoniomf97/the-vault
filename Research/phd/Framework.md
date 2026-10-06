@@ -33,7 +33,7 @@ Having established the research questions, we now move on to designing the model
 
 #### Dynamics Structure
 
-- **Time Schedulling:** asynchronous 
+- **Time Scheduling:** asynchronous 
 - **Game Protocols:** PD as control, Coordination (SH) and Co-Existence (SG); pairwise OS
 - **Assortment:** AI vary (heterophilic, well-mixed); humans vary (homophilic, well-mixed)
 
