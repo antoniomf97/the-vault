@@ -52,7 +52,7 @@ Having established the research questions, we now move on to designing the model
 - **RQ1:** reasoning profiles do not change over time
 - **RQ2:** human profiles change over time
 - **RQ3:** both human and AI profiles change over time
-	- AI 
+	- AI uses global knowledge to evolve; humans use local knowledge
 
 
 Regarding identity, we must strictly differentiate biological from artificial agents. This separation will be distinct on RQ1/2 and RQ3
@@ -63,19 +63,6 @@ Regarding identity, we must strictly differentiate biological from artificial ag
 5. **Bias:** AI is more heterophilic while humans can vary between homophilic to well mixed
 6. **Left out:** we assume agents don't care about reputation, affection, roles, etc
 
-## Dynamics structure
-
-
-
-
-<!---
-#### Complex environments
-
-when considering cognitive complexity, one ought to explore complex environments as well, so the effects of such rich cognitive processes become visible and identifiable. In hybrid human-AI populations, specifically, we must consider the complex populational structure, rather than assuming the typical homogenous well-mixed populations, highly considered in evolutionary game theory. While some works have been done now assuming heterogeneity ([[vasconcelosClimatePoliciesWealth2014|Vasconcelos2014]], [[kimuraCoevolutionaryNetworksHomophily2008|Kimura2008]][[vasconcelosClimatePoliciesWealth2014|]]), they only consider a factor of homophily, while heterophily (very relevant in current AI companions for instance) remains highly unexplored.
-
-Theory of mind is about simulating others reasoning. Its effects are seen better under complex environments or complex dynamics.
-
-To provide a more complex dynamics, we can assume AI play one game while humans play another (asymmetric protocols). This, however, may introduce an extra variable, thus increasing the complexity of the simulations (?). But if we dont have this how can we model Theory of mind? --->
 
 ## Agent Design
 
