@@ -26,7 +26,7 @@ Having established the research questions, we now move on to designing the model
 - **Type:** hybrid population, 2 kinds (sub-populations): AI and humans
 - **Network:** well-mixed
 - **Size:** ~10^2 - 10^3 ; finite
-- **Share of agents:** from 0 to 100 %
+- **Share of agents:** from 0 to 99 %
 - **Nature:** the agents kind (biological or artificial) is fixed and immutable
 - **Visibility:** each individuals' kind is visible to all
 
