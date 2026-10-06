@@ -27,7 +27,7 @@ Having established the research questions, we now move on to designing the model
 - **Network:** well-mixed
 - **Size:** ~10^2 - 10^3 ; finite
 - **Share of agents:** from 0 to 99 %
-- **Nature:** the agents kind (biological or artificial) is fixed and immutable
+- **Nature:** the agents kind (humans or AI) is fixed and immutable
 - **Visibility:** each individuals' kind is visible to all
 - **Knowledge:** humans have local information; AI has global information
 
@@ -51,11 +51,11 @@ Having established the research questions, we now move on to designing the model
 	- **Heuristic:** conditionally act depending on heuristic 
 		- Conformism: imitates the most frequent strategy
 		- Social Learning: imitates the highest fitness
-		- Aspiration: imitates to achieve its aspiration
+		- Aspiration: keeps action if aspiration met, and switches otherwise.
 	- **Deliberative:** more profound reasoning (uses kind to make decision)
 		- Counterfactual Thinking: retrospection to compare alternatives
 		- Theory of Mind: models opponent mind to take action
-- **Reasoning cost:** AI has lower cost than humans (explicit under )
+- **Reasoning cost:** AI has lower cost than humans (explicit on payoff matrix)
 - **Memory:** AI has larger memory compared to humans (used in deliberative reasoning)
 
 #### Cognitive Evolution
@@ -73,7 +73,8 @@ Having established the research questions, we now move on to designing the model
 	- stability = cooperation kept from an all-cooperating start; 
 	- evolution = the long-run average level
 - **Validation:** fixed agents (Sharma2023 and Guo2023); zero agents (human-only results)
-- **Method** stochastic simulation of the finite population, exact where the number of states allows. Study 1 = RQ1, study 2 = RQ2, study 3 = RQ3 if time allows
+- **Method:** stochastic simulation of the finite population exact where the nº states allows
+- **Plan:** Study 1 = RQ1, study 2 = RQ2, study 3 = RQ3
 
 #### Limitations
 
