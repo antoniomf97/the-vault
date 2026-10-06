@@ -65,7 +65,7 @@ Having established the research questions, we now move on to designing the model
 	- **open:** a human's profile changes either by copying the profile of someone who earned more, or on meeting an agent
 - **RQ3:** both human and AI profiles change over time
 	- AI uses global knowledge to evolve; humans use local knowledge
-
+	
 #### Results
 
 - **Outcomes:**
