@@ -39,17 +39,22 @@ Having established the research questions, we now move on to designing the model
 
 #### Agent Design
 
+- **Perception:** humans and AI know its opponents kind
+- **Imitation:** humans can imitate AI while AI don't imitate humans (RQ1/2)
 - **Cognitive profiles:** 
 	- AI profile will be either all fixed, all heuristic, or all deliberative
 	- human profile will be all social learning (RQ1); variable (RQ2/3)
 - **Reasoning:** 
 	- **Fixed:** always cooperate/defect regardless of opponent
-	- **Heuristic:** conditionally act depending on heuristic (conformism, SL, aspiration)
-	- **Deliberative:** creates mental models about opponent (CT, ToM)
-	  (in this last case, uses partner's kind to make decision)
+	- **Heuristic:** conditionally act depending on heuristic 
+		- Conformism: imitates the most frequent strategy
+		- Social Learning: imitates the highest fitness
+		- Aspiration: imitates to achieve its aspiration
+	- **Deliberative:** more profound reasoning (uses kind to make decision)
+		- Counterfactual Thinking: retrospection to compare alternatives
+		- Theory of Mind: models opponent mind to take action
 - **Reasoning cost:** AI has lower cost than humans (explicit under )
 - **Memory:** AI has larger memory compared to humans (used in deliberative reasoning)
-- **Perception:** humans and AI know its opponents kind
 
 #### Cognitive Evolution
 
