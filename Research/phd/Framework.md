@@ -36,7 +36,7 @@ Having established the research questions, we now move on to designing the model
 - **Time Scheduling:** asynchronous (one player per time step)
 - **Game Protocols:** PD as control, Coordination (SH) and Co-Existence (SG); pairwise OS
   We consider a parameter that weight its partner's payoff (zero = human; >0 = more C)
-- **Assortment:** AI vary (heterophilic, well-mixed); humans vary (homophilic, well-mixed)
+- **Assortment:** AI vary (well-mixed); humans vary (homophilic/heterophilic/well-mixed)
 
 #### Agent Design
 
