@@ -35,12 +35,13 @@ Having established the research questions, we now move on to designing the model
 
 - **Time Scheduling:** asynchronous (one player per time step)
 - **Game Protocols:** PD as control, Coordination (SH) and Co-Existence (SG); pairwise OS
+  We consider a parameter that 
 - **Assortment:** AI vary (heterophilic, well-mixed); humans vary (homophilic, well-mixed)
 
 #### Agent Design
 
 - **Perception:** humans and AI know its opponents kind
-- **Imitation:** humans can imitate AI while AI don't imitate humans (RQ1/2)
+- **Imitation:** humans can imitate AI while AI don't imitate humans (RQ1/2); when AI cognition evolve, AI may imitate humans too (RQ3)
 - **Cognitive profiles:** 
 	- AI profile will be either all fixed, all heuristic, or all deliberative (RQ1/2)
 	- human profile will be all social learning (RQ1); variable (RQ2/3)
@@ -78,21 +79,6 @@ We will not address
 - errors on perception
 
 
-
-
-
-
-
-2. RQ1/2: humans can imitate AI while AI doesn't imitate humans
-   RQ3: AI will be able to imitate humans as well
-
-3. The field convention is that speed, memory and reasoning cost are the same, regardless of the nature.
-   RQ1/2: for higher reasoning, like ToM or CT, memory and reasoning cost are mandatory to be discussed. They are different depending on human/AI AND they can be explicit on the payoff matrix.
-
-
-#### Human cognitive profiling
-
-As for the human part, a cognitive profiling is highly unexplored. Agents proxies of humans are mostly considered to have a single fixed learning rule, playing a single game, while in reality humans encompass different ones depending on the social situation, environment, and other factors . Moreover, socials situations can be very distinct hence it becomes important to consider different games that represent different situations. However, the oversimplicity that moved us away from realistic proxying can be dethroned when considering a more variable social richness (considering multiple games) and a cognitive profile empirically grounded.
 
 <!---
 #### Cultural context
