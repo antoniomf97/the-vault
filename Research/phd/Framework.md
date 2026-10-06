@@ -21,11 +21,17 @@ Together, these contributions are expected to show which cognitive profiles of a
 
 Having established the research questions, we now move on to designing the model on which our results will be built on. Within evolutionary game theory, we model a hybrid population of humans and artificial agents who interact in cooperation games. Every individual carries a cognitive profile, that is, a rule for choosing an action and for revising that choice. The profile of the artificial agents is set by design and is the quantity we compare, while a human-only population serves as the baseline. The three research questions use the same model and relax one assumption at a time. In RQ1 all profiles are held fixed, in RQ2 those of humans evolve, and in RQ3 those of artificial agents are revised as well. We explicitly specify the model along the four dimensions used in the review, population structure, dynamics structure, agent design and cognitive evolution, stating for each what is varied and what is held fixed, the latter being the limitations of this work.
 
-## Population structure
+#### Population Structure
 
-As expected, we will be considering a hybrid population, implying we have two distinct sub-populations or humans and AI agents. We can adopt an average size of 10^2 - 10^3 
+- **Type:** hybrid population, 2 kinds (sub-populations): AI and humans
+- **Network:** well-mixed
+- **Size:** ~10^2 - 10^3 ; finite
+- **Share of agents:** from 0 to 100 %
+- **Nature:** the agents kind (biological or artificial) is fixed and immutable
 
-Regarding the network, we will be adopting a well-mixed approach, meaning each individual will be able to interact with another. In another words, this is the limit where a network is fully connected.
+#### Dynamics Structure
+
+- **Assortment:** AI is more heterophilic; humans vary between homophilic to well-mixed
 
 Regarding identity, we must strictly differentiate biological from artificial agents. This separation will be distinct on RQ1/2 and RQ3
 1. **Nature:** the agents kind (biological or artificial) is fixed and immutable
