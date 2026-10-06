@@ -36,6 +36,25 @@ Having established the research questions, we now move on to designing the model
 - **Assortment:** AI vary (heterophilic, well-mixed); humans vary (homophilic, well-mixed)
 - **Institutions:** not addressed
 
+#### Agent Design
+
+- **Cognitive profiles:**
+  RQ1: human has  
+- **Reasoning:** 
+	- **Fixed:** 
+	- **Heuristic:**
+	- **Deliberative:**
+- **Reasoning cost:** AI has lower cost than humans
+- 
+
+#### Cognitive Evolution
+
+- **RQ1:** reasoning profiles do not change over time
+- **RQ2:** human profiles change over time
+- **RQ3:** both human and AI profiles change over time
+	- AI 
+
+
 Regarding identity, we must strictly differentiate biological from artificial agents. This separation will be distinct on RQ1/2 and RQ3
 1. **Nature:** the agents kind (biological or artificial) is fixed and immutable
 2. **Visibility:** each individuals' kind is visible to all; we can assume both AI and humans know the nature of their opponents (But this can be a good direction of future research)
