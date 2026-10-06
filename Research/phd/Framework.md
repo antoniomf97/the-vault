@@ -31,7 +31,10 @@ Having established the research questions, we now move on to designing the model
 
 #### Dynamics Structure
 
-- **Assortment:** AI is more heterophilic; humans vary between homophilic to well-mixed
+- **Time Schedulling:** asynchronous 
+- **Game Protocols:** PD as control, Coordination (SH) and Co-Existence (SG); pairwise OS
+- **Assortment:** AI vary (heterophilic, well-mixed); humans vary (homophilic, well-mixed)
+- **Institutions:** not addressed
 
 Regarding identity, we must strictly differentiate biological from artificial agents. This separation will be distinct on RQ1/2 and RQ3
 1. **Nature:** the agents kind (biological or artificial) is fixed and immutable
