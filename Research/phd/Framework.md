@@ -47,7 +47,7 @@ Having established the research questions, we now move on to designing the model
 	- **Heuristic:** conditionally act depending on heuristic (conformism, SL, aspiration)
 	- **Deliberative:** creates mental models about opponent (CT, ToM)
 	  (in this last case, uses partner's kind to make decision)
-- **Reasoning cost:** AI has lower cost than humans
+- **Reasoning cost:** AI has lower cost than humans (explicit under )
 - **Memory:** AI has larger memory compared to humans (used in deliberative reasoning)
 - **Perception:** humans and AI know its opponents kind
 
