@@ -29,6 +29,7 @@ Having established the research questions, we now move on to designing the model
 - **Share of agents:** from 0 to 99 %
 - **Nature:** the agents kind (biological or artificial) is fixed and immutable
 - **Visibility:** each individuals' kind is visible to all
+- **Knowledge:** humans have local information; AI has global information
 
 #### Dynamics Structure
 
@@ -72,34 +73,9 @@ We will not address
 - errors on perception
 
 
-Regarding identity, we must strictly differentiate biological from artificial agents. This separation will be distinct on RQ1/2 and RQ3
-1. **Nature:** the agents kind (biological or artificial) is fixed and immutable
-2. **Visibility:** each individuals' kind is visible to all; we can assume both AI and humans know the nature of their opponents (But this can be a good direction of future research)
-3. **Knowledge:** AI has global knowledge; humans have local knowledge;
-4. **Action:** fixed and heuristic reasonings don't consider the kind; deliberative considers the opponent's kind
-5. **Bias:** AI is more heterophilic while humans can vary between homophilic to well mixed
-6. **Left out:** we assume agents don't care about reputation, affection, roles, etc
 
 
-## Agent Design
 
-
- The field convention is that speed, memory and reasoning cost are the same, regardless of the nature.
-   RQ1/2: for higher reasoning, like ToM or CT, memory and reasoning cost are mandatory to be discussed. They are different depending on human/AI AND they can be explicit on the payoff matrix.
-
-
-Cogntive profile:
-
-RQ1/2: we will assume AI cognitive profile will be fixed, while human cognitive profile will be fixed (RQ1) or variable (RQ2).
-AI cognitive profile will be:
-1. fixed (always cooperate/always defect)
-2. heuristic (immitation)
-3. deliberative (ToM and/or CT)
-
-Human cognitive profile will be:
-1. empirically provided (stochastic, 50% conformism, 40% heuristic, 10% deliberative) 
-2. starts with empirically defined and evolves.
-	1. when interact with human imitates, when interact with AI there's a change of changing the profile (we must check papers that support how human reasoning evolve with exposure to AI vs to human)
 
 RQ3: AI cognitive profile will be variable
 1. AI interacting with AI will imitate (?) while interacting with human may evolve profile (or its profile may converge towards human profile (?))
