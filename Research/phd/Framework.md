@@ -42,7 +42,7 @@ Having established the research questions, we now move on to designing the model
 - **Perception:** humans and AI know its opponents kind
 - **Imitation:** humans can imitate AI while AI don't imitate humans (RQ1/2)
 - **Cognitive profiles:** 
-	- AI profile will be either all fixed, all heuristic, or all deliberative
+	- AI profile will be either all fixed, all heuristic, or all deliberative (RQ1/2)
 	- human profile will be all social learning (RQ1); variable (RQ2/3)
 - **Reasoning:** 
 	- **Fixed:** always cooperate/defect regardless of opponent
@@ -82,11 +82,6 @@ We will not address
 
 
 
-RQ3: AI cognitive profile will be variable
-1. AI interacting with AI will imitate (?) while interacting with human may evolve profile (or its profile may converge towards human profile (?))
-	1. we must investigate how could AI reasoning evolve
-	2. should AI evolution be conditioned?
-	3. AI can evolve with "global" information, while humans only with "local"!
 
 2. RQ1/2: humans can imitate AI while AI doesn't imitate humans
    RQ3: AI will be able to imitate humans as well
