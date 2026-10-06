@@ -85,7 +85,7 @@ We will not address
 - embodiment
 - errors on perception
 
-
+#### Open to discussion
 
 <!---
 #### Cultural context
