@@ -35,13 +35,14 @@ Having established the research questions, we now move on to designing the model
 
 - **Time Scheduling:** asynchronous (one player per time step)
 - **Game Protocols:** PD as control, Coordination (SH) and Co-Existence (SG); pairwise OS
-  We consider a parameter that 
+  We consider a parameter that weight its partner's payoff (zero = human; >0 = more C)
 - **Assortment:** AI vary (heterophilic, well-mixed); humans vary (homophilic, well-mixed)
 
 #### Agent Design
 
 - **Perception:** humans and AI know its opponents kind
-- **Imitation:** humans can imitate AI while AI don't imitate humans (RQ1/2); when AI cognition evolve, AI may imitate humans too (RQ3)
+- **Imitation:** every individual applies its rule to everyone it observes, human or agent. 
+  Only humans change profile (RQ2); agents' profiles are revised only in RQ3
 - **Cognitive profiles:** 
 	- AI profile will be either all fixed, all heuristic, or all deliberative (RQ1/2)
 	- human profile will be all social learning (RQ1); variable (RQ2/3)
@@ -61,13 +62,18 @@ Having established the research questions, we now move on to designing the model
 
 - **RQ1:** reasoning profiles do not change over time
 - **RQ2:** human profiles change over time
+	- **open:** a human's profile changes either by copying the profile of someone who earned more, or on meeting an agent
 - **RQ3:** both human and AI profiles change over time
 	- AI uses global knowledge to evolve; humans use local knowledge
 
 #### Results
 
-- **Outcomes:** emergence, stability and evolution of cooperation
+- **Outcomes:**
+	- emergence = cooperation reached from an all-defecting start; 
+	- stability = cooperation kept from an all-cooperating start; 
+	- evolution = the long-run average level
 - **Validation:** fixed agents (Sharma2023 and Guo2023); zero agents (human-only results)
+- **Method** stochastic simulation of the finite population, exact where the number of states allows. Study 1 = RQ1, study 2 = RQ2, study 3 = RQ3 if time allows
 
 #### Limitations
 
