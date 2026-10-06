@@ -28,13 +28,13 @@ Having established the research questions, we now move on to designing the model
 - **Size:** ~10^2 - 10^3 ; finite
 - **Share of agents:** from 0 to 100 %
 - **Nature:** the agents kind (biological or artificial) is fixed and immutable
+- **Visibility:** each individuals' kind is visible to all
 
 #### Dynamics Structure
 
 - **Time Schedulling:** asynchronous 
 - **Game Protocols:** PD as control, Coordination (SH) and Co-Existence (SG); pairwise OS
 - **Assortment:** AI vary (heterophilic, well-mixed); humans vary (homophilic, well-mixed)
-- **Institutions:** not addressed
 
 #### Agent Design
 
@@ -48,6 +48,7 @@ Having established the research questions, we now move on to designing the model
 	  (in this last case, uses partner's kind to make decision)
 - **Reasoning cost:** AI has lower cost than humans
 - **Memory:** AI has larger memory compared to humans (used in deliberative reasoning)
+- **Perception:** humans and AI know its opponents kind
 
 #### Cognitive Evolution
 
@@ -60,6 +61,15 @@ Having established the research questions, we now move on to designing the model
 
 - **Outcomes:** emergence, stability and evolution of cooperation
 - **Validation:** fixed agents (Sharma2023 and Guo2023); zero agents (human-only results)
+
+#### Limitations
+
+We will not address
+- institutions
+- reputations/roles
+- affection
+- embodiment
+- errors on perception
 
 
 Regarding identity, we must strictly differentiate biological from artificial agents. This separation will be distinct on RQ1/2 and RQ3
