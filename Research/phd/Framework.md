@@ -38,7 +38,9 @@ Having established the research questions, we now move on to designing the model
 
 #### Agent Design
 
-- **Cognitive profiles:** AI profile will be either all fixed, all heuristic, or all deliberative
+- **Cognitive profiles:** 
+	- AI profile will be either all fixed, all heuristic, or all deliberative
+	- human profile will be all social learning (RQ1); variable (RQ2/3)
 - **Reasoning:** 
 	- **Fixed:** always cooperate/defect regardless of opponent
 	- **Heuristic:** conditionally act depending on heuristic (conformism, SL, aspiration)
