@@ -67,7 +67,7 @@ RQ3: AI cognitive profile will be variable
 	3. AI can evolve with "global" information, while humans only with "local"!
 
 
-
+aaa
 
 #### Human cognitive profiling
 
