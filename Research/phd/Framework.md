@@ -3,7 +3,7 @@
 
 This thesis addresses the two parts of the gap identified previously on the state of the art. It investigates how the cognitive profiles of artificial agents, from fixed policies to heuristic and deliberative mechanisms, affect the evolution of cooperation in hybrid human-AI societies, first with all profiles held fixed, then letting those of humans evolve, and finally letting those of artificial agents change as well. Each step corresponds to one research question.
 
-**RQ1:** Compared with a human-only population, how do the cognitive profiles of artificial agents (fixed, heuristic or deliberative) affect the emergence, stability and evolution of cooperation among humans, and how do the population structure (share of agents) and the dynamics (game protocols, assortment between kinds) change the direction and magnitude of these effects?
+**RQ1:** Compared with a human-only population, how do the cognitive profiles of artificial agents (fixed, heuristic or deliberative) affect the emergence, stability and evolution of cooperation, and how do the population structure (share of agents) and the dynamics (game protocols, assortment between kinds) change the direction and magnitude of these effects?
 
 _Expected contribution:_ a model of hybrid populations in which artificial agents carry fixed, heuristic or deliberative profiles within a single framework, and a map of the conditions under which each profile raises, lowers or leaves unchanged cooperation among humans.
 
@@ -21,34 +21,71 @@ Together, these contributions are expected to show which cognitive profiles of a
 
 Having established the research questions, we now move on to designing the model on which our results will be built on. Within evolutionary game theory, we model a hybrid population of humans and artificial agents who interact in cooperation games. Every individual carries a cognitive profile, that is, a rule for choosing an action and for revising that choice. The profile of the artificial agents is set by design and is the quantity we compare, while a human-only population serves as the baseline. The three research questions use the same model and relax one assumption at a time. In RQ1 all profiles are held fixed, in RQ2 those of humans evolve, and in RQ3 those of artificial agents are revised as well. We explicitly specify the model along the four dimensions used in the review, population structure, dynamics structure, agent design and cognitive evolution, stating for each what is varied and what is held fixed, the latter being the limitations of this work.
 
-## Population structure
+#### Population Structure
 
-As expected, we will be considering a hybrid population, implying we have two distinct sub-populations or humans and AI agents. As for taxonomy distinction, throughout this work we may address to them as biological and artificial agents.
+- **Type:** hybrid population, 2 kinds (sub-populations): AI and humans
+- **Network:** well-mixed
+- **Size:** ~10^2 - 10^3 ; finite
+- **Share of agents:** from 0 to 99 %
+- **Nature:** the agents kind (humans or AI) is fixed and immutable
+- **Visibility:** each individuals' kind is visible to all
+- **Knowledge:** humans have local information; AI has global information
 
-Regarding the network, we will be adopting a well-mixed approach, meaning each individual will be able to interact with another. In another words, this is the limit where a network is fully connected.
+#### Dynamics Structure
 
-Regarding identity, we must strictly differentiate biological from artificial agents. This separation will be distinct on RQ1/2 and RQ3
-1. Most researchers assume the agent's behavior is set from outside and never revised by social learning, and its share is a parameter. We will take such assumption
-   RQ3: when agent's cognition evolve, it would make sense that somehow they would also have to revise their strategy.
-2. RQ1/2: humans can imitate AI while AI doesn't imitate humans
-   RQ3: AI will be able to imitate humans as well
-3. We can assume both AI and humans know the nature of their opponents. But this can be a good direction of future research
-4. The field convention is that speed, memory and reasoning cost are the same, regardless of the nature.
-   RQ1/2: for higher reasoning, like ToM or CT, memory and reasoning cost are mandatory to be discussed. They are different depending on human/AI AND they can be explicit on the payoff matrix.
+- **Time Scheduling:** asynchronous (one player per time step)
+- **Game Protocols:** PD as control, Coordination (SH) and Co-Existence (SG); pairwise OS
+  We consider a parameter that weight its partner's payoff (zero = human; >0 = more C)
+- **Assortment:** AI vary (well-mixed); humans vary (homophilic/heterophilic/well-mixed)
 
+#### Agent Design
 
-#### Complex environments
+- **Perception:** humans and AI know its opponents kind
+- **Imitation:** every individual applies its rule to everyone it observes, human or agent. 
+  Only humans change profile (RQ2); agents' profiles are revised only in RQ3
+- **Cognitive profiles:** 
+	- AI profile will be either all fixed, all heuristic, or all deliberative (RQ1/2)
+	- human profile will be all social learning (RQ1); variable (RQ2/3)
+- **Reasoning:** 
+	- **Fixed:** always cooperate/defect regardless of opponent
+	- **Heuristic:** conditionally act depending on heuristic 
+		- Conformism: imitates the most frequent strategy
+		- Social Learning: imitates the highest fitness
+		- Aspiration: keeps action if aspiration met, and switches otherwise.
+	- **Deliberative:** more profound reasoning (uses kind to make decision)
+		- Counterfactual Thinking: retrospection to compare alternatives
+		- Theory of Mind: models opponent mind to take action
+- **Reasoning cost:** AI has lower cost than humans (explicit on payoff matrix)
+- **Memory:** AI has larger memory compared to humans (used in deliberative reasoning)
 
-when considering cognitive complexity, one ought to explore complex environments as well, so the effects of such rich cognitive processes become visible and identifiable. In hybrid human-AI populations, specifically, we must consider the complex populational structure, rather than assuming the typical homogenous well-mixed populations, highly considered in evolutionary game theory. While some works have been done now assuming heterogeneity ([[vasconcelosClimatePoliciesWealth2014|Vasconcelos2014]], [[kimuraCoevolutionaryNetworksHomophily2008|Kimura2008]][[vasconcelosClimatePoliciesWealth2014|]]), they only consider a factor of homophily, while heterophily (very relevant in current AI companions for instance) remains highly unexplored.
+#### Cognitive Evolution
 
-Theory of mind is about simulating others reasoning. Its effects are seen better under complex environments or complex dynamics.
+- **RQ1:** reasoning profiles do not change over time
+- **RQ2:** human profiles change over time
+	- **open:** a human's profile changes either by copying the profile of someone who earned more, or on meeting an agent
+- **RQ3:** both human and AI profiles change over time
+	- AI uses global knowledge to evolve; humans use local knowledge
+	
+#### Results
 
-To provide a more complex dynamics, we can assume AI play one game while humans play another (asymmetric protocols). This, however, may introduce an extra variable, thus increasing the complexity of the simulations (?). But if we dont have this how can we model Theory of mind?
+- **Outcomes:**
+	- emergence = cooperation reached from an all-defecting start; 
+	- stability = cooperation kept from an all-cooperating start; 
+	- evolution = the long-run average level
+- **Validation:** fixed agents (Sharma2023 and Guo2023); zero agents (human-only results)
+- **Method:** stochastic simulation of the finite population exact where the nº states allows
+- **Plan:** Study 1 = RQ1, study 2 = RQ2, study 3 = RQ3
 
-## Agent Design
+#### Limitations
 
-Cogntive profile:
+We will not address
+- institutions
+- reputations/roles
+- affection
+- embodiment
+- errors on perception
 
+<<<<<<< HEAD
 RQ1/2: we will assume AI cognitive profile will be fixed, while human cognitive profile will be fixed (RQ1) or variable (RQ2).
 AI cognitive profile will be:
 1. fixed (always cooperate/always defect)
@@ -72,7 +109,11 @@ aaa
 #### Human cognitive profiling
 
 As for the human part, a cognitive profiling is highly unexplored. Agents proxies of humans are mostly considered to have a single fixed learning rule, playing a single game, while in reality humans encompass different ones depending on the social situation, environment, and other factors . Moreover, socials situations can be very distinct hence it becomes important to consider different games that represent different situations. However, the oversimplicity that moved us away from realistic proxying can be dethroned when considering a more variable social richness (considering multiple games) and a cognitive profile empirically grounded.
+=======
+#### Open to discussion
+>>>>>>> origin/master
 
+<!---
 #### Cultural context
 
 There is a big asymmetry between humans and AI: humans acquiring culture locally from neighbours, AI globally from a training corpus.
@@ -88,4 +129,4 @@ Although the different frameworks offer a wide range of interpretations of how t
 
 In specific, we propose an framework inspired on the social intelligence of AI ([[oecdIntroducingOECDAI2025|OECD2025]]). This framework conceptually organizes AI agents, separating its social skill dimensions, such as communication, affective, perception and problem-solving skills, from its core components, such as memory, embodiment and identity.
 
-However, some adjustments have to be taken. For instance, embodiment does not have a representation in the formalism of social simulations populational-wise (although we may suggest an open door in this direction as a future direction), meaning for now we can move without it. Consequently, affective skills, namely the expression of emotional states, cannot be represented in its physical dimension, but this is a limitation we are willing to take for now.
+However, some adjustments have to be taken. For instance, embodiment does not have a representation in the formalism of social simulations populational-wise (although we may suggest an open door in this direction as a future direction), meaning for now we can move without it. Consequently, affective skills, namely the expression of emotional states, cannot be represented in its physical dimension, but this is a limitation we are willing to take for now.--->
