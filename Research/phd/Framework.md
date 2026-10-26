@@ -103,15 +103,9 @@ RQ3: AI cognitive profile will be variable
 	2. should AI evolution be conditioned?
 	3. AI can evolve with "global" information, while humans only with "local"!
 
-
-aaa
-
 #### Human cognitive profiling
 
 As for the human part, a cognitive profiling is highly unexplored. Agents proxies of humans are mostly considered to have a single fixed learning rule, playing a single game, while in reality humans encompass different ones depending on the social situation, environment, and other factors . Moreover, socials situations can be very distinct hence it becomes important to consider different games that represent different situations. However, the oversimplicity that moved us away from realistic proxying can be dethroned when considering a more variable social richness (considering multiple games) and a cognitive profile empirically grounded.
-=======
-#### Open to discussion
->>>>>>> origin/master
 
 <!---
 #### Cultural context
