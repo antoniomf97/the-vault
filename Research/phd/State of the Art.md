@@ -28,7 +28,7 @@ Third, the population composition, that is, the relative share of humans and art
 
 <!--- ===== Dynamics Structure ===== -->
 
-The dynamics structure describes how interactions unfold once the population is in place. We consider four components: the game-theoretic interaction protocol, which specifies the actions available to individuals and the payoffs they yield; the matching mechanism, which determines who actually interacts with whom; the institutions, which set and enforce the external rules that constrain these interactions, for humans and artificial agents alike; and the temporal structure, which sets when and how often individuals interact.
+The dynamics structure describes how interactions unfold once the population is in place. We consider four components: the game-theoretic interaction protocol, which specifies the actions available to individuals and the payoffs they yield; the matching mechanism, which determines who actually interacts with whom; and the institutions, which set and enforce the external rules that constrain these interactions, for humans and artificial agents alike.
 
 <!--- Game-Theoretic Protocols -->
 
@@ -53,10 +53,6 @@ Lastly, matching can be assortative, that is, dependent on the individuals' kind
 <!--- Institutions -->
 
 Third, institutions are the rules, norms and beliefs that enable and constrain how actors interact, and in hybrid settings they bind humans and artificial agents alike ([[bartelheimerConceptualizingHybridIntelligent2025|Bartelheimer2025]]). In evolutionary game theory, institutions enter as rule systems that change the payoffs individuals face, and thereby whether cooperation spreads or collapses. Sanctioning institutions funded in advance outcompete peer punishment, provided that those who do not pay for them are punished as well ([[sigmundSocialLearningPromotes2010|Sigmund2010]]). An institution that rewards cooperators while they are few and switches to punishing defectors once they are many establishes full cooperation at a lower cost than rewards or penalties alone ([[chenFirstCarrotThen2015|Chen2015]]), although maximizing cooperation need not maximize social welfare ([[hanEvolutionaryMechanismsThat2024|Han2024]]). Although these results concern human populations, recent work extends them to hybrid ones. Under indirect reciprocity, artificial agents can reduce disagreement over reputations and improve cooperation (Pires2025). By contrast, rules imposed on the agents themselves, such as requiring them to always cooperate, fail to raise human cooperation ([[hintzePromotingCooperationPublic2026|Hintze2026]]).
-
-<!--- Temporal Scheduling -->
-
-Finally, the temporal structure determines when and how often individuals interact. With respect to scheduling, most agent-based models advance in fixed time steps, a choice that can threaten the validity of their results and that continuous-time simulation avoids ([[kosterFastEmbeddedLanguage2024|Koster2024]]). With respect to the horizon of the interaction, whether a dilemma is one-shot or repeated changes how humans treat artificial partners. In a laboratory experiment, participants cooperated as much with an artificial agent as with a human in one-shot prisoner's dilemmas, but less in finitely repeated ones, where they were more willing to exploit an artificial partner they expected to cooperate ([[barreda-tarrazonaExploitingMachineHuman2026|Barreda-Tarrazona2026]]).
 
 <!--- ===== Agent Design ===== -->
 
