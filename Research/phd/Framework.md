@@ -74,7 +74,7 @@ Having established the research questions, we now move on to designing the model
 	- evolution = the long-run average level
 - **Validation:** fixed agents (Sharma2023 and Guo2023); zero agents (human-only results)
 - **Method:** stochastic simulation of the finite population exact where the nº states allows
-- **Plan:** Study 1 = RQ1, study 2 = RQ2, study 3 = RQ3
+- **Plan:** Study 1 = RQ1, study 2 = RQ2, study 3 = RQ3 (define tasks)
 
 #### Limitations
 
