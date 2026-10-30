@@ -50,8 +50,8 @@ Having established the research questions, we now move on to designing the model
 	- **Fixed:** always cooperate/defect regardless of opponent
 	- **Heuristic:** conditionally act depending on heuristic 
 		- Conformism: imitates the most frequent strategy
-		-<mark style="background:#fff88f"> Social Learning</mark>: imitates the highest fitness
-		- Aspiration: keeps action if aspiration met, and switches otherwise.
+		- <mark style="background:#fff88f">Social Learning</mark>: imitates the highest fitness
+		- <mark style="background:#ff4d4f">Aspiration</mark>: keeps action if aspiration met, and switches otherwise.
 	- **Deliberative:** more profound reasoning (uses kind to make decision)
 		- Counterfactual Thinking: retrospection to compare alternatives
 		- <mark style="background:#fff88f">Theory of Mind</mark>: models opponent mind to take action
