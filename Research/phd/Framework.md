@@ -50,11 +50,11 @@ Having established the research questions, we now move on to designing the model
 	- **Fixed:** always cooperate/defect regardless of opponent
 	- **Heuristic:** conditionally act depending on heuristic 
 		- Conformism: imitates the most frequent strategy
-		- Social Learning: imitates the highest fitness
+		-<mark style="background:#fff88f"> Social Learning</mark>: imitates the highest fitness
 		- Aspiration: keeps action if aspiration met, and switches otherwise.
 	- **Deliberative:** more profound reasoning (uses kind to make decision)
 		- Counterfactual Thinking: retrospection to compare alternatives
-		- Theory of Mind: models opponent mind to take action
+		- <mark style="background:#fff88f">Theory of Mind</mark>: models opponent mind to take action
 - **Reasoning cost:** AI has lower cost than humans (explicit on payoff matrix)
 - **Memory:** AI has larger memory compared to humans (used in deliberative reasoning)
 
