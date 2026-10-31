@@ -1,0 +1,91 @@
+% =====================================================================
+% Background -- LaTeX copy of research/phd/Background.md
+% Converted 2026-10-31 from the vault version of that day. No wording
+% changed. Left out: the "To add to Zotero" list and the commented-out
+% original skeleton at the end of the note.
+%
+% Citations: \cite{} with your Zotero citekeys, plus placeholder keys for
+% references not in Zotero yet (all entries are in state-of-the-art.bib):
+%   Bear2016, Camerer2004, Cardillo2010, Eshel1982, Fudenberg2006
+%   Gigerenzer2011, Huberman1993, Kotseruba2020, Macy2002, Masuda2012
+%   MaynardSmith1973, Nowak2004, Nowak2006, Ohtsuki2006, Roca2006
+%   Roca2009, Santos2006b, Szabo1998, Taylor1978, Traulsen2006
+%
+% Tables need \usepackage{booktabs,tabularx} in the preamble.
+% Labels: tab:dilemmas, tab:profiles, eq:pairwise.
+% =====================================================================
+
+\section{Background}
+\label{sec:background}
+
+\subsection{Social dilemmas}
+
+The simplest model of cooperation is a symmetric game in which each of two players either cooperates (C) or defects (D). Mutual cooperation yields the reward $R$ to both players and mutual defection the punishment $P$, while a cooperator facing a defector receives the sucker's payoff $S$ and the defector the temptation $T$. The game is a social dilemma when mutual cooperation is better than mutual defection ($R>P$) but each player has an incentive to defect: greed, when exploiting a cooperator pays more than cooperating with it ($T>R$), or fear, when being exploited pays less than defecting ($P>S$)~\cite{Macy2002}. Which incentives are present defines the three games in Table~\ref{tab:dilemmas}. It is common to fix $R=1$ and $P=0$, so that each game is a region of the plane spanned by $T$ and $S$~\cite{Santos2006b}.
+
+\begin{table}[htbp]
+\centering
+\small
+\caption{The three social dilemmas used in this thesis.}
+\label{tab:dilemmas}
+\begin{tabularx}{\textwidth}{@{}>{\raggedright\arraybackslash}p{0.17\textwidth}l>{\raggedright\arraybackslash}p{0.11\textwidth}>{\raggedright\arraybackslash}p{0.11\textwidth}>{\raggedright\arraybackslash}X@{}}
+\toprule
+Game & Payoff order & Incentive to defect & Best reply to C / to D & Infinite well-mixed population \\
+\midrule
+Prisoner's dilemma (PD) & $T>R>P>S$ & greed and fear & D / D & defection dominates \\
+Stag hunt (SH) & $R>T>P>S$ & fear & C / D & all cooperate or all defect, depending on the initial share of cooperators (bistability) \\
+Snowdrift game (SG) & $T>R>S>P$ & greed & D / C & cooperators and defectors coexist \\
+\bottomrule
+\end{tabularx}
+\end{table}
+
+The three games differ in how the best reply depends on the partner. For a player who maximizes its own payoff, defection is the best reply in the PD whatever the partner does, whereas in the SH the best reply is to match the partner's action, and in the SG to do the opposite. Anticipating a partner's action can therefore change the best action in the SH and the SG, but not in the PD, which is why the PD serves as a control in this thesis. Individuals may also weigh their partner's payoff against their own~\cite{guoEngineeringOptimalCooperation2024}. Humans are assumed to give it no weight, and only then is the PD a control: at intermediate weights, the best reply in the PD depends on the partner's action. Repeated, group and fairness games appear in the State of the Art, such as the public goods game, in which contributions to a common pool are multiplied and shared; the collective-risk dilemma, in which a group must reach a contribution target to avoid a probable collective loss; and the ultimatum game, in which a responder accepts or rejects a proposer's split of a sum, but this thesis uses one-shot pairwise games.
+
+\subsection{Evolutionary game theory}
+
+Evolutionary game theory asks which strategies spread in a population when more successful strategies become more common, through reproduction in biology or imitation in social settings~\cite{MaynardSmith1973}. In an infinite well-mixed population this process is described by the replicator dynamics, under which the share of a strategy grows when its payoff exceeds the population average~\cite{Taylor1978}, and which lead to the outcomes in Table~\ref{tab:dilemmas}.
+
+In finite populations, strategy changes are noisy and the process becomes stochastic. Under the pairwise comparison rule, an individual $A$ picks a random role model $B$ and adopts its strategy with probability
+\begin{equation}
+p_{A\leftarrow B}=\frac{1}{1+e^{-\beta(\pi_B-\pi_A)}},
+\label{eq:pairwise}
+\end{equation}
+where $\pi_A$ and $\pi_B$ are their payoffs~\cite{Szabo1998, Traulsen2006}. The intensity of selection $\beta\geq 0$, also called imitation strength, sets how closely imitation follows payoffs: under weak selection ($\beta\to 0$) imitation is almost random, and under strong selection ($\beta\to\infty$) individuals copy only role models that earn more. With a small probability $\mu$, an individual instead adopts a random strategy, which represents exploration or error.
+
+The number of individuals using each strategy then changes as a Markov chain. Without exploration, the population ends up in a state where everyone uses the same strategy, and the probability that a strategy introduced by a single individual takes over, its fixation probability, measures whether selection favors it~\cite{Nowak2004}. With exploration, the population never settles, and the stationary distribution gives the long-run share of time spent in each state, and hence the average level of cooperation. When exploration is rare, this distribution can be computed from the transitions between homogeneous states alone~\cite{Fudenberg2006}. These quantities are computed exactly when the number of states allows it, as in populations that mix update rules~\cite{fernandesCounterfactualThinkingStochastic2024}, and estimated by simulation otherwise.
+
+Two further choices shape the dynamics. The first is when individuals revise: all at once (synchronous updating) or one at a time (asynchronous updating), as in the Moran process~\cite{Nowak2004}. In structured populations this choice can decide whether cooperation survives~\cite{Huberman1993}, and so can the order of events within asynchronous updating. On graphs, cooperation can be favored when a random individual dies and is replaced by the offspring of a neighbor chosen according to payoff (death-birth), but not when an individual is first chosen according to payoff to reproduce and its offspring replaces a random neighbor (birth-death)~\cite{Ohtsuki2006}. In well-mixed populations these choices matter less~\cite{Roca2009}, although the outcome still depends on how many interactions take place between revisions~\cite{Roca2006}.
+
+The second choice is with whom individuals interact. In a well-mixed population every pair is equally likely to meet, whereas on a network individuals meet only their neighbors and the outcome depends on the network's structure~\cite{allenEvolutionaryDynamicsAny2017}. Between these extremes, assortment is the excess probability of meeting one's own type, and it favors cooperation when it brings cooperators together~\cite{Eshel1982}. In a hybrid population, assortment can also be by kind: homophilic when individuals meet their own kind more often than chance would predict, and heterophilic when they meet the other kind more often.
+
+The mechanisms through which cooperation can evolve fall into five classes: kin selection, direct reciprocity, indirect reciprocity, network reciprocity and group selection~\cite{Nowak2006}. A well-mixed population playing one-shot games without reputations has none of them, so selection favors defection in the PD. This is the human-only baseline against which the effect of artificial agents is measured.
+
+\subsection{Cognitive profiles}
+
+Most evolutionary models describe an individual only by its strategy, the action it takes, and let all individuals revise it with the same update rule, usually payoff-based imitation. This thesis also describes each individual by its cognitive profile, the rule by which it chooses an action and revises that choice. The two levels are kept apart: under a given profile actions change all the time, whereas profiles change only through cognitive evolution, in which profiles rather than actions are copied or selected~\cite{Cardillo2010, Bear2016}.
+
+We speak of cognitive profiles rather than cognitive architectures, a term that in artificial intelligence denotes complete models of the mind~\cite{Kotseruba2020}, most of which a population model does not represent. Many frameworks have been proposed to describe artificial agents~\cite{allmendingerMultiagentAI2026}, emphasizing aspects as different as the interface between agent and environment~\cite{stahleDesignSpaceIntelligent2025}, communication~\cite{borghoffHumanartificialInteractionAge2025} and machine behavior~\cite{rahwanMachineBehaviour2019}. We adopt the social interaction scale of the OECD AI Capability Indicators~\cite{oecdIntroducingOECDAI2025}, which separates an agent's core components (embodiment, social memory and identity) from its social skills (communication, affective skills, social perception and social problem solving), and orders its decision process by sophistication, from pre-set responses, through learning from past interactions, to inferring others' intent and weighing alternative courses of action. Our model represents the decision process and identity, and leaves out embodiment, social memory, affect and communication.
+
+To place a rule on this scale, we ask what information it uses (Table~\ref{tab:profiles}), in line with the view of a heuristic as a strategy that ignores part of the available information~\cite{Gigerenzer2011}. Fixed policies use no information beyond, at most, the partner's observable action, and are never revised; unconditional ones are what evolutionary models call zealots~\cite{Masuda2012}. Heuristic update rules revise the action from outcomes, observed in others or experienced by the individual itself, without a model of the game or of the partner. Model-free reinforcement learning, which revises the action from the individual's own past payoffs, also belongs to this level~\cite{guoEngineeringOptimalCooperation2024, quanHumanMachineCooperation2026}. Deliberative mechanisms use a model of the game, of the partner, or of both. They are usually costlier to apply, and whether deliberation spreads depends on whether its benefit outweighs its cost~\cite{Bear2016}. The scale therefore classifies decision processes, not technologies: the same agent based on a large language model can be fixed, heuristic or deliberative, depending on what it uses to decide and whether it revises its behavior.
+
+\begin{table}[htbp]
+\centering
+\small
+\caption{The cognitive profiles considered in this thesis.}
+\label{tab:profiles}
+\begin{tabularx}{\textwidth}{@{}>{\raggedright\arraybackslash}p{0.12\textwidth}>{\raggedright\arraybackslash}p{0.15\textwidth}>{\raggedright\arraybackslash}p{0.2\textwidth}>{\raggedright\arraybackslash}X@{}}
+\toprule
+Level & Rule & Information used & How the action is chosen or revised \\
+\midrule
+Fixed & Unconditional policy & none & always the same action, e.g.\ always cooperate \\
+Heuristic & Payoff-based imitation & others' actions and payoffs & copies a role model by the pairwise comparison rule \\
+Heuristic & Conformity & others' actions & adopts the most common action among those observed~\cite{szolnokiConformityEnhancesNetwork2015} \\
+Heuristic & Aspiration & own payoff & keeps its action if the payoff meets an aspiration level, and switches otherwise~\cite{duAspirationDynamicsMultiplayer2014} \\
+Deliberative & Counterfactual thinking & own payoff, the partners' actions and the game & tends to switch if the other action would have earned more against the same partners~\cite{pereiraCounterfactualThinkingCooperation2019, coutoIntrospectionDynamicsSimple2022} \\
+Deliberative & Theory of mind & the game and a model of the partner & best-replies to its partner's predicted action, modeling the partner as a reasoner of lower depth~\cite{Camerer2004, yoshidaGameTheoryMind2008} \\
+\bottomrule
+\end{tabularx}
+\end{table}
+
+\subsection{Hybrid populations}
+
+A hybrid population is one in which humans and artificial agents interact in the same games~\cite{hanSocialPhysicsAge2026}. The term has also been used for populations that mix update rules without artificial agents~\cite{fernandesCounterfactualThinkingStochastic2024}, but here it always refers to these two kinds of individual. An individual's kind is distinct from its strategy and its profile: it does not change, and it may or may not be visible to others. The two kinds play the same games but may differ in their profiles, in whether and when they revise, and in whom they learn from. They may also differ in the information they revise from. A human revises from its own experience, which we call local information, whereas an AI system trained on the interactions of many users, as a language model is, can revise from the experience of all agents of its kind, which we call global information~\cite{pedreschiHumanAICoevolution2025}. If individuals learn only from their own kind, the kinds evolve as two coupled populations; if they also learn from the other kind, as one population with two types. The State of the Art reviews how existing models separate the two kinds, and the Framework states the differences assumed here.
