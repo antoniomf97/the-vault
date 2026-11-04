@@ -1,8 +1,9 @@
 ---
-Title: "Machine behaviour"
+Title: Machine behaviour
 Year: 2019
 Authors: Iyad Rahwan, Manuel Cebrian, Nick Obradovich, Josh Bongard, Jean-François Bonnefon, Cynthia Breazeal, Jacob W. Crandall, Nicholas A. Christakis, Iain D. Couzin, Matthew O. Jackson, Nicholas R. Jennings, Ece Kamar, Isabel M. Kloumann, Hugo Larochelle, David Lazer, Richard McElreath, Alan Mislove, David C. Parkes, Alex ‘Sandy’ Pentland, Margaret E. Roberts, Azim Shariff, Joshua B. Tenenbaum, Michael Wellman
-Tags: [AI Design]
+Tags:
+  - /read
 URL: https://www.nature.com/articles/s41586-019-1138-y
 aliases:
   - Machine behaviour
