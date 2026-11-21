@@ -62,7 +62,7 @@ Having established the research questions, we now move on to designing the model
 
 - **RQ1:** reasoning profiles do not change over time
 - **RQ2:** human profiles change over time
-	- **open:** a human's profile changes either by copying the profile of someone who earned more, or on meeting an agent
+	- **open:** a human's profile changes either by copying the profile of someone who earned more, or by meeting an agent
 - **RQ3:** both human and AI profiles change over time
 	- AI uses global knowledge to evolve; humans use local knowledge
 	
