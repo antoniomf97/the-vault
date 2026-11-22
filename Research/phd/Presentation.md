@@ -21,5 +21,5 @@
 # Speech
 
 **Slide 1.**
-Hello everyone! Welcome to my presentation of my cat on "AI cognition"
+Hello everyone! Welcome to my presentation on my cat on "AI cognition and the evolution of cooperation in human-AI hybrid populations"
 
