@@ -21,5 +21,5 @@
 # Speech
 
 **Slide 1.**
-Hello everyone! Welcome to my CAT presentation.
+Hello everyone! Welcome to my presentation of my cat on "AI cognition"
 
