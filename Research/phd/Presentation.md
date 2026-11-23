@@ -1,4 +1,4 @@
-**Title:** AI Cognition and the Evolution of Cooperation in Human-AI Hybrid Populations
+ **Title:** AI Cognition and the Evolution of Cooperation in Human-AI Hybrid Populations
 **Duration:** 20 min
 
 ### Slides
