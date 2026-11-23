@@ -31,4 +31,8 @@ The decisions that any agent takes in any interaction will depend on how they re
 And over time, these interactions will change not only how humans reason but also how they themselves reason.
 
 **Slide 3**
-C
+We know that AI already changes how much humans cooperate, even when following fixed rules.
+However, the direction and magnitude of these effects depend on many contingencies, as seen in many different works.
+While these results assume fixed rules, AI is currently being deployed with more advanced reasoning, and it keeps changing.
+
+So this brings up the question: if even fixed agents can push cooperation either way, what happens when they reason? and when both sides keep chaning?
