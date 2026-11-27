@@ -1,0 +1,109 @@
+% =====================================================================
+% Framework -- LaTeX version of research/phd/Framework.md (2026-11-01)
+%
+% Research questions: the note's text, with three slips fixed:
+%   "identified previously on the state of the art" -> "identified in the
+%   State of the Art"; "profiles evolves" -> "profiles evolve"; "on which our
+%   results will be built on" -> "on which our results will be built".
+% Model: the intro paragraph as in the note (same fix); the bullets become
+%   Table tab:model and three short paragraphs. Changes from the note:
+%   - "social learning: imitates the highest fitness" is payoff-based
+%     imitation, as in the Background (imitating the highest payoff is a
+%     different rule);
+%   - the memory line is gone; social memory and communication are under
+%     "not modeled", as the Background already says;
+%   - the weight on the partner's payoff is listed under the individuals;
+%   - the cost of reasoning is a parameter for each kind.
+% Lines starting with "% OPEN" are decisions still to take.
+%
+% Needs \usepackage{booktabs,tabularx}. Refers to background.tex
+% (sec:background, tab:profiles). Citations are in state-of-the-art.bib.
+% =====================================================================
+
+\section{Framework}
+\label{sec:framework}
+
+\subsection{Research questions}
+
+This thesis addresses the two parts of the gap identified in the State of the Art. It investigates how the cognitive profiles of artificial agents, from fixed policies to heuristic and deliberative mechanisms, affect the evolution of cooperation in hybrid human-AI societies, first with all profiles held fixed, then letting those of humans evolve, and finally letting those of artificial agents change as well. Each step corresponds to one research question.
+
+\textbf{RQ1:} Compared with a human-only population, how do the cognitive profiles of artificial agents (fixed, heuristic or deliberative) affect the emergence, stability and evolution of cooperation, and how do the population structure (share of agents) and the dynamics (game protocols, assortment between kinds) change the direction and magnitude of these effects?
+
+\textit{Expected contribution:} a model of hybrid populations in which artificial agents carry fixed, heuristic or deliberative profiles within a single framework, and a map of the conditions under which each profile raises, lowers or leaves unchanged cooperation among humans.
+
+\textbf{RQ2:} When the humans' cognitive profiles evolve over time, which profiles spread among humans under each kind of artificial agent, and do the answers to RQ1 still hold?
+
+\textit{Expected contribution:} a model in which the humans' profiles evolve, showing which profiles spread under each kind of artificial agent and whether conclusions obtained with a fixed human update rule survive.
+
+\textbf{RQ3 (extension):} When the artificial agents' cognitive profiles are also revised over time, which combinations of human and artificial profiles persist, and do the answers to RQ2 still hold?
+
+\textit{Expected contribution:} if time allows, a first co-evolutionary model, identifying which combinations of human and artificial profiles persist.
+
+Together, these contributions are expected to show which cognitive profiles of artificial agents support or undermine cooperation among humans, under which conditions, and whether that answer survives once humans adapt to them. This gives those who design, deploy and regulate artificial agents a basis for anticipating their effects on human societies.
+
+\subsection{Model}
+
+Having established the research questions, we now move on to designing the model on which our results will be built. Within evolutionary game theory, we model a hybrid population of humans and artificial agents who interact in cooperation games. Every individual carries a cognitive profile, that is, a rule for choosing an action and for revising that choice. The profile of the artificial agents is set by design and is the quantity we compare, while a human-only population serves as the baseline. The three research questions use the same model and relax one assumption at a time. In RQ1 all profiles are held fixed, in RQ2 those of humans evolve, and in RQ3 those of artificial agents are revised as well. We explicitly specify the model along the four dimensions used in the review, population structure, dynamics structure, agent design and cognitive evolution, stating for each what is varied and what is held fixed, the latter being the limitations of this work.
+
+Table~\ref{tab:model} summarizes these choices. Its first part describes the population and its dynamics, which are the same for every individual; its second part describes the individuals, separately for humans and artificial agents. Everything is held equal between the two kinds except where the two columns differ, so that a change in cooperation can be traced to those rows. Time runs asynchronously: at each step, one individual, human or artificial, may revise its action according to its profile (Table~\ref{tab:profiles}), taking as role models any individual it observes, of either kind.
+% OPEN: how many games each individual plays between two revisions, and
+% whether payoffs are summed or averaged (Roca2006: in a well-mixed
+% population this changes the outcome of the SH and the SG); the
+% exploration rate mu.
+
+\begin{table}[htbp]
+\centering
+\small
+\caption{The model. The first part applies to every individual; the second gives each choice for humans and for artificial agents, in one cell where the two agree. Choices that are held fixed are limitations of this work.}
+\label{tab:model}
+\begin{tabularx}{\textwidth}{@{}>{\raggedright\arraybackslash}p{0.2\textwidth}>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}X@{}}
+\toprule
+\multicolumn{3}{@{}l}{\textbf{Population and dynamics}} \\
+ & \textit{Choice} & \textit{Varied} \\
+\midrule
+Kinds & humans and artificial agents; an individual's kind never changes & --- \\
+Network & well-mixed & --- \\
+Size & finite, of the order of $10^2$ to $10^3$ individuals & --- \\
+Share of artificial agents & & from 0 to 99\% \\
+Game & one-shot, pairwise & prisoner's dilemma (control), stag hunt (coordination), snowdrift game (coexistence) \\
+Update schedule & asynchronous: one individual revises per time step & --- \\
+\midrule
+\multicolumn{3}{@{}l}{\textbf{Individuals}} \\
+ & \textit{Humans} & \textit{Artificial agents} \\
+\midrule
+Cognitive profile & payoff-based imitation; evolves in RQ2 and RQ3 & all fixed, all heuristic or all deliberative (Table~\ref{tab:profiles}); revised in RQ3 \\
+Partner's kind & \multicolumn{2}{>{\raggedright\arraybackslash}p{\dimexpr0.8\textwidth-2\tabcolsep\relax}@{}}{seen by every individual; used only by deliberative profiles} \\
+Role models & \multicolumn{2}{>{\raggedright\arraybackslash}p{\dimexpr0.8\textwidth-2\tabcolsep\relax}@{}}{anyone observed, human or artificial agent} \\
+Whom they meet & homophilic, well-mixed or heterophilic (varied) & well-mixed \\
+Weight on the partner's payoff & 0 & $w\geq 0$ (varied); a positive weight favors cooperation \\
+Cost of reasoning, subtracted from the payoff & $c_H$ & $c_A$ (varied) \\
+Profile revision & in RQ2 and RQ3: copies the profile of someone who earned more, or changes on meeting an agent (to be decided) & in RQ3 only \\
+Information used to revise & local: its own experience & global: the experience of all agents of its kind \\
+\midrule
+Not modeled & \multicolumn{2}{>{\raggedright\arraybackslash}p{\dimexpr0.8\textwidth-2\tabcolsep\relax}@{}}{institutions, reputation, roles, affect, embodiment, social memory, communication, errors of perception} \\
+\bottomrule
+\end{tabularx}
+\end{table}
+% OPEN: which profiles pay the cost of reasoning, and how much (the note
+% said agents pay less than humans; here that is one setting of c_A).
+% OPEN: the note says "AI vary (well-mixed); humans vary
+% (homophilic/heterophilic/well-mixed)"; read here as: agents meet partners
+% at random, humans' preference for their own kind is varied. The matching
+% rule that turns that preference into pair frequencies is still to write.
+
+Cognitive profiles change only in RQ2 and RQ3. In RQ2, the humans' profiles evolve while the agents' stay fixed: a human's profile changes either by copying the profile of someone who earned more, or on meeting an agent, and which of the two the model uses is still to be decided. In RQ3, the agents' profiles are revised as well, and the two kinds revise from different information: a human from local information, its own experience, and an artificial agent from global information, the experience of all agents of its kind~\cite{pedreschiHumanAICoevolution2025}.
+% OPEN (Rui's comment 4): the RQ2 rule above, and for each kind the
+% evidence that its profile changes this way and how often. Candidates from
+% the 9 Oct session: humans copy profiles that earned more, more slowly than
+% they change actions (Cardillo2010, Bear2016); agents change by release,
+% all copies at once, from pooled data.
+% OPEN: whether global information applies only when profiles are revised
+% (RQ3) or also when heuristic agents revise actions (RQ1).
+
+We measure the three properties of cooperation named in the research questions: its emergence, the cooperation reached from a population in which everyone defects; its stability, the cooperation kept from a population in which everyone cooperates; and its evolution, its long-run average level. The model is checked in two limits: with fixed agents it should reproduce the results of~\cite{sharmaSmallBotsBig2023, guoFacilitatingCooperationHumanagent2023}, and with no agents those of a human-only population (Section~\ref{sec:background}). Results are obtained by stochastic simulation of the finite population, and computed exactly where the number of states allows. The work is organized in three studies, one per research question.
+% OPEN: with exploration, the long run does not depend on where it started,
+% so "reached from" and "kept from" need a time horizon, or a definition as
+% fixation probabilities (Nowak2004), with the stationary distribution giving
+% the long-run level (Fudenberg2006).
+% TODO: the tasks of each study (the note says "define tasks"); the CAT has
+% no work-plan chapter yet.

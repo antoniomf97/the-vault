@@ -1,8 +1,9 @@
 ---
-Title: "On the Utility of Learning about Humans for Human-AI Coordination"
+Title: On the Utility of Learning about Humans for Human-AI Coordination
 Year: 2019
 Authors: Micah Carroll, Rohin Shah, Mark K. Ho, Thomas L. Griffiths, Sanjit A. Seshia, Pieter Abbeel, Anca Dragan
-Tags: [Hybrid Dyadic, Coordination]
+Tags:
+  - Coordination
 URL: https://arxiv.org/abs/1910.05789
 aliases:
   - On the Utility of Learning about Humans for Human-AI Coordination
